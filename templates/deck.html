@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ level }} Flashcards</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div id="progress" class="progress"></div>
+
+<div id="card" class="card">
+    <div class="card-inner">
+        <div class="card-face card-front"></div>
+        <div class="card-face card-back"></div>
+    </div>
+</div>
+
+<script>
+    const LEVEL = "{{ level }}";
+</script>
+<script src="/static/app.js"></script>
+
+</body>
+</html>

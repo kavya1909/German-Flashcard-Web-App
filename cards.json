@@ -1,0 +1,7560 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "german": "gehen",
+    "english": "to go",
+    "example": "Ich gehe jeden Tag zur Schule.",
+    "ease": 3.0999999999999996
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "german": "kommen",
+    "english": "to come",
+    "example": "Er kommt aus Deutschland.",
+    "ease": 1.3
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "german": "sehen",
+    "english": "to see",
+    "example": "Ich sehe einen Hund.",
+    "ease": 2.4
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "german": "sprechen",
+    "english": "to speak",
+    "example": "Wir sprechen Deutsch.",
+    "ease": 2.0
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "german": "lernen",
+    "english": "to learn",
+    "example": "Ich lerne Deutsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "german": "arbeiten",
+    "english": "to work",
+    "example": "Ich arbeite im Büro.",
+    "ease": 2.5
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "german": "wohnen",
+    "english": "to live",
+    "example": "Ich wohne in Berlin.",
+    "ease": 2.5
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "german": "essen",
+    "english": "to eat",
+    "example": "Wir essen zusammen.",
+    "ease": 2.5
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "german": "trinken",
+    "english": "to drink",
+    "example": "Ich trinke Wasser.",
+    "ease": 2.5
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "german": "schlafen",
+    "english": "to sleep",
+    "example": "Ich schlafe gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "german": "fahren",
+    "english": "to drive",
+    "example": "Ich fahre nach Hause.",
+    "ease": 2.5
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "german": "laufen",
+    "english": "to run",
+    "example": "Das Kind läuft schnell.",
+    "ease": 2.5
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "german": "machen",
+    "english": "to make",
+    "example": "Ich mache meine Hausaufgaben.",
+    "ease": 2.5
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "german": "haben",
+    "english": "to have",
+    "example": "Ich habe einen Bruder.",
+    "ease": 2.5
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "german": "sein",
+    "english": "to be",
+    "example": "Ich bin Student.",
+    "ease": 2.5
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "german": "finden",
+    "english": "to find",
+    "example": "Ich finde den Schlüssel.",
+    "ease": 2.5
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "german": "denken",
+    "english": "to think",
+    "example": "Ich denke an dich.",
+    "ease": 2.5
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "german": "fragen",
+    "english": "to ask",
+    "example": "Ich frage den Lehrer.",
+    "ease": 2.5
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "german": "antworten",
+    "english": "to answer",
+    "example": "Sie antwortet schnell.",
+    "ease": 2.5
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "german": "helfen",
+    "english": "to help",
+    "example": "Ich helfe dir.",
+    "ease": 2.5
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "german": "spielen",
+    "english": "to play",
+    "example": "Wir spielen Fußball.",
+    "ease": 2.5
+  },
+  {
+    "id": 22,
+    "level": "A1",
+    "german": "lesen",
+    "english": "to read",
+    "example": "Ich lese ein Buch.",
+    "ease": 2.5
+  },
+  {
+    "id": 23,
+    "level": "A1",
+    "german": "schreiben",
+    "english": "to write",
+    "example": "Ich schreibe eine E-Mail.",
+    "ease": 2.5
+  },
+  {
+    "id": 24,
+    "level": "A1",
+    "german": "hören",
+    "english": "to hear",
+    "example": "Ich höre Musik.",
+    "ease": 2.5
+  },
+  {
+    "id": 25,
+    "level": "A1",
+    "german": "sehen",
+    "english": "to watch",
+    "example": "Wir sehen einen Film.",
+    "ease": 2.5
+  },
+  {
+    "id": 26,
+    "level": "A1",
+    "german": "kaufen",
+    "english": "to buy",
+    "example": "Ich kaufe Brot.",
+    "ease": 2.5
+  },
+  {
+    "id": 27,
+    "level": "A1",
+    "german": "bezahlen",
+    "english": "to pay",
+    "example": "Ich bezahle mit Karte.",
+    "ease": 2.5
+  },
+  {
+    "id": 28,
+    "level": "A1",
+    "german": "öffnen",
+    "english": "to open",
+    "example": "Ich öffne die Tür.",
+    "ease": 2.5
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "german": "schließen",
+    "english": "to close",
+    "example": "Er schließt das Fenster.",
+    "ease": 2.5
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "german": "bleiben",
+    "english": "to stay",
+    "example": "Ich bleibe zu Hause.",
+    "ease": 2.5
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "german": "bringen",
+    "english": "to bring",
+    "example": "Ich bringe das Buch.",
+    "ease": 2.5
+  },
+  {
+    "id": 32,
+    "level": "A1",
+    "german": "holen",
+    "english": "to fetch",
+    "example": "Ich hole das Kind ab.",
+    "ease": 2.5
+  },
+  {
+    "id": 33,
+    "level": "A1",
+    "german": "beginnen",
+    "english": "to begin",
+    "example": "Der Kurs beginnt heute.",
+    "ease": 2.5
+  },
+  {
+    "id": 34,
+    "level": "A1",
+    "german": "enden",
+    "english": "to end",
+    "example": "Der Film endet spät.",
+    "ease": 2.5
+  },
+  {
+    "id": 35,
+    "level": "A1",
+    "german": "lieben",
+    "english": "to love",
+    "example": "Ich liebe Kaffee.",
+    "ease": 2.5
+  },
+  {
+    "id": 36,
+    "level": "A1",
+    "german": "mögen",
+    "english": "to like",
+    "example": "Ich mag Musik.",
+    "ease": 2.5
+  },
+  {
+    "id": 37,
+    "level": "A1",
+    "german": "brauchen",
+    "english": "to need",
+    "example": "Ich brauche Hilfe.",
+    "ease": 2.5
+  },
+  {
+    "id": 38,
+    "level": "A1",
+    "german": "versuchen",
+    "english": "to try",
+    "example": "Ich versuche es.",
+    "ease": 2.5
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "german": "wissen",
+    "english": "to know",
+    "example": "Ich weiß das.",
+    "ease": 2.5
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "german": "kennen",
+    "english": "to know (someone)",
+    "example": "Ich kenne ihn.",
+    "ease": 2.5
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "german": "fragen",
+    "english": "to ask",
+    "example": "Ich frage nach dem Weg.",
+    "ease": 2.5
+  },
+  {
+    "id": 42,
+    "level": "A1",
+    "german": "zeigen",
+    "english": "to show",
+    "example": "Sie zeigt das Bild.",
+    "ease": 2.5
+  },
+  {
+    "id": 43,
+    "level": "A1",
+    "german": "lernen",
+    "english": "to study",
+    "example": "Ich lerne für die Prüfung.",
+    "ease": 2.5
+  },
+  {
+    "id": 44,
+    "level": "A1",
+    "german": "arbeiten",
+    "english": "to work",
+    "example": "Er arbeitet viel.",
+    "ease": 2.5
+  },
+  {
+    "id": 45,
+    "level": "A1",
+    "german": "reisen",
+    "english": "to travel",
+    "example": "Wir reisen nach Deutschland.",
+    "ease": 2.5
+  },
+  {
+    "id": 46,
+    "level": "A1",
+    "german": "wohnen",
+    "english": "to reside",
+    "example": "Sie wohnt hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 47,
+    "level": "A1",
+    "german": "heißen",
+    "english": "to be called",
+    "example": "Ich heiße Anna.",
+    "ease": 2.5
+  },
+  {
+    "id": 48,
+    "level": "A1",
+    "german": "leben",
+    "english": "to live",
+    "example": "Wir leben in der Stadt.",
+    "ease": 2.5
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "german": "sagen",
+    "english": "to say",
+    "example": "Er sagt nichts.",
+    "ease": 2.5
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "german": "hören",
+    "english": "to listen",
+    "example": "Ich höre dir zu.",
+    "ease": 2.5
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "german": "gehen",
+    "english": "to walk",
+    "example": "Wir gehen im Park.",
+    "ease": 2.5
+  },
+  {
+    "id": 52,
+    "level": "A1",
+    "german": "stehen",
+    "english": "to stand",
+    "example": "Ich stehe an der Tür.",
+    "ease": 2.5
+  },
+  {
+    "id": 53,
+    "level": "A1",
+    "german": "sitzen",
+    "english": "to sit",
+    "example": "Er sitzt auf dem Stuhl.",
+    "ease": 2.5
+  },
+  {
+    "id": 54,
+    "level": "A1",
+    "german": "liegen",
+    "english": "to lie",
+    "example": "Das Buch liegt auf dem Tisch.",
+    "ease": 2.5
+  },
+  {
+    "id": 55,
+    "level": "A1",
+    "german": "kommen",
+    "english": "to arrive",
+    "example": "Der Zug kommt pünktlich.",
+    "ease": 2.5
+  },
+  {
+    "id": 56,
+    "level": "A1",
+    "german": "der Mann",
+    "english": "the man",
+    "example": "Der Mann arbeitet hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 57,
+    "level": "A1",
+    "german": "die Frau",
+    "english": "the woman",
+    "example": "Die Frau liest ein Buch.",
+    "ease": 2.5
+  },
+  {
+    "id": 58,
+    "level": "A1",
+    "german": "das Kind",
+    "english": "the child",
+    "example": "Das Kind spielt draußen.",
+    "ease": 2.5
+  },
+  {
+    "id": 59,
+    "level": "A1",
+    "german": "der Freund",
+    "english": "the friend",
+    "example": "Mein Freund ist nett.",
+    "ease": 2.5
+  },
+  {
+    "id": 60,
+    "level": "A1",
+    "german": "die Familie",
+    "english": "the family",
+    "example": "Meine Familie ist groß.",
+    "ease": 2.5
+  },
+  {
+    "id": 61,
+    "level": "A1",
+    "german": "das Haus",
+    "english": "the house",
+    "example": "Das Haus ist alt.",
+    "ease": 2.5
+  },
+  {
+    "id": 62,
+    "level": "A1",
+    "german": "die Wohnung",
+    "english": "the apartment",
+    "example": "Die Wohnung ist klein.",
+    "ease": 2.5
+  },
+  {
+    "id": 63,
+    "level": "A1",
+    "german": "das Zimmer",
+    "english": "the room",
+    "example": "Das Zimmer ist hell.",
+    "ease": 2.5
+  },
+  {
+    "id": 64,
+    "level": "A1",
+    "german": "die Schule",
+    "english": "the school",
+    "example": "Die Schule beginnt um acht.",
+    "ease": 2.5
+  },
+  {
+    "id": 65,
+    "level": "A1",
+    "german": "die Arbeit",
+    "english": "the work",
+    "example": "Die Arbeit macht Spaß.",
+    "ease": 2.5
+  },
+  {
+    "id": 66,
+    "level": "A1",
+    "german": "der Tag",
+    "english": "the day",
+    "example": "Der Tag ist lang.",
+    "ease": 2.5
+  },
+  {
+    "id": 67,
+    "level": "A1",
+    "german": "die Nacht",
+    "english": "the night",
+    "example": "Die Nacht ist ruhig.",
+    "ease": 2.5
+  },
+  {
+    "id": 68,
+    "level": "A1",
+    "german": "der Morgen",
+    "english": "the morning",
+    "example": "Der Morgen ist kalt.",
+    "ease": 2.5
+  },
+  {
+    "id": 69,
+    "level": "A1",
+    "german": "der Abend",
+    "english": "the evening",
+    "example": "Der Abend ist schön.",
+    "ease": 2.5
+  },
+  {
+    "id": 70,
+    "level": "A1",
+    "german": "die Woche",
+    "english": "the week",
+    "example": "Die Woche ist kurz.",
+    "ease": 2.5
+  },
+  {
+    "id": 71,
+    "level": "A1",
+    "german": "gut",
+    "english": "good",
+    "example": "Das Essen ist gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 72,
+    "level": "A1",
+    "german": "schlecht",
+    "english": "bad",
+    "example": "Das Wetter ist schlecht.",
+    "ease": 2.5
+  },
+  {
+    "id": 73,
+    "level": "A1",
+    "german": "groß",
+    "english": "big",
+    "example": "Das Haus ist groß.",
+    "ease": 2.5
+  },
+  {
+    "id": 74,
+    "level": "A1",
+    "german": "klein",
+    "english": "small",
+    "example": "Der Hund ist klein.",
+    "ease": 2.5
+  },
+  {
+    "id": 75,
+    "level": "A1",
+    "german": "alt",
+    "english": "old",
+    "example": "Das Auto ist alt.",
+    "ease": 2.5
+  },
+  {
+    "id": 76,
+    "level": "A1",
+    "german": "neu",
+    "english": "new",
+    "example": "Das Handy ist neu.",
+    "ease": 2.5
+  },
+  {
+    "id": 77,
+    "level": "A1",
+    "german": "viel",
+    "english": "much / a lot",
+    "example": "Ich habe viel Arbeit.",
+    "ease": 2.5
+  },
+  {
+    "id": 78,
+    "level": "A1",
+    "german": "wenig",
+    "english": "little",
+    "example": "Ich habe wenig Zeit.",
+    "ease": 2.5
+  },
+  {
+    "id": 79,
+    "level": "A1",
+    "german": "heute",
+    "english": "today",
+    "example": "Heute lerne ich Deutsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 80,
+    "level": "A1",
+    "german": "morgen",
+    "english": "tomorrow",
+    "example": "Morgen arbeite ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 81,
+    "level": "A1",
+    "german": "gestern",
+    "english": "yesterday",
+    "example": "Gestern war ich zu Hause.",
+    "ease": 2.5
+  },
+  {
+    "id": 82,
+    "level": "A1",
+    "german": "hier",
+    "english": "here",
+    "example": "Ich bin hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 83,
+    "level": "A1",
+    "german": "dort",
+    "english": "there",
+    "example": "Das Auto steht dort.",
+    "ease": 2.5
+  },
+  {
+    "id": 84,
+    "level": "A1",
+    "german": "immer",
+    "english": "always",
+    "example": "Ich bin immer pünktlich.",
+    "ease": 2.5
+  },
+  {
+    "id": 85,
+    "level": "A1",
+    "german": "oft",
+    "english": "often",
+    "example": "Ich trinke oft Kaffee.",
+    "ease": 2.5
+  },
+  {
+    "id": 86,
+    "level": "A1",
+    "german": "manchmal",
+    "english": "sometimes",
+    "example": "Manchmal lese ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 87,
+    "level": "A1",
+    "german": "nie",
+    "english": "never",
+    "example": "Ich rauche nie.",
+    "ease": 2.5
+  },
+  {
+    "id": 88,
+    "level": "A1",
+    "german": "sehr",
+    "english": "very",
+    "example": "Das ist sehr gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 89,
+    "level": "A1",
+    "german": "auch",
+    "english": "also",
+    "example": "Ich komme auch.",
+    "ease": 2.5
+  },
+  {
+    "id": 90,
+    "level": "A1",
+    "german": "nur",
+    "english": "only",
+    "example": "Ich habe nur Zeit heute.",
+    "ease": 2.5
+  },
+  {
+    "id": 91,
+    "level": "A1",
+    "german": "mit",
+    "english": "with",
+    "example": "Ich komme mit dir.",
+    "ease": 2.5
+  },
+  {
+    "id": 92,
+    "level": "A1",
+    "german": "ohne",
+    "english": "without",
+    "example": "Ich trinke Kaffee ohne Zucker.",
+    "ease": 2.5
+  },
+  {
+    "id": 93,
+    "level": "A1",
+    "german": "für",
+    "english": "for",
+    "example": "Das Geschenk ist für dich.",
+    "ease": 2.5
+  },
+  {
+    "id": 94,
+    "level": "A1",
+    "german": "von",
+    "english": "from",
+    "example": "Ich komme von der Arbeit.",
+    "ease": 2.5
+  },
+  {
+    "id": 95,
+    "level": "A1",
+    "german": "bei",
+    "english": "at",
+    "example": "Ich bin bei meiner Mutter.",
+    "ease": 2.5
+  },
+  {
+    "id": 96,
+    "level": "A1",
+    "german": "und",
+    "english": "and",
+    "example": "Ich lerne und arbeite.",
+    "ease": 2.5
+  },
+  {
+    "id": 97,
+    "level": "A1",
+    "german": "oder",
+    "english": "or",
+    "example": "Tee oder Kaffee?",
+    "ease": 2.5
+  },
+  {
+    "id": 98,
+    "level": "A1",
+    "german": "aber",
+    "english": "but",
+    "example": "Ich komme, aber spät.",
+    "ease": 2.5
+  },
+  {
+    "id": 99,
+    "level": "A1",
+    "german": "weil",
+    "english": "because",
+    "example": "Ich bleibe, weil ich müde bin.",
+    "ease": 2.5
+  },
+  {
+    "id": 100,
+    "level": "A1",
+    "german": "wenn",
+    "english": "if / when",
+    "example": "Wenn es regnet, bleibe ich zu Hause.",
+    "ease": 2.5
+  },
+  {
+    "id": 101,
+    "level": "A1",
+    "german": "der Tisch",
+    "english": "the table",
+    "example": "Der Tisch ist aus Holz.",
+    "ease": 2.5
+  },
+  {
+    "id": 102,
+    "level": "A1",
+    "german": "der Stuhl",
+    "english": "the chair",
+    "example": "Der Stuhl ist bequem.",
+    "ease": 2.5
+  },
+  {
+    "id": 103,
+    "level": "A1",
+    "german": "das Bett",
+    "english": "the bed",
+    "example": "Das Bett ist groß.",
+    "ease": 2.5
+  },
+  {
+    "id": 104,
+    "level": "A1",
+    "german": "die Tür",
+    "english": "the door",
+    "example": "Die Tür ist offen.",
+    "ease": 2.5
+  },
+  {
+    "id": 105,
+    "level": "A1",
+    "german": "das Fenster",
+    "english": "the window",
+    "example": "Das Fenster ist zu.",
+    "ease": 2.5
+  },
+  {
+    "id": 106,
+    "level": "A1",
+    "german": "die Stadt",
+    "english": "the city",
+    "example": "Die Stadt ist schön.",
+    "ease": 2.5
+  },
+  {
+    "id": 107,
+    "level": "A1",
+    "german": "das Land",
+    "english": "the country",
+    "example": "Deutschland ist ein Land.",
+    "ease": 2.5
+  },
+  {
+    "id": 108,
+    "level": "A1",
+    "german": "der Platz",
+    "english": "the square",
+    "example": "Der Platz ist voll.",
+    "ease": 2.5
+  },
+  {
+    "id": 109,
+    "level": "A1",
+    "german": "der Weg",
+    "english": "the way",
+    "example": "Der Weg ist lang.",
+    "ease": 2.5
+  },
+  {
+    "id": 110,
+    "level": "A1",
+    "german": "die Straße",
+    "english": "the street",
+    "example": "Die Straße ist breit.",
+    "ease": 2.5
+  },
+  {
+    "id": 111,
+    "level": "A1",
+    "german": "das Auto",
+    "english": "the car",
+    "example": "Das Auto ist neu.",
+    "ease": 2.5
+  },
+  {
+    "id": 112,
+    "level": "A1",
+    "german": "der Bus",
+    "english": "the bus",
+    "example": "Der Bus kommt gleich.",
+    "ease": 2.5
+  },
+  {
+    "id": 113,
+    "level": "A1",
+    "german": "der Zug",
+    "english": "the train",
+    "example": "Der Zug fährt ab.",
+    "ease": 2.5
+  },
+  {
+    "id": 114,
+    "level": "A1",
+    "german": "das Fahrrad",
+    "english": "the bicycle",
+    "example": "Ich fahre Fahrrad.",
+    "ease": 2.5
+  },
+  {
+    "id": 115,
+    "level": "A1",
+    "german": "die Reise",
+    "english": "the trip",
+    "example": "Die Reise war gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 116,
+    "level": "A1",
+    "german": "der Lehrer",
+    "english": "the teacher",
+    "example": "Der Lehrer erklärt viel.",
+    "ease": 2.5
+  },
+  {
+    "id": 117,
+    "level": "A1",
+    "german": "der Schüler",
+    "english": "the student",
+    "example": "Der Schüler lernt Deutsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 118,
+    "level": "A1",
+    "german": "die Klasse",
+    "english": "the class",
+    "example": "Die Klasse ist groß.",
+    "ease": 2.5
+  },
+  {
+    "id": 119,
+    "level": "A1",
+    "german": "die Aufgabe",
+    "english": "the task",
+    "example": "Die Aufgabe ist schwer.",
+    "ease": 2.5
+  },
+  {
+    "id": 120,
+    "level": "A1",
+    "german": "die Prüfung",
+    "english": "the exam",
+    "example": "Die Prüfung ist morgen.",
+    "ease": 2.5
+  },
+  {
+    "id": 121,
+    "level": "A1",
+    "german": "das Essen",
+    "english": "the food",
+    "example": "Das Essen schmeckt gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 122,
+    "level": "A1",
+    "german": "das Brot",
+    "english": "the bread",
+    "example": "Ich esse Brot.",
+    "ease": 2.5
+  },
+  {
+    "id": 123,
+    "level": "A1",
+    "german": "das Wasser",
+    "english": "the water",
+    "example": "Ich trinke Wasser.",
+    "ease": 2.5
+  },
+  {
+    "id": 124,
+    "level": "A1",
+    "german": "der Kaffee",
+    "english": "the coffee",
+    "example": "Der Kaffee ist heiß.",
+    "ease": 2.5
+  },
+  {
+    "id": 125,
+    "level": "A1",
+    "german": "der Tee",
+    "english": "the tea",
+    "example": "Der Tee ist warm.",
+    "ease": 2.5
+  },
+  {
+    "id": 126,
+    "level": "A1",
+    "german": "kalt",
+    "english": "cold",
+    "example": "Das Wasser ist kalt.",
+    "ease": 2.5
+  },
+  {
+    "id": 127,
+    "level": "A1",
+    "german": "warm",
+    "english": "warm",
+    "example": "Das Wetter ist warm.",
+    "ease": 2.5
+  },
+  {
+    "id": 128,
+    "level": "A1",
+    "german": "heiß",
+    "english": "hot",
+    "example": "Der Kaffee ist heiß.",
+    "ease": 2.5
+  },
+  {
+    "id": 129,
+    "level": "A1",
+    "german": "langsam",
+    "english": "slow",
+    "example": "Der Bus ist langsam.",
+    "ease": 2.5
+  },
+  {
+    "id": 130,
+    "level": "A1",
+    "german": "schnell",
+    "english": "fast",
+    "example": "Das Auto ist schnell.",
+    "ease": 2.5
+  },
+  {
+    "id": 131,
+    "level": "A1",
+    "german": "früh",
+    "english": "early",
+    "example": "Ich stehe früh auf.",
+    "ease": 2.5
+  },
+  {
+    "id": 132,
+    "level": "A1",
+    "german": "spät",
+    "english": "late",
+    "example": "Ich komme spät.",
+    "ease": 2.5
+  },
+  {
+    "id": 133,
+    "level": "A1",
+    "german": "heute Abend",
+    "english": "this evening",
+    "example": "Heute Abend lerne ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 134,
+    "level": "A1",
+    "german": "jetzt",
+    "english": "now",
+    "example": "Ich habe jetzt Zeit.",
+    "ease": 2.5
+  },
+  {
+    "id": 135,
+    "level": "A1",
+    "german": "bald",
+    "english": "soon",
+    "example": "Wir sehen uns bald.",
+    "ease": 2.5
+  },
+  {
+    "id": 136,
+    "level": "A1",
+    "german": "gern",
+    "english": "gladly / like to",
+    "example": "Ich lerne gern Deutsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 137,
+    "level": "A1",
+    "german": "vielleicht",
+    "english": "maybe",
+    "example": "Vielleicht komme ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 138,
+    "level": "A1",
+    "german": "wirklich",
+    "english": "really",
+    "example": "Das ist wirklich gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 139,
+    "level": "A1",
+    "german": "genug",
+    "english": "enough",
+    "example": "Ich habe genug Zeit.",
+    "ease": 2.5
+  },
+  {
+    "id": 140,
+    "level": "A1",
+    "german": "zusammen",
+    "english": "together",
+    "example": "Wir lernen zusammen.",
+    "ease": 2.5
+  },
+  {
+    "id": 141,
+    "level": "A1",
+    "german": "allein",
+    "english": "alone",
+    "example": "Ich bin allein.",
+    "ease": 2.5
+  },
+  {
+    "id": 142,
+    "level": "A1",
+    "german": "beide",
+    "english": "both",
+    "example": "Beide kommen.",
+    "ease": 2.5
+  },
+  {
+    "id": 143,
+    "level": "A1",
+    "german": "vieles",
+    "english": "many things",
+    "example": "Ich lerne vieles.",
+    "ease": 2.5
+  },
+  {
+    "id": 144,
+    "level": "A1",
+    "german": "nichts",
+    "english": "nothing",
+    "example": "Ich sehe nichts.",
+    "ease": 2.5
+  },
+  {
+    "id": 145,
+    "level": "A1",
+    "german": "etwas",
+    "english": "something",
+    "example": "Ich möchte etwas essen.",
+    "ease": 2.5
+  },
+  {
+    "id": 146,
+    "level": "A1",
+    "german": "wer",
+    "english": "who",
+    "example": "Wer bist du?",
+    "ease": 2.5
+  },
+  {
+    "id": 147,
+    "level": "A1",
+    "german": "was",
+    "english": "what",
+    "example": "Was machst du?",
+    "ease": 2.5
+  },
+  {
+    "id": 148,
+    "level": "A1",
+    "german": "wo",
+    "english": "where",
+    "example": "Wo wohnst du?",
+    "ease": 2.5
+  },
+  {
+    "id": 149,
+    "level": "A1",
+    "german": "wann",
+    "english": "when",
+    "example": "Wann kommst du?",
+    "ease": 2.5
+  },
+  {
+    "id": 150,
+    "level": "A1",
+    "german": "warum",
+    "english": "why",
+    "example": "Warum lernst du Deutsch?",
+    "ease": 2.5
+  },
+  {
+    "id": 151,
+    "level": "A1",
+    "german": "wie",
+    "english": "how",
+    "example": "Wie heißt du?",
+    "ease": 2.5
+  },
+  {
+    "id": 152,
+    "level": "A1",
+    "german": "wie viel",
+    "english": "how much",
+    "example": "Wie viel kostet das?",
+    "ease": 2.5
+  },
+  {
+    "id": 153,
+    "level": "A1",
+    "german": "wie viele",
+    "english": "how many",
+    "example": "Wie viele Bücher hast du?",
+    "ease": 2.5
+  },
+  {
+    "id": 154,
+    "level": "A1",
+    "german": "ja",
+    "english": "yes",
+    "example": "Ja, ich komme.",
+    "ease": 2.5
+  },
+  {
+    "id": 155,
+    "level": "A1",
+    "german": "nein",
+    "english": "no",
+    "example": "Nein, danke.",
+    "ease": 2.5
+  },
+  {
+    "id": 156,
+    "level": "A1",
+    "german": "bitte",
+    "english": "please / here you are",
+    "example": "Bitte schön!",
+    "ease": 2.5
+  },
+  {
+    "id": 157,
+    "level": "A1",
+    "german": "danke",
+    "english": "thank you",
+    "example": "Danke für deine Hilfe.",
+    "ease": 2.5
+  },
+  {
+    "id": 158,
+    "level": "A1",
+    "german": "entschuldigung",
+    "english": "excuse me / sorry",
+    "example": "Entschuldigung, wo ist der Bahnhof?",
+    "ease": 2.5
+  },
+  {
+    "id": 159,
+    "level": "A1",
+    "german": "hallo",
+    "english": "hello",
+    "example": "Hallo, wie geht es dir?",
+    "ease": 2.5
+  },
+  {
+    "id": 160,
+    "level": "A1",
+    "german": "tschüss",
+    "english": "bye",
+    "example": "Tschüss, bis morgen!",
+    "ease": 2.5
+  },
+  {
+    "id": 161,
+    "level": "A1",
+    "german": "der Vater",
+    "english": "the father",
+    "example": "Mein Vater arbeitet viel.",
+    "ease": 2.5
+  },
+  {
+    "id": 162,
+    "level": "A1",
+    "german": "die Mutter",
+    "english": "the mother",
+    "example": "Meine Mutter kocht gern.",
+    "ease": 2.5
+  },
+  {
+    "id": 163,
+    "level": "A1",
+    "german": "der Bruder",
+    "english": "the brother",
+    "example": "Mein Bruder studiert.",
+    "ease": 2.5
+  },
+  {
+    "id": 164,
+    "level": "A1",
+    "german": "die Schwester",
+    "english": "the sister",
+    "example": "Meine Schwester liest.",
+    "ease": 2.5
+  },
+  {
+    "id": 165,
+    "level": "A1",
+    "german": "die Eltern",
+    "english": "the parents",
+    "example": "Meine Eltern wohnen hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 166,
+    "level": "A1",
+    "german": "der Freund",
+    "english": "the boyfriend / friend",
+    "example": "Mein Freund kommt später.",
+    "ease": 2.5
+  },
+  {
+    "id": 167,
+    "level": "A1",
+    "german": "die Freundin",
+    "english": "the girlfriend / friend",
+    "example": "Meine Freundin arbeitet hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 168,
+    "level": "A1",
+    "german": "die Leute",
+    "english": "the people",
+    "example": "Die Leute sind nett.",
+    "ease": 2.5
+  },
+  {
+    "id": 169,
+    "level": "A1",
+    "german": "das Problem",
+    "english": "the problem",
+    "example": "Das Problem ist klein.",
+    "ease": 2.5
+  },
+  {
+    "id": 170,
+    "level": "A1",
+    "german": "die Frage",
+    "english": "the question",
+    "example": "Die Frage ist einfach.",
+    "ease": 2.5
+  },
+  {
+    "id": 171,
+    "level": "A1",
+    "german": "die Antwort",
+    "english": "the answer",
+    "example": "Die Antwort ist richtig.",
+    "ease": 2.5
+  },
+  {
+    "id": 172,
+    "level": "A1",
+    "german": "die Zeit",
+    "english": "the time",
+    "example": "Ich habe keine Zeit.",
+    "ease": 2.5
+  },
+  {
+    "id": 173,
+    "level": "A1",
+    "german": "der Moment",
+    "english": "the moment",
+    "example": "Im Moment lerne ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 174,
+    "level": "A1",
+    "german": "der Anfang",
+    "english": "the beginning",
+    "example": "Der Anfang ist schwer.",
+    "ease": 2.5
+  },
+  {
+    "id": 175,
+    "level": "A1",
+    "german": "das Ende",
+    "english": "the end",
+    "example": "Das Ende ist gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 176,
+    "level": "A1",
+    "german": "der Termin",
+    "english": "the appointment",
+    "example": "Der Termin ist morgen.",
+    "ease": 2.5
+  },
+  {
+    "id": 177,
+    "level": "A1",
+    "german": "die Uhr",
+    "english": "the clock / watch",
+    "example": "Die Uhr ist neu.",
+    "ease": 2.5
+  },
+  {
+    "id": 178,
+    "level": "A1",
+    "german": "der Preis",
+    "english": "the price",
+    "example": "Der Preis ist hoch.",
+    "ease": 2.5
+  },
+  {
+    "id": 179,
+    "level": "A1",
+    "german": "das Geld",
+    "english": "the money",
+    "example": "Ich habe kein Geld.",
+    "ease": 2.5
+  },
+  {
+    "id": 180,
+    "level": "A1",
+    "german": "der Laden",
+    "english": "the shop",
+    "example": "Der Laden ist offen.",
+    "ease": 2.5
+  },
+  {
+    "id": 181,
+    "level": "A1",
+    "german": "der Markt",
+    "english": "the market",
+    "example": "Der Markt ist voll.",
+    "ease": 2.5
+  },
+  {
+    "id": 182,
+    "level": "A1",
+    "german": "der Supermarkt",
+    "english": "the supermarket",
+    "example": "Ich gehe in den Supermarkt.",
+    "ease": 2.5
+  },
+  {
+    "id": 183,
+    "level": "A1",
+    "german": "das Geschäft",
+    "english": "the store",
+    "example": "Das Geschäft schließt.",
+    "ease": 2.5
+  },
+  {
+    "id": 184,
+    "level": "A1",
+    "german": "öffnen",
+    "english": "to open",
+    "example": "Der Laden öffnet um neun.",
+    "ease": 2.5
+  },
+  {
+    "id": 185,
+    "level": "A1",
+    "german": "schließen",
+    "english": "to close",
+    "example": "Der Laden schließt um acht.",
+    "ease": 2.5
+  },
+  {
+    "id": 186,
+    "level": "A1",
+    "german": "kaufen",
+    "english": "to buy",
+    "example": "Ich kaufe Obst.",
+    "ease": 2.5
+  },
+  {
+    "id": 187,
+    "level": "A1",
+    "german": "verkaufen",
+    "english": "to sell",
+    "example": "Er verkauft Brot.",
+    "ease": 2.5
+  },
+  {
+    "id": 188,
+    "level": "A1",
+    "german": "bezahlen",
+    "english": "to pay",
+    "example": "Ich bezahle bar.",
+    "ease": 2.5
+  },
+  {
+    "id": 189,
+    "level": "A1",
+    "german": "kosten",
+    "english": "to cost",
+    "example": "Das kostet viel.",
+    "ease": 2.5
+  },
+  {
+    "id": 190,
+    "level": "A1",
+    "german": "finden",
+    "english": "to find",
+    "example": "Ich finde den Weg.",
+    "ease": 2.5
+  },
+  {
+    "id": 191,
+    "level": "A1",
+    "german": "suchen",
+    "english": "to look for",
+    "example": "Ich suche meine Tasche.",
+    "ease": 2.5
+  },
+  {
+    "id": 192,
+    "level": "A1",
+    "german": "bringen",
+    "english": "to bring",
+    "example": "Ich bringe das Essen.",
+    "ease": 2.5
+  },
+  {
+    "id": 193,
+    "level": "A1",
+    "german": "holen",
+    "english": "to fetch",
+    "example": "Ich hole das Paket.",
+    "ease": 2.5
+  },
+  {
+    "id": 194,
+    "level": "A1",
+    "german": "bleiben",
+    "english": "to stay",
+    "example": "Ich bleibe hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 195,
+    "level": "A1",
+    "german": "gehen zurück",
+    "english": "to go back",
+    "example": "Wir gehen zurück.",
+    "ease": 2.5
+  },
+  {
+    "id": 196,
+    "level": "A1",
+    "german": "anfangen",
+    "english": "to start",
+    "example": "Wir fangen jetzt an.",
+    "ease": 2.5
+  },
+  {
+    "id": 197,
+    "level": "A1",
+    "german": "aufhören",
+    "english": "to stop",
+    "example": "Wir hören jetzt auf.",
+    "ease": 2.5
+  },
+  {
+    "id": 198,
+    "level": "A1",
+    "german": "arbeiten",
+    "english": "to work",
+    "example": "Ich arbeite heute.",
+    "ease": 2.5
+  },
+  {
+    "id": 199,
+    "level": "A1",
+    "german": "lernen",
+    "english": "to learn",
+    "example": "Ich lerne viel.",
+    "ease": 2.5
+  },
+  {
+    "id": 200,
+    "level": "A1",
+    "german": "üben",
+    "english": "to practice",
+    "example": "Ich übe Deutsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 201,
+    "level": "A1",
+    "german": "der Körper",
+    "english": "the body",
+    "example": "Der Körper braucht Ruhe.",
+    "ease": 2.5
+  },
+  {
+    "id": 202,
+    "level": "A1",
+    "german": "der Kopf",
+    "english": "the head",
+    "example": "Mein Kopf tut weh.",
+    "ease": 2.5
+  },
+  {
+    "id": 203,
+    "level": "A1",
+    "german": "die Hand",
+    "english": "the hand",
+    "example": "Ich wasche meine Hände.",
+    "ease": 2.5
+  },
+  {
+    "id": 204,
+    "level": "A1",
+    "german": "das Bein",
+    "english": "the leg",
+    "example": "Mein Bein ist müde.",
+    "ease": 2.5
+  },
+  {
+    "id": 205,
+    "level": "A1",
+    "german": "der Fuß",
+    "english": "the foot",
+    "example": "Der Fuß tut weh.",
+    "ease": 2.5
+  },
+  {
+    "id": 206,
+    "level": "A1",
+    "german": "das Gesicht",
+    "english": "the face",
+    "example": "Das Gesicht ist freundlich.",
+    "ease": 2.5
+  },
+  {
+    "id": 207,
+    "level": "A1",
+    "german": "die Augen",
+    "english": "the eyes",
+    "example": "Meine Augen sind müde.",
+    "ease": 2.5
+  },
+  {
+    "id": 208,
+    "level": "A1",
+    "german": "der Mund",
+    "english": "the mouth",
+    "example": "Der Mund ist offen.",
+    "ease": 2.5
+  },
+  {
+    "id": 209,
+    "level": "A1",
+    "german": "die Nase",
+    "english": "the nose",
+    "example": "Meine Nase ist kalt.",
+    "ease": 2.5
+  },
+  {
+    "id": 210,
+    "level": "A1",
+    "german": "die Ohren",
+    "english": "the ears",
+    "example": "Die Ohren hören gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 211,
+    "level": "A1",
+    "german": "krank",
+    "english": "sick",
+    "example": "Ich bin krank.",
+    "ease": 2.5
+  },
+  {
+    "id": 212,
+    "level": "A1",
+    "german": "gesund",
+    "english": "healthy",
+    "example": "Ich fühle mich gesund.",
+    "ease": 2.5
+  },
+  {
+    "id": 213,
+    "level": "A1",
+    "german": "müde",
+    "english": "tired",
+    "example": "Ich bin müde.",
+    "ease": 2.5
+  },
+  {
+    "id": 214,
+    "level": "A1",
+    "german": "hungrig",
+    "english": "hungry",
+    "example": "Ich bin hungrig.",
+    "ease": 2.5
+  },
+  {
+    "id": 215,
+    "level": "A1",
+    "german": "durstig",
+    "english": "thirsty",
+    "example": "Ich bin durstig.",
+    "ease": 2.5
+  },
+  {
+    "id": 216,
+    "level": "A1",
+    "german": "der Arzt",
+    "english": "the doctor",
+    "example": "Der Arzt hilft mir.",
+    "ease": 2.5
+  },
+  {
+    "id": 217,
+    "level": "A1",
+    "german": "das Krankenhaus",
+    "english": "the hospital",
+    "example": "Das Krankenhaus ist groß.",
+    "ease": 2.5
+  },
+  {
+    "id": 218,
+    "level": "A1",
+    "german": "die Apotheke",
+    "english": "the pharmacy",
+    "example": "Die Apotheke ist offen.",
+    "ease": 2.5
+  },
+  {
+    "id": 219,
+    "level": "A1",
+    "german": "die Medizin",
+    "english": "the medicine",
+    "example": "Die Medizin hilft.",
+    "ease": 2.5
+  },
+  {
+    "id": 220,
+    "level": "A1",
+    "german": "der Schmerz",
+    "english": "the pain",
+    "example": "Der Schmerz ist stark.",
+    "ease": 2.5
+  },
+  {
+    "id": 221,
+    "level": "A1",
+    "german": "das Wetter",
+    "english": "the weather",
+    "example": "Das Wetter ist gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 222,
+    "level": "A1",
+    "german": "der Regen",
+    "english": "the rain",
+    "example": "Der Regen ist kalt.",
+    "ease": 2.5
+  },
+  {
+    "id": 223,
+    "level": "A1",
+    "german": "die Sonne",
+    "english": "the sun",
+    "example": "Die Sonne scheint.",
+    "ease": 2.5
+  },
+  {
+    "id": 224,
+    "level": "A1",
+    "german": "der Wind",
+    "english": "the wind",
+    "example": "Der Wind ist stark.",
+    "ease": 2.5
+  },
+  {
+    "id": 225,
+    "level": "A1",
+    "german": "der Schnee",
+    "english": "the snow",
+    "example": "Der Schnee ist weiß.",
+    "ease": 2.5
+  },
+  {
+    "id": 226,
+    "level": "A1",
+    "german": "warm",
+    "english": "warm",
+    "example": "Heute ist es warm.",
+    "ease": 2.5
+  },
+  {
+    "id": 227,
+    "level": "A1",
+    "german": "kalt",
+    "english": "cold",
+    "example": "Es ist kalt draußen.",
+    "ease": 2.5
+  },
+  {
+    "id": 228,
+    "level": "A1",
+    "german": "schön",
+    "english": "beautiful",
+    "example": "Die Stadt ist schön.",
+    "ease": 2.5
+  },
+  {
+    "id": 229,
+    "level": "A1",
+    "german": "hässlich",
+    "english": "ugly",
+    "example": "Das Wetter ist hässlich.",
+    "ease": 2.5
+  },
+  {
+    "id": 230,
+    "level": "A1",
+    "german": "leicht",
+    "english": "easy / light",
+    "example": "Die Aufgabe ist leicht.",
+    "ease": 2.5
+  },
+  {
+    "id": 231,
+    "level": "A1",
+    "german": "schwer",
+    "english": "difficult / heavy",
+    "example": "Die Tasche ist schwer.",
+    "ease": 2.5
+  },
+  {
+    "id": 232,
+    "level": "A1",
+    "german": "neu",
+    "english": "new",
+    "example": "Das Buch ist neu.",
+    "ease": 2.5
+  },
+  {
+    "id": 233,
+    "level": "A1",
+    "german": "alt",
+    "english": "old",
+    "example": "Das Haus ist alt.",
+    "ease": 2.5
+  },
+  {
+    "id": 234,
+    "level": "A1",
+    "german": "richtig",
+    "english": "correct",
+    "example": "Die Antwort ist richtig.",
+    "ease": 2.5
+  },
+  {
+    "id": 235,
+    "level": "A1",
+    "german": "falsch",
+    "english": "wrong",
+    "example": "Das ist falsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 236,
+    "level": "A1",
+    "german": "einfach",
+    "english": "simple",
+    "example": "Deutsch ist einfach.",
+    "ease": 2.5
+  },
+  {
+    "id": 237,
+    "level": "A1",
+    "german": "schwierig",
+    "english": "difficult",
+    "example": "Die Grammatik ist schwierig.",
+    "ease": 2.5
+  },
+  {
+    "id": 238,
+    "level": "A1",
+    "german": "wichtig",
+    "english": "important",
+    "example": "Das ist wichtig.",
+    "ease": 2.5
+  },
+  {
+    "id": 239,
+    "level": "A1",
+    "german": "bereit",
+    "english": "ready",
+    "example": "Ich bin bereit.",
+    "ease": 2.5
+  },
+  {
+    "id": 240,
+    "level": "A1",
+    "german": "fertig",
+    "english": "finished",
+    "example": "Ich bin fertig.",
+    "ease": 2.5
+  },
+  {
+    "id": 241,
+    "level": "A1",
+    "german": "öffnen",
+    "english": "to open",
+    "example": "Bitte öffnen Sie die Tür.",
+    "ease": 2.5
+  },
+  {
+    "id": 242,
+    "level": "A1",
+    "german": "schließen",
+    "english": "to close",
+    "example": "Bitte schließen Sie das Fenster.",
+    "ease": 2.5
+  },
+  {
+    "id": 243,
+    "level": "A1",
+    "german": "anfangen",
+    "english": "to begin",
+    "example": "Wir fangen an.",
+    "ease": 2.5
+  },
+  {
+    "id": 244,
+    "level": "A1",
+    "german": "aufhören",
+    "english": "to stop",
+    "example": "Wir hören auf.",
+    "ease": 2.5
+  },
+  {
+    "id": 245,
+    "level": "A1",
+    "german": "bleiben",
+    "english": "to stay",
+    "example": "Ich bleibe hier.",
+    "ease": 2.5
+  },
+  {
+    "id": 246,
+    "level": "A1",
+    "german": "kommen zurück",
+    "english": "to come back",
+    "example": "Ich komme zurück.",
+    "ease": 2.5
+  },
+  {
+    "id": 247,
+    "level": "A1",
+    "german": "mitkommen",
+    "english": "to come along",
+    "example": "Kommst du mit?",
+    "ease": 2.5
+  },
+  {
+    "id": 248,
+    "level": "A1",
+    "german": "mitnehmen",
+    "english": "to take along",
+    "example": "Ich nehme das Buch mit.",
+    "ease": 2.5
+  },
+  {
+    "id": 249,
+    "level": "A1",
+    "german": "abholen",
+    "english": "to pick up",
+    "example": "Ich hole dich ab.",
+    "ease": 2.5
+  },
+  {
+    "id": 250,
+    "level": "A1",
+    "german": "ankommen",
+    "english": "to arrive",
+    "example": "Der Zug kommt an.",
+    "ease": 2.5
+  },
+  {
+    "id": 251,
+    "level": "A1",
+    "german": "der Tag",
+    "english": "the day",
+    "example": "Der Tag ist schön.",
+    "ease": 2.5
+  },
+  {
+    "id": 252,
+    "level": "A1",
+    "german": "die Woche",
+    "english": "the week",
+    "example": "Die Woche ist kurz.",
+    "ease": 2.5
+  },
+  {
+    "id": 253,
+    "level": "A1",
+    "german": "der Monat",
+    "english": "the month",
+    "example": "Der Monat beginnt.",
+    "ease": 2.5
+  },
+  {
+    "id": 254,
+    "level": "A1",
+    "german": "das Jahr",
+    "english": "the year",
+    "example": "Das Jahr ist neu.",
+    "ease": 2.5
+  },
+  {
+    "id": 255,
+    "level": "A1",
+    "german": "die Zeit",
+    "english": "the time",
+    "example": "Die Zeit ist wichtig.",
+    "ease": 2.5
+  },
+  {
+    "id": 256,
+    "level": "A1",
+    "german": "frühstücken",
+    "english": "to have breakfast",
+    "example": "Ich frühstücke um acht.",
+    "ease": 2.5
+  },
+  {
+    "id": 257,
+    "level": "A1",
+    "german": "kochen",
+    "english": "to cook",
+    "example": "Ich koche zu Hause.",
+    "ease": 2.5
+  },
+  {
+    "id": 258,
+    "level": "A1",
+    "german": "putzen",
+    "english": "to clean",
+    "example": "Ich putze das Zimmer.",
+    "ease": 2.5
+  },
+  {
+    "id": 259,
+    "level": "A1",
+    "german": "waschen",
+    "english": "to wash",
+    "example": "Ich wasche meine Hände.",
+    "ease": 2.5
+  },
+  {
+    "id": 260,
+    "level": "A1",
+    "german": "duschen",
+    "english": "to shower",
+    "example": "Ich dusche morgens.",
+    "ease": 2.5
+  },
+  {
+    "id": 261,
+    "level": "A1",
+    "german": "anziehen",
+    "english": "to put on (clothes)",
+    "example": "Ich ziehe mich an.",
+    "ease": 2.5
+  },
+  {
+    "id": 262,
+    "level": "A1",
+    "german": "ausziehen",
+    "english": "to take off (clothes)",
+    "example": "Ich ziehe meine Jacke aus.",
+    "ease": 2.5
+  },
+  {
+    "id": 263,
+    "level": "A1",
+    "german": "arbeiten",
+    "english": "to work",
+    "example": "Ich arbeite heute.",
+    "ease": 2.5
+  },
+  {
+    "id": 264,
+    "level": "A1",
+    "german": "lernen",
+    "english": "to learn",
+    "example": "Ich lerne Deutsch.",
+    "ease": 2.5
+  },
+  {
+    "id": 265,
+    "level": "A1",
+    "german": "schlafen",
+    "english": "to sleep",
+    "example": "Ich schlafe gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 266,
+    "level": "A1",
+    "german": "aufstehen",
+    "english": "to get up",
+    "example": "Ich stehe früh auf.",
+    "ease": 2.5
+  },
+  {
+    "id": 267,
+    "level": "A1",
+    "german": "einschlafen",
+    "english": "to fall asleep",
+    "example": "Ich schlafe schnell ein.",
+    "ease": 2.5
+  },
+  {
+    "id": 268,
+    "level": "A1",
+    "german": "bleiben",
+    "english": "to stay",
+    "example": "Ich bleibe zu Hause.",
+    "ease": 2.5
+  },
+  {
+    "id": 269,
+    "level": "A1",
+    "german": "gehen",
+    "english": "to leave",
+    "example": "Ich gehe jetzt.",
+    "ease": 2.5
+  },
+  {
+    "id": 270,
+    "level": "A1",
+    "german": "ankommen",
+    "english": "to arrive",
+    "example": "Wir kommen um acht an.",
+    "ease": 2.5
+  },
+  {
+    "id": 271,
+    "level": "A1",
+    "german": "der Morgen",
+    "english": "the morning",
+    "example": "Der Morgen ist ruhig.",
+    "ease": 2.5
+  },
+  {
+    "id": 272,
+    "level": "A1",
+    "german": "der Abend",
+    "english": "the evening",
+    "example": "Der Abend ist schön.",
+    "ease": 2.5
+  },
+  {
+    "id": 273,
+    "level": "A1",
+    "german": "die Nacht",
+    "english": "the night",
+    "example": "Gute Nacht!",
+    "ease": 2.5
+  },
+  {
+    "id": 274,
+    "level": "A1",
+    "german": "heute",
+    "english": "today",
+    "example": "Heute arbeite ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 275,
+    "level": "A1",
+    "german": "morgen",
+    "english": "tomorrow",
+    "example": "Morgen lerne ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 276,
+    "level": "A1",
+    "german": "links",
+    "english": "left",
+    "example": "Bitte links gehen.",
+    "ease": 2.5
+  },
+  {
+    "id": 277,
+    "level": "A1",
+    "german": "rechts",
+    "english": "right",
+    "example": "Dann rechts abbiegen.",
+    "ease": 2.5
+  },
+  {
+    "id": 278,
+    "level": "A1",
+    "german": "geradeaus",
+    "english": "straight ahead",
+    "example": "Gehen Sie geradeaus.",
+    "ease": 2.5
+  },
+  {
+    "id": 279,
+    "level": "A1",
+    "german": "nah",
+    "english": "near",
+    "example": "Die Schule ist nah.",
+    "ease": 2.5
+  },
+  {
+    "id": 280,
+    "level": "A1",
+    "german": "weit",
+    "english": "far",
+    "example": "Der Weg ist weit.",
+    "ease": 2.5
+  },
+  {
+    "id": 281,
+    "level": "A1",
+    "german": "oben",
+    "english": "up / above",
+    "example": "Das Zimmer ist oben.",
+    "ease": 2.5
+  },
+  {
+    "id": 282,
+    "level": "A1",
+    "german": "unten",
+    "english": "down / below",
+    "example": "Die Küche ist unten.",
+    "ease": 2.5
+  },
+  {
+    "id": 283,
+    "level": "A1",
+    "german": "drinnen",
+    "english": "inside",
+    "example": "Wir bleiben drinnen.",
+    "ease": 2.5
+  },
+  {
+    "id": 284,
+    "level": "A1",
+    "german": "draußen",
+    "english": "outside",
+    "example": "Die Kinder spielen draußen.",
+    "ease": 2.5
+  },
+  {
+    "id": 285,
+    "level": "A1",
+    "german": "zusammen",
+    "english": "together",
+    "example": "Wir lernen zusammen.",
+    "ease": 2.5
+  },
+  {
+    "id": 286,
+    "level": "A1",
+    "german": "allein",
+    "english": "alone",
+    "example": "Ich bin allein.",
+    "ease": 2.5
+  },
+  {
+    "id": 287,
+    "level": "A1",
+    "german": "oft",
+    "english": "often",
+    "example": "Ich trinke oft Kaffee.",
+    "ease": 2.5
+  },
+  {
+    "id": 288,
+    "level": "A1",
+    "german": "manchmal",
+    "english": "sometimes",
+    "example": "Manchmal lese ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 289,
+    "level": "A1",
+    "german": "nie",
+    "english": "never",
+    "example": "Ich rauche nie.",
+    "ease": 2.5
+  },
+  {
+    "id": 290,
+    "level": "A1",
+    "german": "immer",
+    "english": "always",
+    "example": "Ich bin immer pünktlich.",
+    "ease": 2.5
+  },
+  {
+    "id": 291,
+    "level": "A1",
+    "german": "ja",
+    "english": "yes",
+    "example": "Ja, das stimmt.",
+    "ease": 2.5
+  },
+  {
+    "id": 292,
+    "level": "A1",
+    "german": "nein",
+    "english": "no",
+    "example": "Nein, danke.",
+    "ease": 2.5
+  },
+  {
+    "id": 293,
+    "level": "A1",
+    "german": "vielleicht",
+    "english": "maybe",
+    "example": "Vielleicht komme ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 294,
+    "level": "A1",
+    "german": "natürlich",
+    "english": "of course",
+    "example": "Natürlich helfe ich.",
+    "ease": 2.5
+  },
+  {
+    "id": 295,
+    "level": "A1",
+    "german": "genau",
+    "english": "exactly",
+    "example": "Ja, genau!",
+    "ease": 2.5
+  },
+  {
+    "id": 296,
+    "level": "A1",
+    "german": "gut",
+    "english": "good",
+    "example": "Das ist gut.",
+    "ease": 2.5
+  },
+  {
+    "id": 297,
+    "level": "A1",
+    "german": "schlecht",
+    "english": "bad",
+    "example": "Das Wetter ist schlecht.",
+    "ease": 2.5
+  },
+  {
+    "id": 298,
+    "level": "A1",
+    "german": "wichtig",
+    "english": "important",
+    "example": "Das ist wichtig.",
+    "ease": 2.5
+  },
+  {
+    "id": 299,
+    "level": "A1",
+    "german": "möglich",
+    "english": "possible",
+    "example": "Das ist möglich.",
+    "ease": 2.5
+  },
+  {
+    "id": 300,
+    "level": "A1",
+    "german": "fertig",
+    "english": "finished",
+    "example": "Ich bin fertig.",
+    "ease": 2.5
+  },
+  { "id": 301, "level": "A2", "german": "verstehen", "english": "to understand", "example": "Ich verstehe die Frage.", "ease": 2.5 },
+  { "id": 302, "level": "A2", "german": "erklären", "english": "to explain", "example": "Der Lehrer erklärt die Regel.", "ease": 2.5 },
+  { "id": 303, "level": "A2", "german": "beschreiben", "english": "to describe", "example": "Bitte beschreiben Sie das Bild.", "ease": 2.5 },
+  { "id": 304, "level": "A2", "german": "erzählen", "english": "to tell", "example": "Er erzählt eine Geschichte.", "ease": 2.5 },
+  { "id": 305, "level": "A2", "german": "meinen", "english": "to mean", "example": "Was meinst du?", "ease": 2.5 },
+
+  { "id": 306, "level": "A2", "german": "beginnen", "english": "to begin", "example": "Der Film beginnt um acht.", "ease": 2.5 },
+  { "id": 307, "level": "A2", "german": "enden", "english": "to end", "example": "Der Kurs endet morgen.", "ease": 2.5 },
+  { "id": 308, "level": "A2", "german": "passieren", "english": "to happen", "example": "Was ist passiert?", "ease": 2.5 },
+  { "id": 309, "level": "A2", "german": "ändern", "english": "to change", "example": "Ich möchte das ändern.", "ease": 2.5 },
+  { "id": 310, "level": "A2", "german": "planen", "english": "to plan", "example": "Wir planen eine Reise.", "ease": 2.5 },
+
+  { "id": 311, "level": "A2", "german": "entscheiden", "english": "to decide", "example": "Ich entscheide mich später.", "ease": 2.5 },
+  { "id": 312, "level": "A2", "german": "vergessen", "english": "to forget", "example": "Ich habe den Termin vergessen.", "ease": 2.5 },
+  { "id": 313, "level": "A2", "german": "erinnern", "english": "to remember", "example": "Ich erinnere mich daran.", "ease": 2.5 },
+  { "id": 314, "level": "A2", "german": "hoffen", "english": "to hope", "example": "Ich hoffe auf gutes Wetter.", "ease": 2.5 },
+  { "id": 315, "level": "A2", "german": "wünschen", "english": "to wish", "example": "Ich wünsche dir Glück.", "ease": 2.5 },
+
+  { "id": 316, "level": "A2", "german": "der Beruf", "english": "the profession", "example": "Was ist dein Beruf?", "ease": 2.5 },
+  { "id": 317, "level": "A2", "german": "die Firma", "english": "the company", "example": "Die Firma wächst.", "ease": 2.5 },
+  { "id": 318, "level": "A2", "german": "der Kollege", "english": "the colleague", "example": "Mein Kollege hilft mir.", "ease": 2.5 },
+  { "id": 319, "level": "A2", "german": "die Erfahrung", "english": "the experience", "example": "Ich habe viel Erfahrung.", "ease": 2.5 },
+  { "id": 320, "level": "A2", "german": "der Vertrag", "english": "the contract", "example": "Der Vertrag ist wichtig.", "ease": 2.5 },
+
+  { "id": 321, "level": "A2", "german": "die Reise", "english": "the journey", "example": "Die Reise war anstrengend.", "ease": 2.5 },
+  { "id": 322, "level": "A2", "german": "der Urlaub", "english": "the vacation", "example": "Der Urlaub war schön.", "ease": 2.5 },
+  { "id": 323, "level": "A2", "german": "die Unterkunft", "english": "the accommodation", "example": "Die Unterkunft ist günstig.", "ease": 2.5 },
+  { "id": 324, "level": "A2", "german": "buchen", "english": "to book", "example": "Ich buche ein Hotel.", "ease": 2.5 },
+  { "id": 325, "level": "A2", "german": "ankommen", "english": "to arrive", "example": "Wir kommen spät an.", "ease": 2.5 },
+
+  { "id": 326, "level": "A2", "german": "die Meinung", "english": "the opinion", "example": "Das ist meine Meinung.", "ease": 2.5 },
+  { "id": 327, "level": "A2", "german": "zustimmen", "english": "to agree", "example": "Ich stimme dir zu.", "ease": 2.5 },
+  { "id": 328, "level": "A2", "german": "ablehnen", "english": "to refuse", "example": "Er lehnt das Angebot ab.", "ease": 2.5 },
+  { "id": 329, "level": "A2", "german": "erlauben", "english": "to allow", "example": "Das ist erlaubt.", "ease": 2.5 },
+  { "id": 330, "level": "A2", "german": "verbieten", "english": "to forbid", "example": "Rauchen ist verboten.", "ease": 2.5 },
+
+  { "id": 331, "level": "A2", "german": "die Situation", "english": "the situation", "example": "Die Situation ist schwierig.", "ease": 2.5 },
+  { "id": 332, "level": "A2", "german": "das Problem", "english": "the problem", "example": "Wir lösen das Problem.", "ease": 2.5 },
+  { "id": 333, "level": "A2", "german": "die Lösung", "english": "the solution", "example": "Das ist eine gute Lösung.", "ease": 2.5 },
+  { "id": 334, "level": "A2", "german": "der Grund", "english": "the reason", "example": "Was ist der Grund?", "ease": 2.5 },
+  { "id": 335, "level": "A2", "german": "der Vorteil", "english": "the advantage", "example": "Das ist ein Vorteil.", "ease": 2.5 },
+
+  { "id": 336, "level": "A2", "german": "der Nachteil", "english": "the disadvantage", "example": "Das ist ein Nachteil.", "ease": 2.5 },
+  { "id": 337, "level": "A2", "german": "wichtig", "english": "important", "example": "Das ist sehr wichtig.", "ease": 2.5 },
+  { "id": 338, "level": "A2", "german": "möglich", "english": "possible", "example": "Das ist möglich.", "ease": 2.5 },
+  { "id": 339, "level": "A2", "german": "unmöglich", "english": "impossible", "example": "Das ist unmöglich.", "ease": 2.5 },
+  { "id": 340, "level": "A2", "german": "notwendig", "english": "necessary", "example": "Das ist notwendig.", "ease": 2.5 },
+
+  { "id": 341, "level": "A2", "german": "regelmäßig", "english": "regularly", "example": "Ich lerne regelmäßig.", "ease": 2.5 },
+  { "id": 342, "level": "A2", "german": "plötzlich", "english": "suddenly", "example": "Plötzlich regnet es.", "ease": 2.5 },
+  { "id": 343, "level": "A2", "german": "meistens", "english": "mostly", "example": "Ich arbeite meistens zu Hause.", "ease": 2.5 },
+  { "id": 344, "level": "A2", "german": "besonders", "english": "especially", "example": "Das ist besonders gut.", "ease": 2.5 },
+  { "id": 345, "level": "A2", "german": "trotzdem", "english": "nevertheless", "example": "Es regnet, trotzdem gehe ich.", "ease": 2.5 },
+
+  { "id": 346, "level": "A2", "german": "deshalb", "english": "therefore", "example": "Ich bin müde, deshalb gehe ich.", "ease": 2.5 },
+  { "id": 347, "level": "A2", "german": "außerdem", "english": "besides", "example": "Außerdem ist es billig.", "ease": 2.5 },
+  { "id": 348, "level": "A2", "german": "zuerst", "english": "first", "example": "Zuerst esse ich.", "ease": 2.5 },
+  { "id": 349, "level": "A2", "german": "danach", "english": "afterwards", "example": "Danach arbeite ich.", "ease": 2.5 },
+  { "id": 350, "level": "A2", "german": "endlich", "english": "finally", "example": "Endlich bin ich fertig.", "ease": 2.5 },
+  { "id": 351, "level": "A2", "german": "sich fühlen", "english": "to feel", "example": "Ich fühle mich gut.", "ease": 2.5 },
+  { "id": 352, "level": "A2", "german": "sich freuen", "english": "to be happy / to look forward to", "example": "Ich freue mich auf das Wochenende.", "ease": 2.5 },
+  { "id": 353, "level": "A2", "german": "sich ärgern", "english": "to be annoyed", "example": "Er ärgert sich über den Fehler.", "ease": 2.5 },
+  { "id": 354, "level": "A2", "german": "sich wundern", "english": "to be surprised", "example": "Ich wundere mich darüber.", "ease": 2.5 },
+  { "id": 355, "level": "A2", "german": "sich erinnern", "english": "to remember", "example": "Ich erinnere mich an den Tag.", "ease": 2.5 },
+
+  { "id": 356, "level": "A2", "german": "erleben", "english": "to experience", "example": "Wir erleben viel im Urlaub.", "ease": 2.5 },
+  { "id": 357, "level": "A2", "german": "entdecken", "english": "to discover", "example": "Ich entdecke eine neue Stadt.", "ease": 2.5 },
+  { "id": 358, "level": "A2", "german": "gefallen", "english": "to like (appeal to)", "example": "Der Film gefällt mir.", "ease": 2.5 },
+  { "id": 359, "level": "A2", "german": "gehören", "english": "to belong to", "example": "Das Buch gehört mir.", "ease": 2.5 },
+  { "id": 360, "level": "A2", "german": "fehlen", "english": "to be missing", "example": "Mir fehlt die Zeit.", "ease": 2.5 },
+
+  { "id": 361, "level": "A2", "german": "die Gewohnheit", "english": "the habit", "example": "Das ist meine Gewohnheit.", "ease": 2.5 },
+  { "id": 362, "level": "A2", "german": "der Alltag", "english": "everyday life", "example": "Der Alltag ist stressig.", "ease": 2.5 },
+  { "id": 363, "level": "A2", "german": "die Freizeit", "english": "free time", "example": "In meiner Freizeit lese ich.", "ease": 2.5 },
+  { "id": 364, "level": "A2", "german": "das Hobby", "english": "the hobby", "example": "Mein Hobby ist Musik.", "ease": 2.5 },
+  { "id": 365, "level": "A2", "german": "der Sport", "english": "the sport", "example": "Sport ist gesund.", "ease": 2.5 },
+
+  { "id": 366, "level": "A2", "german": "der Verein", "english": "the club", "example": "Ich bin im Verein.", "ease": 2.5 },
+  { "id": 367, "level": "A2", "german": "das Spiel", "english": "the game", "example": "Das Spiel macht Spaß.", "ease": 2.5 },
+  { "id": 368, "level": "A2", "german": "das Ergebnis", "english": "the result", "example": "Das Ergebnis ist gut.", "ease": 2.5 },
+  { "id": 369, "level": "A2", "german": "der Erfolg", "english": "the success", "example": "Der Erfolg freut mich.", "ease": 2.5 },
+  { "id": 370, "level": "A2", "german": "der Fehler", "english": "the mistake", "example": "Der Fehler ist klein.", "ease": 2.5 },
+
+  { "id": 371, "level": "A2", "german": "der Termin", "english": "the appointment", "example": "Ich habe einen Termin.", "ease": 2.5 },
+  { "id": 372, "level": "A2", "german": "die Einladung", "english": "the invitation", "example": "Danke für die Einladung.", "ease": 2.5 },
+  { "id": 373, "level": "A2", "german": "die Party", "english": "the party", "example": "Die Party beginnt um acht.", "ease": 2.5 },
+  { "id": 374, "level": "A2", "german": "der Besuch", "english": "the visit", "example": "Wir bekommen Besuch.", "ease": 2.5 },
+  { "id": 375, "level": "A2", "german": "das Geschenk", "english": "the gift", "example": "Das Geschenk ist schön.", "ease": 2.5 },
+
+  { "id": 376, "level": "A2", "german": "die Einladung annehmen", "english": "to accept the invitation", "example": "Ich nehme die Einladung an.", "ease": 2.5 },
+  { "id": 377, "level": "A2", "german": "absagen", "english": "to cancel", "example": "Ich muss den Termin absagen.", "ease": 2.5 },
+  { "id": 378, "level": "A2", "german": "verschieben", "english": "to postpone", "example": "Wir verschieben das Treffen.", "ease": 2.5 },
+  { "id": 379, "level": "A2", "german": "vorbereiten", "english": "to prepare", "example": "Ich bereite mich vor.", "ease": 2.5 },
+  { "id": 380, "level": "A2", "german": "teilnehmen", "english": "to take part", "example": "Ich nehme am Kurs teil.", "ease": 2.5 },
+
+  { "id": 381, "level": "A2", "german": "die Nachricht", "english": "the message", "example": "Ich bekomme eine Nachricht.", "ease": 2.5 },
+  { "id": 382, "level": "A2", "german": "die Information", "english": "the information", "example": "Die Information ist wichtig.", "ease": 2.5 },
+  { "id": 383, "level": "A2", "german": "der Anruf", "english": "the call", "example": "Ich bekomme einen Anruf.", "ease": 2.5 },
+  { "id": 384, "level": "A2", "german": "die E-Mail", "english": "the email", "example": "Ich schreibe eine E-Mail.", "ease": 2.5 },
+  { "id": 385, "level": "A2", "german": "antworten", "english": "to reply", "example": "Ich antworte sofort.", "ease": 2.5 },
+
+  { "id": 386, "level": "A2", "german": "fragen", "english": "to ask", "example": "Ich frage nach dem Weg.", "ease": 2.5 },
+  { "id": 387, "level": "A2", "german": "mitteilen", "english": "to inform", "example": "Ich teile dir das mit.", "ease": 2.5 },
+  { "id": 388, "level": "A2", "german": "erklären", "english": "to explain", "example": "Er erklärt das Problem.", "ease": 2.5 },
+  { "id": 389, "level": "A2", "german": "beschweren", "english": "to complain", "example": "Ich beschwere mich.", "ease": 2.5 },
+  { "id": 390, "level": "A2", "german": "helfen", "english": "to help", "example": "Kannst du mir helfen?", "ease": 2.5 },
+
+  { "id": 391, "level": "A2", "german": "der Wunsch", "english": "the wish", "example": "Mein Wunsch ist einfach.", "ease": 2.5 },
+  { "id": 392, "level": "A2", "german": "die Hoffnung", "english": "the hope", "example": "Ich habe Hoffnung.", "ease": 2.5 },
+  { "id": 393, "level": "A2", "german": "die Angst", "english": "the fear", "example": "Ich habe Angst.", "ease": 2.5 },
+  { "id": 394, "level": "A2", "german": "die Freude", "english": "the joy", "example": "Die Freude ist groß.", "ease": 2.5 },
+  { "id": 395, "level": "A2", "german": "der Stress", "english": "the stress", "example": "Der Stress ist hoch.", "ease": 2.5 },
+
+  { "id": 396, "level": "A2", "german": "ruhig", "english": "calm", "example": "Der Ort ist ruhig.", "ease": 2.5 },
+  { "id": 397, "level": "A2", "german": "laut", "english": "loud", "example": "Die Musik ist laut.", "ease": 2.5 },
+  { "id": 398, "level": "A2", "german": "spannend", "english": "exciting", "example": "Der Film ist spannend.", "ease": 2.5 },
+  { "id": 399, "level": "A2", "german": "langweilig", "english": "boring", "example": "Das Buch ist langweilig.", "ease": 2.5 },
+  { "id": 400, "level": "A2", "german": "interessant", "english": "interesting", "example": "Das Thema ist interessant.", "ease": 2.5 },
+  { "id": 401, "level": "A2", "german": "die Gesundheit", "english": "the health", "example": "Die Gesundheit ist wichtig.", "ease": 2.5 },
+  { "id": 402, "level": "A2", "german": "krank werden", "english": "to become sick", "example": "Ich werde selten krank.", "ease": 2.5 },
+  { "id": 403, "level": "A2", "german": "sich erholen", "english": "to recover", "example": "Ich erhole mich zu Hause.", "ease": 2.5 },
+  { "id": 404, "level": "A2", "german": "die Bewegung", "english": "the exercise / movement", "example": "Bewegung ist gesund.", "ease": 2.5 },
+  { "id": 405, "level": "A2", "german": "die Ernährung", "english": "the nutrition", "example": "Ernährung ist wichtig.", "ease": 2.5 },
+
+  { "id": 406, "level": "A2", "german": "der Arzttermin", "english": "the doctor’s appointment", "example": "Ich habe einen Arzttermin.", "ease": 2.5 },
+  { "id": 407, "level": "A2", "german": "die Behandlung", "english": "the treatment", "example": "Die Behandlung hilft.", "ease": 2.5 },
+  { "id": 408, "level": "A2", "german": "die Tablette", "english": "the pill", "example": "Ich nehme eine Tablette.", "ease": 2.5 },
+  { "id": 409, "level": "A2", "german": "das Rezept", "english": "the prescription", "example": "Ich brauche ein Rezept.", "ease": 2.5 },
+  { "id": 410, "level": "A2", "german": "sich verletzen", "english": "to injure oneself", "example": "Er verletzt sich beim Sport.", "ease": 2.5 },
+
+  { "id": 411, "level": "A2", "german": "die Kleidung", "english": "the clothing", "example": "Die Kleidung ist neu.", "ease": 2.5 },
+  { "id": 412, "level": "A2", "german": "anziehen", "english": "to put on (clothes)", "example": "Ich ziehe eine Jacke an.", "ease": 2.5 },
+  { "id": 413, "level": "A2", "german": "ausziehen", "english": "to take off (clothes)", "example": "Ich ziehe die Schuhe aus.", "ease": 2.5 },
+  { "id": 414, "level": "A2", "german": "probieren", "english": "to try on", "example": "Ich probiere das Kleid.", "ease": 2.5 },
+  { "id": 415, "level": "A2", "german": "passen", "english": "to fit", "example": "Die Hose passt gut.", "ease": 2.5 },
+
+  { "id": 416, "level": "A2", "german": "der Stil", "english": "the style", "example": "Der Stil gefällt mir.", "ease": 2.5 },
+  { "id": 417, "level": "A2", "german": "die Größe", "english": "the size", "example": "Welche Größe hast du?", "ease": 2.5 },
+  { "id": 418, "level": "A2", "german": "billig", "english": "cheap", "example": "Das Hemd ist billig.", "ease": 2.5 },
+  { "id": 419, "level": "A2", "german": "teuer", "english": "expensive", "example": "Das Auto ist teuer.", "ease": 2.5 },
+  { "id": 420, "level": "A2", "german": "reduziert", "english": "discounted", "example": "Die Schuhe sind reduziert.", "ease": 2.5 },
+
+  { "id": 421, "level": "A2", "german": "der Verkehr", "english": "the traffic", "example": "Der Verkehr ist stark.", "ease": 2.5 },
+  { "id": 422, "level": "A2", "german": "der Stau", "english": "the traffic jam", "example": "Es gibt einen Stau.", "ease": 2.5 },
+  { "id": 423, "level": "A2", "german": "die Richtung", "english": "the direction", "example": "Welche Richtung?", "ease": 2.5 },
+  { "id": 424, "level": "A2", "german": "abbiegen", "english": "to turn", "example": "Hier links abbiegen.", "ease": 2.5 },
+  { "id": 425, "level": "A2", "german": "überqueren", "english": "to cross", "example": "Wir überqueren die Straße.", "ease": 2.5 },
+
+  { "id": 426, "level": "A2", "german": "die Entfernung", "english": "the distance", "example": "Die Entfernung ist groß.", "ease": 2.5 },
+  { "id": 427, "level": "A2", "german": "nah", "english": "near", "example": "Die Schule ist nah.", "ease": 2.5 },
+  { "id": 428, "level": "A2", "german": "weit", "english": "far", "example": "Der Weg ist weit.", "ease": 2.5 },
+  { "id": 429, "level": "A2", "german": "pünktlich", "english": "punctual", "example": "Der Zug ist pünktlich.", "ease": 2.5 },
+  { "id": 430, "level": "A2", "german": "verspätet", "english": "delayed", "example": "Der Zug ist verspätet.", "ease": 2.5 },
+
+  { "id": 431, "level": "A2", "german": "der Plan", "english": "the plan", "example": "Der Plan ist gut.", "ease": 2.5 },
+  { "id": 432, "level": "A2", "german": "der Terminplan", "english": "the schedule", "example": "Mein Terminplan ist voll.", "ease": 2.5 },
+  { "id": 433, "level": "A2", "german": "die Änderung", "english": "the change", "example": "Es gibt eine Änderung.", "ease": 2.5 },
+  { "id": 434, "level": "A2", "german": "absagen", "english": "to cancel", "example": "Ich muss absagen.", "ease": 2.5 },
+  { "id": 435, "level": "A2", "german": "verschieben", "english": "to postpone", "example": "Wir verschieben das Treffen.", "ease": 2.5 },
+
+  { "id": 436, "level": "A2", "german": "vorher", "english": "before", "example": "Vorher esse ich.", "ease": 2.5 },
+  { "id": 437, "level": "A2", "german": "nachher", "english": "afterwards", "example": "Nachher arbeiten wir.", "ease": 2.5 },
+  { "id": 438, "level": "A2", "german": "gleich", "english": "soon / same", "example": "Ich komme gleich.", "ease": 2.5 },
+  { "id": 439, "level": "A2", "german": "sofort", "english": "immediately", "example": "Ich komme sofort.", "ease": 2.5 },
+  { "id": 440, "level": "A2", "german": "später", "english": "later", "example": "Wir sehen uns später.", "ease": 2.5 },
+
+  { "id": 441, "level": "A2", "german": "der Anfang", "english": "the beginning", "example": "Der Anfang ist schwer.", "ease": 2.5 },
+  { "id": 442, "level": "A2", "german": "das Ende", "english": "the end", "example": "Das Ende ist gut.", "ease": 2.5 },
+  { "id": 443, "level": "A2", "german": "die Möglichkeit", "english": "the possibility", "example": "Es gibt eine Möglichkeit.", "ease": 2.5 },
+  { "id": 444, "level": "A2", "german": "die Wahrscheinlichkeit", "english": "the probability", "example": "Die Wahrscheinlichkeit ist hoch.", "ease": 2.5 },
+  { "id": 445, "level": "A2", "german": "der Erfolg", "english": "the success", "example": "Der Erfolg ist wichtig.", "ease": 2.5 },
+
+  { "id": 446, "level": "A2", "german": "der Misserfolg", "english": "the failure", "example": "Der Misserfolg ist traurig.", "ease": 2.5 },
+  { "id": 447, "level": "A2", "german": "zufrieden", "english": "satisfied", "example": "Ich bin zufrieden.", "ease": 2.5 },
+  { "id": 448, "level": "A2", "german": "enttäuscht", "english": "disappointed", "example": "Ich bin enttäuscht.", "ease": 2.5 },
+  { "id": 449, "level": "A2", "german": "stolz", "english": "proud", "example": "Ich bin stolz auf dich.", "ease": 2.5 },
+  { "id": 450, "level": "A2", "german": "bereit", "english": "ready", "example": "Ich bin bereit.", "ease": 2.5 },
+
+  { "id": 451, "level": "A2", "german": "die Wohnung", "english": "the apartment", "example": "Die Wohnung ist hell.", "ease": 2.5 },
+  { "id": 452, "level": "A2", "german": "die Miete", "english": "the rent", "example": "Die Miete ist hoch.", "ease": 2.5 },
+  { "id": 453, "level": "A2", "german": "der Vermieter", "english": "the landlord", "example": "Der Vermieter ist nett.", "ease": 2.5 },
+  { "id": 454, "level": "A2", "german": "der Nachbar", "english": "the neighbor", "example": "Der Nachbar hilft mir.", "ease": 2.5 },
+  { "id": 455, "level": "A2", "german": "die Umgebung", "english": "the surroundings", "example": "Die Umgebung ist ruhig.", "ease": 2.5 },
+
+  { "id": 456, "level": "A2", "german": "das Möbelstück", "english": "the piece of furniture", "example": "Das Möbelstück ist neu.", "ease": 2.5 },
+  { "id": 457, "level": "A2", "german": "einrichten", "english": "to furnish", "example": "Ich richte die Wohnung ein.", "ease": 2.5 },
+  { "id": 458, "level": "A2", "german": "reparieren", "english": "to repair", "example": "Ich repariere den Tisch.", "ease": 2.5 },
+  { "id": 459, "level": "A2", "german": "kaputt", "english": "broken", "example": "Der Stuhl ist kaputt.", "ease": 2.5 },
+  { "id": 460, "level": "A2", "german": "sauber", "english": "clean", "example": "Die Küche ist sauber.", "ease": 2.5 },
+
+  { "id": 461, "level": "A2", "german": "schmutzig", "english": "dirty", "example": "Das Zimmer ist schmutzig.", "ease": 2.5 },
+  { "id": 462, "level": "A2", "german": "laut", "english": "loud", "example": "Die Musik ist laut.", "ease": 2.5 },
+  { "id": 463, "level": "A2", "german": "leise", "english": "quiet", "example": "Bitte sei leise.", "ease": 2.5 },
+  { "id": 464, "level": "A2", "german": "gemütlich", "english": "cozy", "example": "Das Café ist gemütlich.", "ease": 2.5 },
+  { "id": 465, "level": "A2", "german": "eng", "english": "narrow / cramped", "example": "Das Zimmer ist eng.", "ease": 2.5 },
+
+  { "id": 466, "level": "A2", "german": "breit", "english": "wide", "example": "Die Straße ist breit.", "ease": 2.5 },
+  { "id": 467, "level": "A2", "german": "hoch", "english": "high", "example": "Das Gebäude ist hoch.", "ease": 2.5 },
+  { "id": 468, "level": "A2", "german": "niedrig", "english": "low", "example": "Der Tisch ist niedrig.", "ease": 2.5 },
+  { "id": 469, "level": "A2", "german": "hell", "english": "bright", "example": "Das Zimmer ist hell.", "ease": 2.5 },
+  { "id": 470, "level": "A2", "german": "dunkel", "english": "dark", "example": "Der Raum ist dunkel.", "ease": 2.5 },
+
+  { "id": 471, "level": "A2", "german": "der Haushalt", "english": "the household", "example": "Der Haushalt ist groß.", "ease": 2.5 },
+  { "id": 472, "level": "A2", "german": "putzen", "english": "to clean", "example": "Ich putze die Wohnung.", "ease": 2.5 },
+  { "id": 473, "level": "A2", "german": "aufräumen", "english": "to tidy up", "example": "Ich räume auf.", "ease": 2.5 },
+  { "id": 474, "level": "A2", "german": "waschen", "english": "to wash", "example": "Ich wasche die Kleidung.", "ease": 2.5 },
+  { "id": 475, "level": "A2", "german": "bügeln", "english": "to iron", "example": "Ich bügle das Hemd.", "ease": 2.5 },
+
+  { "id": 476, "level": "A2", "german": "die Maschine", "english": "the machine", "example": "Die Maschine läuft.", "ease": 2.5 },
+  { "id": 477, "level": "A2", "german": "das Gerät", "english": "the device", "example": "Das Gerät ist neu.", "ease": 2.5 },
+  { "id": 478, "level": "A2", "german": "funktionieren", "english": "to function", "example": "Das Gerät funktioniert.", "ease": 2.5 },
+  { "id": 479, "level": "A2", "german": "einschalten", "english": "to switch on", "example": "Ich schalte das Licht ein.", "ease": 2.5 },
+  { "id": 480, "level": "A2", "german": "ausschalten", "english": "to switch off", "example": "Ich schalte den Fernseher aus.", "ease": 2.5 },
+
+  { "id": 481, "level": "A2", "german": "der Strom", "english": "the electricity", "example": "Der Strom ist weg.", "ease": 2.5 },
+  { "id": 482, "level": "A2", "german": "das Wasser", "english": "the water", "example": "Das Wasser ist kalt.", "ease": 2.5 },
+  { "id": 483, "level": "A2", "german": "die Heizung", "english": "the heating", "example": "Die Heizung ist an.", "ease": 2.5 },
+  { "id": 484, "level": "A2", "german": "rechnen", "english": "to calculate", "example": "Ich rechne die Kosten.", "ease": 2.5 },
+  { "id": 485, "level": "A2", "german": "bezahlen", "english": "to pay", "example": "Ich bezahle die Rechnung.", "ease": 2.5 },
+
+  { "id": 486, "level": "A2", "german": "die Rechnung", "english": "the bill", "example": "Die Rechnung ist hoch.", "ease": 2.5 },
+  { "id": 487, "level": "A2", "german": "der Vertrag", "english": "the contract", "example": "Der Vertrag läuft.", "ease": 2.5 },
+  { "id": 488, "level": "A2", "german": "kündigen", "english": "to cancel (a contract)", "example": "Ich kündige den Vertrag.", "ease": 2.5 },
+  { "id": 489, "level": "A2", "german": "verlängern", "english": "to extend", "example": "Ich verlängere den Vertrag.", "ease": 2.5 },
+  { "id": 490, "level": "A2", "german": "die Regel", "english": "the rule", "example": "Die Regel ist klar.", "ease": 2.5 },
+
+  { "id": 491, "level": "A2", "german": "erlaubt", "english": "allowed", "example": "Das ist erlaubt.", "ease": 2.5 },
+  { "id": 492, "level": "A2", "german": "verboten", "english": "forbidden", "example": "Rauchen ist verboten.", "ease": 2.5 },
+  { "id": 493, "level": "A2", "german": "sicher", "english": "safe", "example": "Der Ort ist sicher.", "ease": 2.5 },
+  { "id": 494, "level": "A2", "german": "gefährlich", "english": "dangerous", "example": "Das ist gefährlich.", "ease": 2.5 },
+  { "id": 495, "level": "A2", "german": "vorsichtig", "english": "careful", "example": "Sei vorsichtig!", "ease": 2.5 },
+
+  { "id": 496, "level": "A2", "german": "typisch", "english": "typical", "example": "Das ist typisch.", "ease": 2.5 },
+  { "id": 497, "level": "A2", "german": "normal", "english": "normal", "example": "Das ist normal.", "ease": 2.5 },
+  { "id": 498, "level": "A2", "german": "ungewöhnlich", "english": "unusual", "example": "Das ist ungewöhnlich.", "ease": 2.5 },
+  { "id": 499, "level": "A2", "german": "zufällig", "english": "by chance", "example": "Wir treffen uns zufällig.", "ease": 2.5 },
+  { "id": 500, "level": "A2", "german": "absichtlich", "english": "on purpose", "example": "Das mache ich absichtlich.", "ease": 2.5 },
+  { "id": 501, "level": "A2", "german": "die Bildung", "english": "the education", "example": "Bildung ist wichtig.", "ease": 2.5 },
+  { "id": 502, "level": "A2", "german": "die Schule", "english": "the school", "example": "Die Schule beginnt um acht.", "ease": 2.5 },
+  { "id": 503, "level": "A2", "german": "die Ausbildung", "english": "the training / apprenticeship", "example": "Er macht eine Ausbildung.", "ease": 2.5 },
+  { "id": 504, "level": "A2", "german": "das Studium", "english": "the studies", "example": "Das Studium ist schwer.", "ease": 2.5 },
+  { "id": 505, "level": "A2", "german": "die Prüfung", "english": "the exam", "example": "Die Prüfung ist morgen.", "ease": 2.5 },
+
+  { "id": 506, "level": "A2", "german": "der Unterricht", "english": "the lesson", "example": "Der Unterricht beginnt.", "ease": 2.5 },
+  { "id": 507, "level": "A2", "german": "das Fach", "english": "the subject", "example": "Deutsch ist mein Fach.", "ease": 2.5 },
+  { "id": 508, "level": "A2", "german": "die Note", "english": "the grade", "example": "Ich bekomme eine gute Note.", "ease": 2.5 },
+  { "id": 509, "level": "A2", "german": "bestehen", "english": "to pass", "example": "Ich bestehe die Prüfung.", "ease": 2.5 },
+  { "id": 510, "level": "A2", "german": "durchfallen", "english": "to fail", "example": "Er fällt durch.", "ease": 2.5 },
+
+  { "id": 511, "level": "A2", "german": "die Sprache", "english": "the language", "example": "Deutsch ist eine Sprache.", "ease": 2.5 },
+  { "id": 512, "level": "A2", "german": "das Wort", "english": "the word", "example": "Dieses Wort ist neu.", "ease": 2.5 },
+  { "id": 513, "level": "A2", "german": "der Satz", "english": "the sentence", "example": "Der Satz ist korrekt.", "ease": 2.5 },
+  { "id": 514, "level": "A2", "german": "die Bedeutung", "english": "the meaning", "example": "Was ist die Bedeutung?", "ease": 2.5 },
+  { "id": 515, "level": "A2", "german": "übersetzen", "english": "to translate", "example": "Ich übersetze den Text.", "ease": 2.5 },
+
+  { "id": 516, "level": "A2", "german": "die Grammatik", "english": "the grammar", "example": "Die Grammatik ist schwierig.", "ease": 2.5 },
+  { "id": 517, "level": "A2", "german": "die Regel", "english": "the rule", "example": "Die Regel ist einfach.", "ease": 2.5 },
+  { "id": 518, "level": "A2", "german": "das Beispiel", "english": "the example", "example": "Das Beispiel hilft.", "ease": 2.5 },
+  { "id": 519, "level": "A2", "german": "der Fehler", "english": "the mistake", "example": "Der Fehler ist klein.", "ease": 2.5 },
+  { "id": 520, "level": "A2", "german": "verbessern", "english": "to improve", "example": "Ich verbessere mein Deutsch.", "ease": 2.5 },
+
+  { "id": 521, "level": "A2", "german": "die Arbeit", "english": "the job / work", "example": "Ich suche Arbeit.", "ease": 2.5 },
+  { "id": 522, "level": "A2", "german": "der Arbeitsplatz", "english": "the workplace", "example": "Mein Arbeitsplatz ist ruhig.", "ease": 2.5 },
+  { "id": 523, "level": "A2", "german": "die Bewerbung", "english": "the application", "example": "Ich schreibe eine Bewerbung.", "ease": 2.5 },
+  { "id": 524, "level": "A2", "german": "das Gespräch", "english": "the conversation / interview", "example": "Das Gespräch war gut.", "ease": 2.5 },
+  { "id": 525, "level": "A2", "german": "die Erfahrung", "english": "the experience", "example": "Ich habe Erfahrung.", "ease": 2.5 },
+
+  { "id": 526, "level": "A2", "german": "die Verantwortung", "english": "the responsibility", "example": "Ich habe Verantwortung.", "ease": 2.5 },
+  { "id": 527, "level": "A2", "german": "die Pause", "english": "the break", "example": "Wir machen eine Pause.", "ease": 2.5 },
+  { "id": 528, "level": "A2", "german": "die Überstunden", "english": "the overtime", "example": "Ich mache Überstunden.", "ease": 2.5 },
+  { "id": 529, "level": "A2", "german": "das Gehalt", "english": "the salary", "example": "Das Gehalt ist gut.", "ease": 2.5 },
+  { "id": 530, "level": "A2", "german": "der Urlaub", "english": "the vacation", "example": "Ich habe Urlaub.", "ease": 2.5 },
+
+  { "id": 531, "level": "A2", "german": "der Kunde", "english": "the customer", "example": "Der Kunde ist zufrieden.", "ease": 2.5 },
+  { "id": 532, "level": "A2", "german": "der Chef", "english": "the boss", "example": "Der Chef ist nett.", "ease": 2.5 },
+  { "id": 533, "level": "A2", "german": "die Kollegin", "english": "the female colleague", "example": "Die Kollegin hilft mir.", "ease": 2.5 },
+  { "id": 534, "level": "A2", "german": "das Team", "english": "the team", "example": "Das Team arbeitet gut.", "ease": 2.5 },
+  { "id": 535, "level": "A2", "german": "zusammenarbeiten", "english": "to collaborate", "example": "Wir arbeiten zusammen.", "ease": 2.5 },
+
+  { "id": 536, "level": "A2", "german": "der Vertrag", "english": "the contract", "example": "Der Vertrag ist neu.", "ease": 2.5 },
+  { "id": 537, "level": "A2", "german": "kündigen", "english": "to resign / cancel", "example": "Ich kündige den Vertrag.", "ease": 2.5 },
+  { "id": 538, "level": "A2", "german": "verlängern", "english": "to extend", "example": "Wir verlängern den Vertrag.", "ease": 2.5 },
+  { "id": 539, "level": "A2", "german": "die Frist", "english": "the deadline", "example": "Die Frist ist morgen.", "ease": 2.5 },
+  { "id": 540, "level": "A2", "german": "pünktlich", "english": "punctual", "example": "Ich bin pünktlich.", "ease": 2.5 },
+
+  { "id": 541, "level": "A2", "german": "die Freizeit", "english": "free time", "example": "In meiner Freizeit lese ich.", "ease": 2.5 },
+  { "id": 542, "level": "A2", "german": "entspannen", "english": "to relax", "example": "Ich entspanne mich.", "ease": 2.5 },
+  { "id": 543, "level": "A2", "german": "spazieren gehen", "english": "to go for a walk", "example": "Ich gehe spazieren.", "ease": 2.5 },
+  { "id": 544, "level": "A2", "german": "treffen", "english": "to meet", "example": "Ich treffe Freunde.", "ease": 2.5 },
+  { "id": 545, "level": "A2", "german": "unterhalten", "english": "to chat / entertain", "example": "Wir unterhalten uns.", "ease": 2.5 },
+
+  { "id": 546, "level": "A2", "german": "der Film", "english": "the movie", "example": "Der Film ist spannend.", "ease": 2.5 },
+  { "id": 547, "level": "A2", "german": "die Serie", "english": "the series", "example": "Die Serie ist beliebt.", "ease": 2.5 },
+  { "id": 548, "level": "A2", "german": "das Konzert", "english": "the concert", "example": "Das Konzert war gut.", "ease": 2.5 },
+  { "id": 549, "level": "A2", "german": "das Museum", "english": "the museum", "example": "Das Museum ist interessant.", "ease": 2.5 },
+  { "id": 550, "level": "A2", "german": "die Ausstellung", "english": "the exhibition", "example": "Die Ausstellung ist neu.", "ease": 2.5 },
+  
+  { "id": 551, "level": "A2", "german": "die Kultur", "english": "the culture", "example": "Die Kultur ist interessant.", "ease": 2.5 },
+  { "id": 552, "level": "A2", "german": "die Tradition", "english": "the tradition", "example": "Das ist eine alte Tradition.", "ease": 2.5 },
+  { "id": 553, "level": "A2", "german": "das Fest", "english": "the festival", "example": "Das Fest ist schön.", "ease": 2.5 },
+  { "id": 554, "level": "A2", "german": "feiern", "english": "to celebrate", "example": "Wir feiern zusammen.", "ease": 2.5 },
+  { "id": 555, "level": "A2", "german": "besuchen", "english": "to visit", "example": "Ich besuche meine Familie.", "ease": 2.5 },
+
+  { "id": 556, "level": "A2", "german": "die Geschichte", "english": "the history / story", "example": "Die Geschichte ist spannend.", "ease": 2.5 },
+  { "id": 557, "level": "A2", "german": "die Vergangenheit", "english": "the past", "example": "Die Vergangenheit ist wichtig.", "ease": 2.5 },
+  { "id": 558, "level": "A2", "german": "die Zukunft", "english": "the future", "example": "Die Zukunft ist offen.", "ease": 2.5 },
+  { "id": 559, "level": "A2", "german": "der Traum", "english": "the dream", "example": "Das ist mein Traum.", "ease": 2.5 },
+  { "id": 560, "level": "A2", "german": "das Ziel", "english": "the goal", "example": "Mein Ziel ist klar.", "ease": 2.5 },
+
+  { "id": 561, "level": "A2", "german": "hoffen", "english": "to hope", "example": "Ich hoffe auf Erfolg.", "ease": 2.5 },
+  { "id": 562, "level": "A2", "german": "glauben", "english": "to believe", "example": "Ich glaube dir.", "ease": 2.5 },
+  { "id": 563, "level": "A2", "german": "zweifeln", "english": "to doubt", "example": "Ich zweifle daran.", "ease": 2.5 },
+  { "id": 564, "level": "A2", "german": "vertrauen", "english": "to trust", "example": "Ich vertraue dir.", "ease": 2.5 },
+  { "id": 565, "level": "A2", "german": "erwarten", "english": "to expect", "example": "Ich erwarte eine Antwort.", "ease": 2.5 },
+
+  { "id": 566, "level": "A2", "german": "die Umwelt", "english": "the environment", "example": "Die Umwelt ist wichtig.", "ease": 2.5 },
+  { "id": 567, "level": "A2", "german": "der Müll", "english": "the trash", "example": "Der Müll gehört hierher.", "ease": 2.5 },
+  { "id": 568, "level": "A2", "german": "recyceln", "english": "to recycle", "example": "Wir recyceln Papier.", "ease": 2.5 },
+  { "id": 569, "level": "A2", "german": "sparen", "english": "to save", "example": "Ich spare Geld.", "ease": 2.5 },
+  { "id": 570, "level": "A2", "german": "verbrauchen", "english": "to consume", "example": "Wir verbrauchen viel Strom.", "ease": 2.5 },
+
+  { "id": 571, "level": "A2", "german": "die Natur", "english": "the nature", "example": "Die Natur ist schön.", "ease": 2.5 },
+  { "id": 572, "level": "A2", "german": "der Baum", "english": "the tree", "example": "Der Baum ist alt.", "ease": 2.5 },
+  { "id": 573, "level": "A2", "german": "die Pflanze", "english": "the plant", "example": "Die Pflanze wächst.", "ease": 2.5 },
+  { "id": 574, "level": "A2", "german": "das Tier", "english": "the animal", "example": "Das Tier ist ruhig.", "ease": 2.5 },
+  { "id": 575, "level": "A2", "german": "der Wald", "english": "the forest", "example": "Der Wald ist groß.", "ease": 2.5 },
+
+  { "id": 576, "level": "A2", "german": "der Fluss", "english": "the river", "example": "Der Fluss ist lang.", "ease": 2.5 },
+  { "id": 577, "level": "A2", "german": "der Berg", "english": "the mountain", "example": "Der Berg ist hoch.", "ease": 2.5 },
+  { "id": 578, "level": "A2", "german": "das Meer", "english": "the sea", "example": "Das Meer ist blau.", "ease": 2.5 },
+  { "id": 579, "level": "A2", "german": "der Strand", "english": "the beach", "example": "Der Strand ist schön.", "ease": 2.5 },
+  { "id": 580, "level": "A2", "german": "die Insel", "english": "the island", "example": "Die Insel ist klein.", "ease": 2.5 },
+
+  { "id": 581, "level": "A2", "german": "das Internet", "english": "the internet", "example": "Ich nutze das Internet.", "ease": 2.5 },
+  { "id": 582, "level": "A2", "german": "die Webseite", "english": "the website", "example": "Die Webseite ist neu.", "ease": 2.5 },
+  { "id": 583, "level": "A2", "german": "die App", "english": "the app", "example": "Die App ist praktisch.", "ease": 2.5 },
+  { "id": 584, "level": "A2", "german": "die Technik", "english": "the technology", "example": "Technik hilft uns.", "ease": 2.5 },
+  { "id": 585, "level": "A2", "german": "das Gerät", "english": "the device", "example": "Das Gerät ist kaputt.", "ease": 2.5 },
+
+  { "id": 586, "level": "A2", "german": "nutzen", "english": "to use", "example": "Ich nutze mein Handy.", "ease": 2.5 },
+  { "id": 587, "level": "A2", "german": "speichern", "english": "to save (data)", "example": "Ich speichere die Datei.", "ease": 2.5 },
+  { "id": 588, "level": "A2", "german": "löschen", "english": "to delete", "example": "Ich lösche die Nachricht.", "ease": 2.5 },
+  { "id": 589, "level": "A2", "german": "schicken", "english": "to send", "example": "Ich schicke eine E-Mail.", "ease": 2.5 },
+  { "id": 590, "level": "A2", "german": "empfangen", "english": "to receive", "example": "Ich empfange eine Nachricht.", "ease": 2.5 },
+
+  { "id": 591, "level": "A2", "german": "die Nachricht", "english": "the message", "example": "Die Nachricht ist wichtig.", "ease": 2.5 },
+  { "id": 592, "level": "A2", "german": "die Meinung", "english": "the opinion", "example": "Das ist meine Meinung.", "ease": 2.5 },
+  { "id": 593, "level": "A2", "german": "der Unterschied", "english": "the difference", "example": "Der Unterschied ist klein.", "ease": 2.5 },
+  { "id": 594, "level": "A2", "german": "ähnlich", "english": "similar", "example": "Die Farben sind ähnlich.", "ease": 2.5 },
+  { "id": 595, "level": "A2", "german": "gleich", "english": "same", "example": "Wir haben das gleiche Ziel.", "ease": 2.5 },
+
+  { "id": 596, "level": "A2", "german": "anders", "english": "different", "example": "Das ist anders.", "ease": 2.5 },
+  { "id": 597, "level": "A2", "german": "klar", "english": "clear", "example": "Das ist klar.", "ease": 2.5 },
+  { "id": 598, "level": "A2", "german": "kompliziert", "english": "complicated", "example": "Das ist kompliziert.", "ease": 2.5 },
+  { "id": 599, "level": "A2", "german": "einfacher", "english": "easier", "example": "Das ist einfacher.", "ease": 2.5 },
+  { "id": 600, "level": "A2", "german": "schwieriger", "english": "more difficult", "example": "Das ist schwieriger.", "ease": 2.5 },
+ {
+   "id": 601,
+   "level": "B1",
+   "german": "akzeptieren",
+   "english": "to accept",
+   "example": "Ich akzeptiere die Entscheidung.",
+   "ease": 2.5
+ },
+ {
+   "id": 602,
+   "level": "B1",
+   "german": "ableiten",
+   "english": "to derive",
+   "example": "Man kann das Ergebnis ableiten.",
+   "ease": 2.5
+ },
+ {
+   "id": 603,
+   "level": "B1",
+   "german": "absolvieren",
+   "english": "to complete",
+   "example": "Er absolviert den Kurs.",
+   "ease": 2.5
+ },
+ {
+   "id": 604,
+   "level": "B1",
+   "german": "abwägen",
+   "english": "to weigh",
+   "example": "Wir müssen die Optionen abwägen.",
+   "ease": 2.5
+ },
+ {
+   "id": 605,
+   "level": "B1",
+   "german": "anpassen",
+   "english": "to adapt",
+   "example": "Ich passe mich an.",
+   "ease": 2.5
+ },
+ {
+   "id": 606,
+   "level": "B1",
+   "german": "anregen",
+   "english": "to stimulate",
+   "example": "Der Vortrag regt zum Denken an.",
+   "ease": 2.5
+ },
+ {
+   "id": 607,
+   "level": "B1",
+   "german": "ansprechen",
+   "english": "to address",
+   "example": "Das Thema spricht mich an.",
+   "ease": 2.5
+ },
+ {
+   "id": 608,
+   "level": "B1",
+   "german": "anwenden",
+   "english": "to apply",
+   "example": "Ich wende die Regel an.",
+   "ease": 2.5
+ },
+ {
+   "id": 609,
+   "level": "B1",
+   "german": "aufbauen",
+   "english": "to build",
+   "example": "Wir bauen Vertrauen auf.",
+   "ease": 2.5
+ },
+ {
+   "id": 610,
+   "level": "B1",
+   "german": "aufgeben",
+   "english": "to give up",
+   "example": "Ich gebe nicht auf.",
+   "ease": 2.5
+ },
+ {
+   "id": 611,
+   "level": "B1",
+   "german": "ausdrücken",
+   "english": "to express",
+   "example": "Sie drückt ihre Meinung aus.",
+   "ease": 2.5
+ },
+ {
+   "id": 612,
+   "level": "B1",
+   "german": "auswirken",
+   "english": "to affect",
+   "example": "Das wirkt sich positiv aus.",
+   "ease": 2.5
+ },
+ {
+   "id": 613,
+   "level": "B1",
+   "german": "beeinflussen",
+   "english": "to influence",
+   "example": "Medien beeinflussen Meinungen.",
+   "ease": 2.5
+ },
+ {
+   "id": 614,
+   "level": "B1",
+   "german": "beitragen",
+   "english": "to contribute",
+   "example": "Jeder kann beitragen.",
+   "ease": 2.5
+ },
+ {
+   "id": 615,
+   "level": "B1",
+   "german": "bemerkenswert",
+   "english": "remarkable",
+   "example": "Das ist bemerkenswert.",
+   "ease": 2.5
+ },
+ {
+   "id": 616,
+   "level": "B1",
+   "german": "beobachten",
+   "english": "to observe",
+   "example": "Ich beobachte die Situation.",
+   "ease": 2.5
+ },
+ {
+   "id": 617,
+   "level": "B1",
+   "german": "berücksichtigen",
+   "english": "to consider",
+   "example": "Bitte berücksichtigen Sie das.",
+   "ease": 2.5
+ },
+ {
+   "id": 618,
+   "level": "B1",
+   "german": "beschleunigen",
+   "english": "to accelerate",
+   "example": "Der Prozess beschleunigt sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 619,
+   "level": "B1",
+   "german": "beschränken",
+   "english": "to limit",
+   "example": "Die Zeit ist beschränkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 620,
+   "level": "B1",
+   "german": "bestätigen",
+   "english": "to confirm",
+   "example": "Ich bestätige den Termin.",
+   "ease": 2.5
+ },
+ {
+   "id": 621,
+   "level": "B1",
+   "german": "bewältigen",
+   "english": "to cope with",
+   "example": "Sie bewältigt den Stress.",
+   "ease": 2.5
+ },
+ {
+   "id": 622,
+   "level": "B1",
+   "german": "bewusst",
+   "english": "conscious",
+   "example": "Mir ist das bewusst.",
+   "ease": 2.5
+ },
+ {
+   "id": 623,
+   "level": "B1",
+   "german": "bereitstellen",
+   "english": "to provide",
+   "example": "Die Firma stellt Ressourcen bereit.",
+   "ease": 2.5
+ },
+ {
+   "id": 624,
+   "level": "B1",
+   "german": "betonen",
+   "english": "to emphasize",
+   "example": "Er betont den Punkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 625,
+   "level": "B1",
+   "german": "betrachten",
+   "english": "to consider",
+   "example": "Man muss es anders betrachten.",
+   "ease": 2.5
+ },
+ {
+   "id": 626,
+   "level": "B1",
+   "german": "beurteilen",
+   "english": "to judge",
+   "example": "Ich kann das nicht beurteilen.",
+   "ease": 2.5
+ },
+ {
+   "id": 627,
+   "level": "B1",
+   "german": "definieren",
+   "english": "to define",
+   "example": "Wir definieren das Ziel.",
+   "ease": 2.5
+ },
+ {
+   "id": 628,
+   "level": "B1",
+   "german": "dementsprechend",
+   "english": "accordingly",
+   "example": "Wir handeln dementsprechend.",
+   "ease": 2.5
+ },
+ {
+   "id": 629,
+   "level": "B1",
+   "german": "dennoch",
+   "english": "nevertheless",
+   "example": "Dennoch versuchen wir es.",
+   "ease": 2.5
+ },
+ {
+   "id": 630,
+   "level": "B1",
+   "german": "detailliert",
+   "english": "detailed",
+   "example": "Die Erklärung ist detailliert.",
+   "ease": 2.5
+ },
+ {
+   "id": 631,
+   "level": "B1",
+   "german": "entwickeln",
+   "english": "to develop",
+   "example": "Die Idee entwickelt sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 632,
+   "level": "B1",
+   "german": "erfassen",
+   "english": "to grasp",
+   "example": "Ich erfasse das Problem.",
+   "ease": 2.5
+ },
+ {
+   "id": 633,
+   "level": "B1",
+   "german": "erfolgreich",
+   "english": "successful",
+   "example": "Das Projekt war erfolgreich.",
+   "ease": 2.5
+ },
+ {
+   "id": 634,
+   "level": "B1",
+   "german": "erfordern",
+   "english": "to require",
+   "example": "Das erfordert Geduld.",
+   "ease": 2.5
+ },
+ {
+   "id": 635,
+   "level": "B1",
+   "german": "erheblich",
+   "english": "significant",
+   "example": "Der Unterschied ist erheblich.",
+   "ease": 2.5
+ },
+ {
+   "id": 636,
+   "level": "B1",
+   "german": "erkennen",
+   "english": "to recognize",
+   "example": "Ich erkenne das Muster.",
+   "ease": 2.5
+ },
+ {
+   "id": 637,
+   "level": "B1",
+   "german": "erläutern",
+   "english": "to explain",
+   "example": "Bitte erläutern Sie das.",
+   "ease": 2.5
+ },
+ {
+   "id": 638,
+   "level": "B1",
+   "german": "ermöglichen",
+   "english": "to enable",
+   "example": "Das ermöglicht Wachstum.",
+   "ease": 2.5
+ },
+ {
+   "id": 639,
+   "level": "B1",
+   "german": "erreichen",
+   "english": "to achieve",
+   "example": "Wir erreichen unser Ziel.",
+   "ease": 2.5
+ },
+ {
+   "id": 640,
+   "level": "B1",
+   "german": "erweitern",
+   "english": "to expand",
+   "example": "Wir erweitern das Angebot.",
+   "ease": 2.5
+ },
+ {
+   "id": 641,
+   "level": "B1",
+   "german": "erwähnen",
+   "english": "to mention",
+   "example": "Er erwähnt das kurz.",
+   "ease": 2.5
+ },
+ {
+   "id": 642,
+   "level": "B1",
+   "german": "erwägen",
+   "english": "to consider",
+   "example": "Wir erwägen einen Wechsel.",
+   "ease": 2.5
+ },
+ {
+   "id": 643,
+   "level": "B1",
+   "german": "faktisch",
+   "english": "factual",
+   "example": "Das ist faktisch korrekt.",
+   "ease": 2.5
+ },
+ {
+   "id": 644,
+   "level": "B1",
+   "german": "festlegen",
+   "english": "to define",
+   "example": "Wir legen Regeln fest.",
+   "ease": 2.5
+ },
+ {
+   "id": 645,
+   "level": "B1",
+   "german": "feststellen",
+   "english": "to determine",
+   "example": "Wir stellen Fehler fest.",
+   "ease": 2.5
+ },
+ {
+   "id": 646,
+   "level": "B1",
+   "german": "fördern",
+   "english": "to promote",
+   "example": "Bildung fördert Entwicklung.",
+   "ease": 2.5
+ },
+ {
+   "id": 647,
+   "level": "B1",
+   "german": "fortsetzen",
+   "english": "to continue",
+   "example": "Wir setzen das fort.",
+   "ease": 2.5
+ },
+ {
+   "id": 648,
+   "level": "B1",
+   "german": "grundsätzlich",
+   "english": "fundamental",
+   "example": "Das ist grundsätzlich richtig.",
+   "ease": 2.5
+ },
+ {
+   "id": 649,
+   "level": "B1",
+   "german": "herausfordern",
+   "english": "to challenge",
+   "example": "Das fordert mich heraus.",
+   "ease": 2.5
+ },
+ {
+   "id": 650,
+   "level": "B1",
+   "german": "hinterfragen",
+   "english": "to question",
+   "example": "Man sollte das hinterfragen.",
+   "ease": 2.5
+ },
+ {
+   "id": 651,
+   "level": "B1",
+   "german": "hinweisen",
+   "english": "to point out",
+   "example": "Ich weise darauf hin.",
+   "ease": 2.5
+ },
+ {
+   "id": 652,
+   "level": "B1",
+   "german": "idealerweise",
+   "english": "ideally",
+   "example": "Idealerweise klappt es.",
+   "ease": 2.5
+ },
+ {
+   "id": 653,
+   "level": "B1",
+   "german": "ignorieren",
+   "english": "to ignore",
+   "example": "Er ignoriert die Kritik.",
+   "ease": 2.5
+ },
+ {
+   "id": 654,
+   "level": "B1",
+   "german": "individuell",
+   "english": "individual",
+   "example": "Jeder lernt individuell.",
+   "ease": 2.5
+ },
+ {
+   "id": 655,
+   "level": "B1",
+   "german": "integrieren",
+   "english": "to integrate",
+   "example": "Wir integrieren neue Ideen.",
+   "ease": 2.5
+ },
+ {
+   "id": 656,
+   "level": "B1",
+   "german": "interpretieren",
+   "english": "to interpret",
+   "example": "Man kann das anders interpretieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 657,
+   "level": "B1",
+   "german": "investieren",
+   "english": "to invest",
+   "example": "Sie investiert Zeit.",
+   "ease": 2.5
+ },
+ {
+   "id": 658,
+   "level": "B1",
+   "german": "kategorisieren",
+   "english": "to categorize",
+   "example": "Wir kategorisieren Daten.",
+   "ease": 2.5
+ },
+ {
+   "id": 659,
+   "level": "B1",
+   "german": "kombinieren",
+   "english": "to combine",
+   "example": "Man kann beides kombinieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 660,
+   "level": "B1",
+   "german": "komplex",
+   "english": "complex",
+   "example": "Das Thema ist komplex.",
+   "ease": 2.5
+ },
+ {
+   "id": 661,
+   "level": "B1",
+   "german": "kritisch",
+   "english": "critical",
+   "example": "Er denkt kritisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 662,
+   "level": "B1",
+   "german": "langfristig",
+   "english": "long-term",
+   "example": "Langfristig lohnt es sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 663,
+   "level": "B1",
+   "german": "logisch",
+   "english": "logical",
+   "example": "Das klingt logisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 664,
+   "level": "B1",
+   "german": "lösungsorientiert",
+   "english": "solution-oriented",
+   "example": "Sie arbeitet lösungsorientiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 665,
+   "level": "B1",
+   "german": "maßgeblich",
+   "english": "decisive",
+   "example": "Das ist maßgeblich.",
+   "ease": 2.5
+ },
+ {
+   "id": 666,
+   "level": "B1",
+   "german": "missverstehen",
+   "english": "to misunderstand",
+   "example": "Ich habe das missverstanden.",
+   "ease": 2.5
+ },
+ {
+   "id": 667,
+   "level": "B1",
+   "german": "nachvollziehen",
+   "english": "to understand",
+   "example": "Ich kann das nachvollziehen.",
+   "ease": 2.5
+ },
+ {
+   "id": 668,
+   "level": "B1",
+   "german": "nachweisen",
+   "english": "to prove",
+   "example": "Man kann es nachweisen.",
+   "ease": 2.5
+ },
+ {
+   "id": 669,
+   "level": "B1",
+   "german": "neutral",
+   "english": "neutral",
+   "example": "Er bleibt neutral.",
+   "ease": 2.5
+ },
+ {
+   "id": 670,
+   "level": "B1",
+   "german": "objektiv",
+   "english": "objective",
+   "example": "Wir bleiben objektiv.",
+   "ease": 2.5
+ },
+ {
+   "id": 671,
+   "level": "B1",
+   "german": "offensichtlich",
+   "english": "obvious",
+   "example": "Das ist offensichtlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 672,
+   "level": "B1",
+   "german": "optimieren",
+   "english": "to optimize",
+   "example": "Wir optimieren den Prozess.",
+   "ease": 2.5
+ },
+ {
+   "id": 673,
+   "level": "B1",
+   "german": "orientieren",
+   "english": "to orient",
+   "example": "Ich orientiere mich neu.",
+   "ease": 2.5
+ },
+ {
+   "id": 674,
+   "level": "B1",
+   "german": "organisieren",
+   "english": "to organize",
+   "example": "Ich organisiere das.",
+   "ease": 2.5
+ },
+ {
+   "id": 675,
+   "level": "B1",
+   "german": "persönlich",
+   "english": "personal",
+   "example": "Das ist persönlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 676,
+   "level": "B1",
+   "german": "priorisieren",
+   "english": "to prioritize",
+   "example": "Wir priorisieren Aufgaben.",
+   "ease": 2.5
+ },
+ {
+   "id": 677,
+   "level": "B1",
+   "german": "problematisch",
+   "english": "problematic",
+   "example": "Das ist problematisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 678,
+   "level": "B1",
+   "german": "professionell",
+   "english": "professional",
+   "example": "Sie arbeitet professionell.",
+   "ease": 2.5
+ },
+ {
+   "id": 679,
+   "level": "B1",
+   "german": "realistisch",
+   "english": "realistic",
+   "example": "Das ist realistisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 680,
+   "level": "B1",
+   "german": "reflektieren",
+   "english": "to reflect",
+   "example": "Ich reflektiere darüber.",
+   "ease": 2.5
+ },
+ {
+   "id": 681,
+   "level": "B1",
+   "german": "relevant",
+   "english": "relevant",
+   "example": "Das ist relevant.",
+   "ease": 2.5
+ },
+ {
+   "id": 682,
+   "level": "B1",
+   "german": "respektieren",
+   "english": "to respect",
+   "example": "Wir respektieren Regeln.",
+   "ease": 2.5
+ },
+ {
+   "id": 683,
+   "level": "B1",
+   "german": "reagieren",
+   "english": "to react",
+   "example": "Er reagiert ruhig.",
+   "ease": 2.5
+ },
+ {
+   "id": 684,
+   "level": "B1",
+   "german": "schätzen",
+   "english": "to estimate",
+   "example": "Ich schätze den Aufwand.",
+   "ease": 2.5
+ },
+ {
+   "id": 685,
+   "level": "B1",
+   "german": "selbstständig",
+   "english": "independent",
+   "example": "Er arbeitet selbstständig.",
+   "ease": 2.5
+ },
+ {
+   "id": 686,
+   "level": "B1",
+   "german": "signifikant",
+   "english": "significant",
+   "example": "Der Effekt ist signifikant.",
+   "ease": 2.5
+ },
+ {
+   "id": 687,
+   "level": "B1",
+   "german": "spezifisch",
+   "english": "specific",
+   "example": "Bitte sei spezifisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 688,
+   "level": "B1",
+   "german": "stabil",
+   "english": "stable",
+   "example": "Die Situation ist stabil.",
+   "ease": 2.5
+ },
+ {
+   "id": 689,
+   "level": "B1",
+   "german": "strukturiert",
+   "english": "structured",
+   "example": "Der Text ist strukturiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 690,
+   "level": "B1",
+   "german": "systematisch",
+   "english": "systematic",
+   "example": "Wir gehen systematisch vor.",
+   "ease": 2.5
+ },
+ {
+   "id": 691,
+   "level": "B1",
+   "german": "teilweise",
+   "english": "partly",
+   "example": "Das stimmt teilweise.",
+   "ease": 2.5
+ },
+ {
+   "id": 692,
+   "level": "B1",
+   "german": "thematisieren",
+   "english": "to address",
+   "example": "Wir thematisieren das Problem.",
+   "ease": 2.5
+ },
+ {
+   "id": 693,
+   "level": "B1",
+   "german": "tendenziell",
+   "english": "tendentially",
+   "example": "Tendenziell ist es besser.",
+   "ease": 2.5
+ },
+ {
+   "id": 694,
+   "level": "B1",
+   "german": "transparent",
+   "english": "transparent",
+   "example": "Der Prozess ist transparent.",
+   "ease": 2.5
+ },
+ {
+   "id": 695,
+   "level": "B1",
+   "german": "überlegen",
+   "english": "to consider",
+   "example": "Ich überlege es mir.",
+   "ease": 2.5
+ },
+ {
+   "id": 696,
+   "level": "B1",
+   "german": "überzeugen",
+   "english": "to convince",
+   "example": "Das Argument überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 697,
+   "level": "B1",
+   "german": "umsetzen",
+   "english": "to implement",
+   "example": "Wir setzen den Plan um.",
+   "ease": 2.5
+ },
+ {
+   "id": 698,
+   "level": "B1",
+   "german": "unabhängig",
+   "english": "independent",
+   "example": "Er ist unabhängig.",
+   "ease": 2.5
+ },
+ {
+   "id": 699,
+   "level": "B1",
+   "german": "unterschätzen",
+   "english": "to underestimate",
+   "example": "Man darf das nicht unterschätzen.",
+   "ease": 2.5
+ },
+ {
+   "id": 700,
+   "level": "B1",
+   "german": "unterstützen",
+   "english": "to support",
+   "example": "Wir unterstützen dich.",
+   "ease": 2.5
+ },
+ {
+   "id": 701,
+   "level": "B1",
+   "german": "verändern",
+   "english": "to change",
+   "example": "Die Situation verändert sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 702,
+   "level": "B1",
+   "german": "verantwortlich",
+   "english": "responsible",
+   "example": "Er ist verantwortlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 703,
+   "level": "B1",
+   "german": "vergleichen",
+   "english": "to compare",
+   "example": "Wir vergleichen Optionen.",
+   "ease": 2.5
+ },
+ {
+   "id": 704,
+   "level": "B1",
+   "german": "vermeiden",
+   "english": "to avoid",
+   "example": "Ich vermeide Fehler.",
+   "ease": 2.5
+ },
+ {
+   "id": 705,
+   "level": "B1",
+   "german": "vermitteln",
+   "english": "to convey",
+   "example": "Er vermittelt Wissen.",
+   "ease": 2.5
+ },
+ {
+   "id": 706,
+   "level": "B1",
+   "german": "verpflichten",
+   "english": "to oblige",
+   "example": "Das verpflichtet uns.",
+   "ease": 2.5
+ },
+ {
+   "id": 707,
+   "level": "B1",
+   "german": "verstehen",
+   "english": "to understand",
+   "example": "Ich verstehe dich.",
+   "ease": 2.5
+ },
+ {
+   "id": 708,
+   "level": "B1",
+   "german": "vertiefen",
+   "english": "to deepen",
+   "example": "Wir vertiefen das Thema.",
+   "ease": 2.5
+ },
+ {
+   "id": 709,
+   "level": "B1",
+   "german": "verzichten",
+   "english": "to give up",
+   "example": "Ich verzichte darauf.",
+   "ease": 2.5
+ },
+ {
+   "id": 710,
+   "level": "B1",
+   "german": "voraussichtlich",
+   "english": "probably",
+   "example": "Voraussichtlich klappt es.",
+   "ease": 2.5
+ },
+ {
+   "id": 711,
+   "level": "B1",
+   "german": "weiterentwickeln",
+   "english": "to further develop",
+   "example": "Wir entwickeln es weiter.",
+   "ease": 2.5
+ },
+ {
+   "id": 712,
+   "level": "B1",
+   "german": "widerspiegeln",
+   "english": "to reflect",
+   "example": "Das spiegelt Realität wider.",
+   "ease": 2.5
+ },
+ {
+   "id": 713,
+   "level": "B1",
+   "german": "widersprechen",
+   "english": "to contradict",
+   "example": "Er widerspricht mir.",
+   "ease": 2.5
+ },
+ {
+   "id": 714,
+   "level": "B1",
+   "german": "wirtschaftlich",
+   "english": "economic",
+   "example": "Das ist wirtschaftlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 715,
+   "level": "B1",
+   "german": "zielgerichtet",
+   "english": "goal-oriented",
+   "example": "Sie arbeitet zielgerichtet.",
+   "ease": 2.5
+ },
+ {
+   "id": 716,
+   "level": "B1",
+   "german": "zufriedenstellend",
+   "english": "satisfactory",
+   "example": "Das Ergebnis ist zufriedenstellend.",
+   "ease": 2.5
+ },
+ {
+   "id": 717,
+   "level": "B1",
+   "german": "zusammenfassen",
+   "english": "to summarize",
+   "example": "Ich fasse es zusammen.",
+   "ease": 2.5
+ },
+ {
+   "id": 718,
+   "level": "B1",
+   "german": "zusammenhängen",
+   "english": "to be related",
+   "example": "Die Themen hängen zusammen.",
+   "ease": 2.5
+ },
+ {
+   "id": 719,
+   "level": "B1",
+   "german": "zweckmäßig",
+   "english": "practical",
+   "example": "Die Lösung ist zweckmäßig.",
+   "ease": 2.5
+ },
+ {
+   "id": 720,
+   "level": "B1",
+   "german": "überblicken",
+   "english": "to grasp overview",
+   "example": "Ich überblicke die Lage.",
+   "ease": 2.5
+ },
+ {
+   "id": 721,
+   "level": "B1",
+   "german": "ausgewogen",
+   "english": "balanced",
+   "example": "Die Entscheidung ist ausgewogen.",
+   "ease": 2.5
+ },
+ {
+   "id": 722,
+   "level": "B1",
+   "german": "bedeutsam",
+   "english": "meaningful",
+   "example": "Das ist bedeutsam.",
+   "ease": 2.5
+ },
+ {
+   "id": 723,
+   "level": "B1",
+   "german": "belastbar",
+   "english": "resilient",
+   "example": "Sie ist belastbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 724,
+   "level": "B1",
+   "german": "durchdacht",
+   "english": "well thought out",
+   "example": "Der Plan ist durchdacht.",
+   "ease": 2.5
+ },
+ {
+   "id": 725,
+   "level": "B1",
+   "german": "effizient",
+   "english": "efficient",
+   "example": "Das ist effizient.",
+   "ease": 2.5
+ },
+ {
+   "id": 726,
+   "level": "B1",
+   "german": "eigenständig",
+   "english": "autonomous",
+   "example": "Er arbeitet eigenständig.",
+   "ease": 2.5
+ },
+ {
+   "id": 727,
+   "level": "B1",
+   "german": "einordnen",
+   "english": "to classify",
+   "example": "Man muss das einordnen.",
+   "ease": 2.5
+ },
+ {
+   "id": 728,
+   "level": "B1",
+   "german": "erheblich",
+   "english": "considerable",
+   "example": "Der Aufwand ist erheblich.",
+   "ease": 2.5
+ },
+ {
+   "id": 729,
+   "level": "B1",
+   "german": "erkennbar",
+   "english": "recognizable",
+   "example": "Das Muster ist erkennbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 730,
+   "level": "B1",
+   "german": "fortschrittlich",
+   "english": "progressive",
+   "example": "Die Idee ist fortschrittlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 731,
+   "level": "B1",
+   "german": "grundlegend",
+   "english": "essential",
+   "example": "Das ist grundlegend.",
+   "ease": 2.5
+ },
+ {
+   "id": 732,
+   "level": "B1",
+   "german": "konsequent",
+   "english": "consistent",
+   "example": "Sie handelt konsequent.",
+   "ease": 2.5
+ },
+ {
+   "id": 733,
+   "level": "B1",
+   "german": "nachhaltig",
+   "english": "sustainable",
+   "example": "Das ist nachhaltig.",
+   "ease": 2.5
+ },
+ {
+   "id": 734,
+   "level": "B1",
+   "german": "pragmatisch",
+   "english": "pragmatic",
+   "example": "Wir bleiben pragmatisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 735,
+   "level": "B1",
+   "german": "realistisch",
+   "english": "realistic",
+   "example": "Das Ziel ist realistisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 736,
+   "level": "B1",
+   "german": "repräsentativ",
+   "english": "representative",
+   "example": "Die Daten sind repräsentativ.",
+   "ease": 2.5
+ },
+ {
+   "id": 737,
+   "level": "B1",
+   "german": "robust",
+   "english": "robust",
+   "example": "Das System ist robust.",
+   "ease": 2.5
+ },
+ {
+   "id": 738,
+   "level": "B1",
+   "german": "subjektiv",
+   "english": "subjective",
+   "example": "Das ist subjektiv.",
+   "ease": 2.5
+ },
+ {
+   "id": 739,
+   "level": "B1",
+   "german": "tragfähig",
+   "english": "viable",
+   "example": "Das Konzept ist tragfähig.",
+   "ease": 2.5
+ },
+ {
+   "id": 740,
+   "level": "B1",
+   "german": "umfassend",
+   "english": "comprehensive",
+   "example": "Die Analyse ist umfassend.",
+   "ease": 2.5
+ },
+ {
+   "id": 741,
+   "level": "B1",
+   "german": "verlässlich",
+   "english": "reliable",
+   "example": "Die Quelle ist verlässlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 742,
+   "level": "B1",
+   "german": "vielseitig",
+   "english": "versatile",
+   "example": "Er ist vielseitig.",
+   "ease": 2.5
+ },
+ {
+   "id": 743,
+   "level": "B1",
+   "german": "wirksam",
+   "english": "effective",
+   "example": "Die Maßnahme ist wirksam.",
+   "ease": 2.5
+ },
+ {
+   "id": 744,
+   "level": "B1",
+   "german": "zukunftsorientiert",
+   "english": "future-oriented",
+   "example": "Das Denken ist zukunftsorientiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 745,
+   "level": "B1",
+   "german": "abstimmen",
+   "english": "to coordinate",
+   "example": "Wir stimmen uns ab.",
+   "ease": 2.5
+ },
+ {
+   "id": 746,
+   "level": "B1",
+   "german": "ablehnen",
+   "english": "to reject",
+   "example": "Ich lehne das ab.",
+   "ease": 2.5
+ },
+ {
+   "id": 747,
+   "level": "B1",
+   "german": "anerkennen",
+   "english": "to acknowledge",
+   "example": "Er erkennt die Leistung an.",
+   "ease": 2.5
+ },
+ {
+   "id": 748,
+   "level": "B1",
+   "german": "auswerten",
+   "english": "to evaluate",
+   "example": "Wir werten Daten aus.",
+   "ease": 2.5
+ },
+ {
+   "id": 749,
+   "level": "B1",
+   "german": "begründen",
+   "english": "to justify",
+   "example": "Bitte begründe das.",
+   "ease": 2.5
+ },
+ {
+   "id": 750,
+   "level": "B1",
+   "german": "durchführen",
+   "english": "to carry out",
+   "example": "Wir führen das durch.",
+   "ease": 2.5
+ },
+ {
+   "id": 751,
+   "level": "B1",
+   "german": "einschätzen",
+   "english": "to assess",
+   "example": "Ich schätze das ein.",
+   "ease": 2.5
+ },
+ {
+   "id": 752,
+   "level": "B1",
+   "german": "festigen",
+   "english": "to consolidate",
+   "example": "Wir festigen Wissen.",
+   "ease": 2.5
+ },
+ {
+   "id": 753,
+   "level": "B1",
+   "german": "koordinieren",
+   "english": "to coordinate",
+   "example": "Sie koordiniert das Team.",
+   "ease": 2.5
+ },
+ {
+   "id": 754,
+   "level": "B1",
+   "german": "prioritär",
+   "english": "priority",
+   "example": "Diese Aufgabe ist prioritär.",
+   "ease": 2.5
+ },
+ {
+   "id": 755,
+   "level": "B1",
+   "german": "reflektiert",
+   "english": "reflective",
+   "example": "Er denkt reflektiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 756,
+   "level": "B1",
+   "german": "skalieren",
+   "english": "to scale",
+   "example": "Das System skaliert.",
+   "ease": 2.5
+ },
+ {
+   "id": 757,
+   "level": "B1",
+   "german": "standardisieren",
+   "english": "to standardize",
+   "example": "Wir standardisieren Abläufe.",
+   "ease": 2.5
+ },
+ {
+   "id": 758,
+   "level": "B1",
+   "german": "strategisch",
+   "english": "strategic",
+   "example": "Das ist strategisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 759,
+   "level": "B1",
+   "german": "überarbeiten",
+   "english": "to revise",
+   "example": "Ich überarbeite den Text.",
+   "ease": 2.5
+ },
+ {
+   "id": 760,
+   "level": "B1",
+   "german": "validieren",
+   "english": "to validate",
+   "example": "Wir validieren Ergebnisse.",
+   "ease": 2.5
+ },
+ {
+   "id": 761,
+   "level": "B1",
+   "german": "veranschaulichen",
+   "english": "to illustrate",
+   "example": "Das Beispiel veranschaulicht es.",
+   "ease": 2.5
+ },
+ {
+   "id": 762,
+   "level": "B1",
+   "german": "verfolgen",
+   "english": "to pursue",
+   "example": "Ich verfolge mein Ziel.",
+   "ease": 2.5
+ },
+ {
+   "id": 763,
+   "level": "B1",
+   "german": "verknüpfen",
+   "english": "to link",
+   "example": "Wir verknüpfen Ideen.",
+   "ease": 2.5
+ },
+ {
+   "id": 764,
+   "level": "B1",
+   "german": "wertschätzen",
+   "english": "to appreciate",
+   "example": "Ich wertschätze deine Hilfe.",
+   "ease": 2.5
+ },
+ {
+   "id": 765,
+   "level": "B1",
+   "german": "zielorientiert",
+   "english": "goal-oriented",
+   "example": "Sie arbeitet zielorientiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 766,
+   "level": "B1",
+   "german": "ableitbar",
+   "english": "derivable",
+   "example": "Das ist ableitbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 767,
+   "level": "B1",
+   "german": "angemessen",
+   "english": "appropriate",
+   "example": "Das ist angemessen.",
+   "ease": 2.5
+ },
+ {
+   "id": 768,
+   "level": "B1",
+   "german": "ausreichend",
+   "english": "sufficient",
+   "example": "Das ist ausreichend.",
+   "ease": 2.5
+ },
+ {
+   "id": 769,
+   "level": "B1",
+   "german": "differenziert",
+   "english": "differentiated",
+   "example": "Die Analyse ist differenziert.",
+   "ease": 2.5
+ },
+ {
+   "id": 770,
+   "level": "B1",
+   "german": "eindeutig",
+   "english": "clear",
+   "example": "Das ist eindeutig.",
+   "ease": 2.5
+ },
+ {
+   "id": 771,
+   "level": "B1",
+   "german": "fortlaufend",
+   "english": "continuous",
+   "example": "Der Prozess ist fortlaufend.",
+   "ease": 2.5
+ },
+ {
+   "id": 772,
+   "level": "B1",
+   "german": "maßvoll",
+   "english": "moderate",
+   "example": "Wir handeln maßvoll.",
+   "ease": 2.5
+ },
+ {
+   "id": 773,
+   "level": "B1",
+   "german": "nachvollziehbar",
+   "english": "comprehensible",
+   "example": "Das ist nachvollziehbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 774,
+   "level": "B1",
+   "german": "präzise",
+   "english": "precise",
+   "example": "Die Angabe ist präzise.",
+   "ease": 2.5
+ },
+ {
+   "id": 775,
+   "level": "B1",
+   "german": "relevant",
+   "english": "relevant",
+   "example": "Das bleibt relevant.",
+   "ease": 2.5
+ },
+ {
+   "id": 776,
+   "level": "B1",
+   "german": "schlüssig",
+   "english": "coherent",
+   "example": "Das Argument ist schlüssig.",
+   "ease": 2.5
+ },
+ {
+   "id": 777,
+   "level": "B1",
+   "german": "systematisch",
+   "english": "systematic",
+   "example": "Die Vorgehensweise ist systematisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 778,
+   "level": "B1",
+   "german": "tragbar",
+   "english": "acceptable",
+   "example": "Die Lösung ist tragbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 779,
+   "level": "B1",
+   "german": "übertragbar",
+   "english": "transferable",
+   "example": "Die Fähigkeit ist übertragbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 780,
+   "level": "B1",
+   "german": "verhältnismäßig",
+   "english": "proportional",
+   "example": "Die Maßnahme ist verhältnismäßig.",
+   "ease": 2.5
+ },
+ {
+   "id": 781,
+   "level": "B1",
+   "german": "zielführend",
+   "english": "effective",
+   "example": "Das ist zielführend.",
+   "ease": 2.5
+ },
+ {
+   "id": 782,
+   "level": "B1",
+   "german": "abschließend",
+   "english": "concluding",
+   "example": "Abschließend fasse ich zusammen.",
+   "ease": 2.5
+ },
+ {
+   "id": 783,
+   "level": "B1",
+   "german": "einleuchtend",
+   "english": "convincing",
+   "example": "Das ist einleuchtend.",
+   "ease": 2.5
+ },
+ {
+   "id": 784,
+   "level": "B1",
+   "german": "grundlegend",
+   "english": "fundamental",
+   "example": "Das ist grundlegend.",
+   "ease": 2.5
+ },
+ {
+   "id": 785,
+   "level": "B1",
+   "german": "kohärent",
+   "english": "coherent",
+   "example": "Die Erklärung ist kohärent.",
+   "ease": 2.5
+ },
+ {
+   "id": 786,
+   "level": "B1",
+   "german": "nachdrücklich",
+   "english": "emphatic",
+   "example": "Er betont es nachdrücklich.",
+   "ease": 2.5
+ },
+ {
+   "id": 787,
+   "level": "B1",
+   "german": "objektiviert",
+   "english": "objectified",
+   "example": "Die Daten sind objektiviert.",
+   "ease": 2.5
+ },
+ {
+   "id": 788,
+   "level": "B1",
+   "german": "plausibel",
+   "english": "plausible",
+   "example": "Die Erklärung ist plausibel.",
+   "ease": 2.5
+ },
+ {
+   "id": 789,
+   "level": "B1",
+   "german": "repräsentieren",
+   "english": "to represent",
+   "example": "Die Gruppe repräsentiert Vielfalt.",
+   "ease": 2.5
+ },
+ {
+   "id": 790,
+   "level": "B1",
+   "german": "substantiiert",
+   "english": "substantiated",
+   "example": "Das Argument ist substantiiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 791,
+   "level": "B1",
+   "german": "überzeugend",
+   "english": "convincing",
+   "example": "Das ist überzeugend.",
+   "ease": 2.5
+ },
+ {
+   "id": 792,
+   "level": "B1",
+   "german": "vereinfachen",
+   "english": "to simplify",
+   "example": "Wir vereinfachen das.",
+   "ease": 2.5
+ },
+ {
+   "id": 793,
+   "level": "B1",
+   "german": "verallgemeinern",
+   "english": "to generalize",
+   "example": "Man darf das nicht verallgemeinern.",
+   "ease": 2.5
+ },
+ {
+   "id": 794,
+   "level": "B1",
+   "german": "verifizieren",
+   "english": "to verify",
+   "example": "Wir verifizieren Daten.",
+   "ease": 2.5
+ },
+ {
+   "id": 795,
+   "level": "B1",
+   "german": "vorausschauend",
+   "english": "forward-looking",
+   "example": "Sie plant vorausschauend.",
+   "ease": 2.5
+ },
+ {
+   "id": 796,
+   "level": "B1",
+   "german": "wohlüberlegt",
+   "english": "well-considered",
+   "example": "Das ist wohlüberlegt.",
+   "ease": 2.5
+ },
+ {
+   "id": 797,
+   "level": "B1",
+   "german": "zielstrebig",
+   "english": "determined",
+   "example": "Er ist zielstrebig.",
+   "ease": 2.5
+ },
+ {
+   "id": 798,
+   "level": "B1",
+   "german": "zusammenhängend",
+   "english": "coherent",
+   "example": "Der Text ist zusammenhängend.",
+   "ease": 2.5
+ },
+ {
+   "id": 799,
+   "level": "B1",
+   "german": "zutreffend",
+   "english": "accurate",
+   "example": "Das ist zutreffend.",
+   "ease": 2.5
+ },
+ {
+   "id": 800,
+   "level": "B1",
+   "german": "zweckdienlich",
+   "english": "expedient",
+   "example": "Die Maßnahme ist zweckdienlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 801,
+   "level": "B1",
+   "german": "abwägend",
+   "english": "balancing",
+   "example": "Er entscheidet abwägend.",
+   "ease": 2.5
+ },
+ {
+   "id": 802,
+   "level": "B1",
+   "german": "anpassungsfähig",
+   "english": "adaptable",
+   "example": "Sie ist anpassungsfähig.",
+   "ease": 2.5
+ },
+ {
+   "id": 803,
+   "level": "B1",
+   "german": "begründet",
+   "english": "justified",
+   "example": "Die Entscheidung ist begründet.",
+   "ease": 2.5
+ },
+ {
+   "id": 804,
+   "level": "B1",
+   "german": "durchsetzbar",
+   "english": "enforceable",
+   "example": "Die Regel ist durchsetzbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 805,
+   "level": "B1",
+   "german": "ergebnisorientiert",
+   "english": "result-oriented",
+   "example": "Sie arbeitet ergebnisorientiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 806,
+   "level": "B1",
+   "german": "fundiert",
+   "english": "well-founded",
+   "example": "Die Analyse ist fundiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 807,
+   "level": "B1",
+   "german": "handlungsfähig",
+   "english": "capable of action",
+   "example": "Das Team ist handlungsfähig.",
+   "ease": 2.5
+ },
+ {
+   "id": 808,
+   "level": "B1",
+   "german": "konsistent",
+   "english": "consistent",
+   "example": "Das System ist konsistent.",
+   "ease": 2.5
+ },
+ {
+   "id": 809,
+   "level": "B1",
+   "german": "nachhaltig",
+   "english": "sustainable",
+   "example": "Die Strategie ist nachhaltig.",
+   "ease": 2.5
+ },
+ {
+   "id": 810,
+   "level": "B1",
+   "german": "priorisiert",
+   "english": "prioritized",
+   "example": "Die Aufgaben sind priorisiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 811,
+   "level": "B1",
+   "german": "reflektiert",
+   "english": "reflected",
+   "example": "Die Meinung ist reflektiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 812,
+   "level": "B1",
+   "german": "transparent",
+   "english": "transparent",
+   "example": "Der Prozess bleibt transparent.",
+   "ease": 2.5
+ },
+ {
+   "id": 813,
+   "level": "B1",
+   "german": "umsetzbar",
+   "english": "implementable",
+   "example": "Der Plan ist umsetzbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 814,
+   "level": "B1",
+   "german": "verantwortungsbewusst",
+   "english": "responsible",
+   "example": "Sie handelt verantwortungsbewusst.",
+   "ease": 2.5
+ },
+ {
+   "id": 815,
+   "level": "B1",
+   "german": "verlässlich",
+   "english": "reliable",
+   "example": "Die Quelle ist verlässlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 816,
+   "level": "B1",
+   "german": "zukunftsfähig",
+   "english": "future-proof",
+   "example": "Das Konzept ist zukunftsfähig.",
+   "ease": 2.5
+ },
+ {
+   "id": 817,
+   "level": "B1",
+   "german": "abgeschlossen",
+   "english": "completed",
+   "example": "Das Projekt ist abgeschlossen.",
+   "ease": 2.5
+ },
+ {
+   "id": 818,
+   "level": "B1",
+   "german": "anwendbar",
+   "english": "applicable",
+   "example": "Die Methode ist anwendbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 819,
+   "level": "B1",
+   "german": "ausführlich",
+   "english": "detailed",
+   "example": "Die Erklärung ist ausführlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 820,
+   "level": "B1",
+   "german": "belastend",
+   "english": "burdensome",
+   "example": "Die Situation ist belastend.",
+   "ease": 2.5
+ },
+ {
+   "id": 821,
+   "level": "B1",
+   "german": "effektiv",
+   "english": "effective",
+   "example": "Die Maßnahme ist effektiv.",
+   "ease": 2.5
+ },
+ {
+   "id": 822,
+   "level": "B1",
+   "german": "erheblich",
+   "english": "considerable",
+   "example": "Der Gewinn ist erheblich.",
+   "ease": 2.5
+ },
+ {
+   "id": 823,
+   "level": "B1",
+   "german": "flexibel",
+   "english": "flexible",
+   "example": "Der Plan ist flexibel.",
+   "ease": 2.5
+ },
+ {
+   "id": 824,
+   "level": "B1",
+   "german": "glaubwürdig",
+   "english": "credible",
+   "example": "Die Quelle ist glaubwürdig.",
+   "ease": 2.5
+ },
+ {
+   "id": 825,
+   "level": "B1",
+   "german": "konkret",
+   "english": "concrete",
+   "example": "Bitte sei konkret.",
+   "ease": 2.5
+ },
+ {
+   "id": 826,
+   "level": "B1",
+   "german": "nachdrücklich",
+   "english": "emphatically",
+   "example": "Er fordert es nachdrücklich.",
+   "ease": 2.5
+ },
+ {
+   "id": 827,
+   "level": "B1",
+   "german": "prägnant",
+   "english": "concise",
+   "example": "Die Aussage ist prägnant.",
+   "ease": 2.5
+ },
+ {
+   "id": 828,
+   "level": "B1",
+   "german": "realistisch",
+   "english": "realistic",
+   "example": "Das Ziel bleibt realistisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 829,
+   "level": "B1",
+   "german": "sachlich",
+   "english": "objective",
+   "example": "Wir bleiben sachlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 830,
+   "level": "B1",
+   "german": "tragfähig",
+   "english": "viable",
+   "example": "Die Idee ist tragfähig.",
+   "ease": 2.5
+ },
+ {
+   "id": 831,
+   "level": "B1",
+   "german": "umfassend",
+   "english": "comprehensive",
+   "example": "Der Bericht ist umfassend.",
+   "ease": 2.5
+ },
+ {
+   "id": 832,
+   "level": "B1",
+   "german": "verbindlich",
+   "english": "binding",
+   "example": "Die Zusage ist verbindlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 833,
+   "level": "B1",
+   "german": "wesentlich",
+   "english": "essential",
+   "example": "Das ist wesentlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 834,
+   "level": "B1",
+   "german": "zielgerichtet",
+   "english": "goal-oriented",
+   "example": "Die Strategie ist zielgerichtet.",
+   "ease": 2.5
+ },
+ {
+   "id": 835,
+   "level": "B1",
+   "german": "absehbar",
+   "english": "foreseeable",
+   "example": "Das ist absehbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 836,
+   "level": "B1",
+   "german": "anschaulich",
+   "english": "illustrative",
+   "example": "Das Beispiel ist anschaulich.",
+   "ease": 2.5
+ },
+ {
+   "id": 837,
+   "level": "B1",
+   "german": "ausgeglichen",
+   "english": "balanced",
+   "example": "Die Lösung ist ausgeglichen.",
+   "ease": 2.5
+ },
+ {
+   "id": 838,
+   "level": "B1",
+   "german": "belastbar",
+   "english": "resilient",
+   "example": "Das System ist belastbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 839,
+   "level": "B1",
+   "german": "denkbar",
+   "english": "conceivable",
+   "example": "Das ist denkbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 840,
+   "level": "B1",
+   "german": "einsichtig",
+   "english": "reasonable",
+   "example": "Er zeigt sich einsichtig.",
+   "ease": 2.5
+ },
+ {
+   "id": 841,
+   "level": "B1",
+   "german": "fokussiert",
+   "english": "focused",
+   "example": "Sie arbeitet fokussiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 842,
+   "level": "B1",
+   "german": "konsequent",
+   "english": "consistent",
+   "example": "Er handelt konsequent.",
+   "ease": 2.5
+ },
+ {
+   "id": 843,
+   "level": "B1",
+   "german": "maßgeblich",
+   "english": "decisive",
+   "example": "Das ist maßgeblich.",
+   "ease": 2.5
+ },
+ {
+   "id": 844,
+   "level": "B1",
+   "german": "nachhaltig",
+   "english": "sustainable",
+   "example": "Die Entwicklung ist nachhaltig.",
+   "ease": 2.5
+ },
+ {
+   "id": 845,
+   "level": "B1",
+   "german": "plausibel",
+   "english": "plausible",
+   "example": "Die Erklärung wirkt plausibel.",
+   "ease": 2.5
+ },
+ {
+   "id": 846,
+   "level": "B1",
+   "german": "robust",
+   "english": "robust",
+   "example": "Die Lösung ist robust.",
+   "ease": 2.5
+ },
+ {
+   "id": 847,
+   "level": "B1",
+   "german": "transparent",
+   "english": "transparent",
+   "example": "Der Ablauf ist transparent.",
+   "ease": 2.5
+ },
+ {
+   "id": 848,
+   "level": "B1",
+   "german": "überzeugt",
+   "english": "convinced",
+   "example": "Ich bin überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 849,
+   "level": "B1",
+   "german": "verallgemeinerbar",
+   "english": "generalizable",
+   "example": "Das Ergebnis ist verallgemeinerbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 850,
+   "level": "B1",
+   "german": "zukunftsweisend",
+   "english": "forward-looking",
+   "example": "Das ist zukunftsweisend.",
+   "ease": 2.5
+ },
+ {
+   "id": 851,
+   "level": "B1",
+   "german": "abgestimmt",
+   "english": "coordinated",
+   "example": "Die Maßnahmen sind abgestimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 852,
+   "level": "B1",
+   "german": "anpassbar",
+   "english": "adaptable",
+   "example": "Das System ist anpassbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 853,
+   "level": "B1",
+   "german": "belastet",
+   "english": "burdened",
+   "example": "Er fühlt sich belastet.",
+   "ease": 2.5
+ },
+ {
+   "id": 854,
+   "level": "B1",
+   "german": "durchführbar",
+   "english": "feasible",
+   "example": "Der Plan ist durchführbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 855,
+   "level": "B1",
+   "german": "effizienz",
+   "english": "efficiency",
+   "example": "Die Effizienz steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 856,
+   "level": "B1",
+   "german": "ergebnisoffen",
+   "english": "open-ended",
+   "example": "Die Diskussion ist ergebnisoffen.",
+   "ease": 2.5
+ },
+ {
+   "id": 857,
+   "level": "B1",
+   "german": "fundamental",
+   "english": "fundamental",
+   "example": "Das ist fundamental.",
+   "ease": 2.5
+ },
+ {
+   "id": 858,
+   "level": "B1",
+   "german": "handhabbar",
+   "english": "manageable",
+   "example": "Das Problem ist handhabbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 859,
+   "level": "B1",
+   "german": "konsolidieren",
+   "english": "to consolidate",
+   "example": "Wir konsolidieren Ergebnisse.",
+   "ease": 2.5
+ },
+ {
+   "id": 860,
+   "level": "B1",
+   "german": "nachvollziehbarkeit",
+   "english": "traceability",
+   "example": "Die Nachvollziehbarkeit fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 861,
+   "level": "B1",
+   "german": "orientierung",
+   "english": "orientation",
+   "example": "Ich brauche Orientierung.",
+   "ease": 2.5
+ },
+ {
+   "id": 862,
+   "level": "B1",
+   "german": "priorität",
+   "english": "priority",
+   "example": "Das hat Priorität.",
+   "ease": 2.5
+ },
+ {
+   "id": 863,
+   "level": "B1",
+   "german": "qualitativ",
+   "english": "qualitative",
+   "example": "Die Analyse ist qualitativ.",
+   "ease": 2.5
+ },
+ {
+   "id": 864,
+   "level": "B1",
+   "german": "realitätsnah",
+   "english": "realistic",
+   "example": "Das Szenario ist realitätsnah.",
+   "ease": 2.5
+ },
+ {
+   "id": 865,
+   "level": "B1",
+   "german": "strategie",
+   "english": "strategy",
+   "example": "Die Strategie funktioniert.",
+   "ease": 2.5
+ },
+ {
+   "id": 866,
+   "level": "B1",
+   "german": "tragweite",
+   "english": "impact",
+   "example": "Die Entscheidung hat Tragweite.",
+   "ease": 2.5
+ },
+ {
+   "id": 867,
+   "level": "B1",
+   "german": "umsetzung",
+   "english": "implementation",
+   "example": "Die Umsetzung dauert.",
+   "ease": 2.5
+ },
+ {
+   "id": 868,
+   "level": "B1",
+   "german": "verbindlichkeit",
+   "english": "commitment",
+   "example": "Die Verbindlichkeit fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 869,
+   "level": "B1",
+   "german": "wertvoll",
+   "english": "valuable",
+   "example": "Das Feedback ist wertvoll.",
+   "ease": 2.5
+ },
+ {
+   "id": 870,
+   "level": "B1",
+   "german": "zielsetzung",
+   "english": "objective",
+   "example": "Die Zielsetzung ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 871,
+   "level": "B1",
+   "german": "abwägung",
+   "english": "consideration",
+   "example": "Die Abwägung ist schwierig.",
+   "ease": 2.5
+ },
+ {
+   "id": 872,
+   "level": "B1",
+   "german": "anerkennung",
+   "english": "recognition",
+   "example": "Er bekommt Anerkennung.",
+   "ease": 2.5
+ },
+ {
+   "id": 873,
+   "level": "B1",
+   "german": "auswirkung",
+   "english": "impact",
+   "example": "Die Auswirkung ist groß.",
+   "ease": 2.5
+ },
+ {
+   "id": 874,
+   "level": "B1",
+   "german": "begründung",
+   "english": "justification",
+   "example": "Die Begründung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 875,
+   "level": "B1",
+   "german": "durchbruch",
+   "english": "breakthrough",
+   "example": "Das ist ein Durchbruch.",
+   "ease": 2.5
+ },
+ {
+   "id": 876,
+   "level": "B1",
+   "german": "erkenntnis",
+   "english": "insight",
+   "example": "Die Erkenntnis hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 877,
+   "level": "B1",
+   "german": "fortschritt",
+   "english": "progress",
+   "example": "Wir sehen Fortschritt.",
+   "ease": 2.5
+ },
+ {
+   "id": 878,
+   "level": "B1",
+   "german": "grundlage",
+   "english": "basis",
+   "example": "Das ist die Grundlage.",
+   "ease": 2.5
+ },
+ {
+   "id": 879,
+   "level": "B1",
+   "german": "herausforderung",
+   "english": "challenge",
+   "example": "Die Herausforderung wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 880,
+   "level": "B1",
+   "german": "konsequenz",
+   "english": "consequence",
+   "example": "Das hat Konsequenzen.",
+   "ease": 2.5
+ },
+ {
+   "id": 881,
+   "level": "B1",
+   "german": "lösung",
+   "english": "solution",
+   "example": "Die Lösung überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 882,
+   "level": "B1",
+   "german": "perspektive",
+   "english": "perspective",
+   "example": "Die Perspektive ändert sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 883,
+   "level": "B1",
+   "german": "qualität",
+   "english": "quality",
+   "example": "Die Qualität stimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 884,
+   "level": "B1",
+   "german": "rahmen",
+   "english": "framework",
+   "example": "Der Rahmen ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 885,
+   "level": "B1",
+   "german": "schwerpunkt",
+   "english": "focus",
+   "example": "Der Schwerpunkt liegt hier.",
+   "ease": 2.5
+ },
+ {
+   "id": 886,
+   "level": "B1",
+   "german": "umfeld",
+   "english": "environment",
+   "example": "Das Umfeld ist wichtig.",
+   "ease": 2.5
+ },
+ {
+   "id": 887,
+   "level": "B1",
+   "german": "verhältnis",
+   "english": "relationship",
+   "example": "Das Verhältnis ist gut.",
+   "ease": 2.5
+ },
+ {
+   "id": 888,
+   "level": "B1",
+   "german": "weiterentwicklung",
+   "english": "development",
+   "example": "Die Weiterentwicklung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 889,
+   "level": "B1",
+   "german": "zielerreichung",
+   "english": "goal achievement",
+   "example": "Die Zielerreichung gelingt.",
+   "ease": 2.5
+ },
+ {
+   "id": 890,
+   "level": "B1",
+   "german": "zusammenarbeit",
+   "english": "collaboration",
+   "example": "Die Zusammenarbeit klappt.",
+   "ease": 2.5
+ },
+ {
+   "id": 891,
+   "level": "B1",
+   "german": "abschätzung",
+   "english": "estimation",
+   "example": "Die Abschätzung war falsch.",
+   "ease": 2.5
+ },
+ {
+   "id": 892,
+   "level": "B1",
+   "german": "ausrichtung",
+   "english": "alignment",
+   "example": "Die Ausrichtung stimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 893,
+   "level": "B1",
+   "german": "belastung",
+   "english": "burden",
+   "example": "Die Belastung ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 894,
+   "level": "B1",
+   "german": "differenz",
+   "english": "difference",
+   "example": "Die Differenz ist klein.",
+   "ease": 2.5
+ },
+ {
+   "id": 895,
+   "level": "B1",
+   "german": "einfluss",
+   "english": "influence",
+   "example": "Der Einfluss wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 896,
+   "level": "B1",
+   "german": "ergebnis",
+   "english": "result",
+   "example": "Das Ergebnis überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 897,
+   "level": "B1",
+   "german": "maßnahme",
+   "english": "measure",
+   "example": "Die Maßnahme wirkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 898,
+   "level": "B1",
+   "german": "priorisierung",
+   "english": "prioritization",
+   "example": "Die Priorisierung hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 899,
+   "level": "B1",
+   "german": "struktur",
+   "english": "structure",
+   "example": "Die Struktur ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 900,
+   "level": "B1",
+   "german": "zusammenhang",
+   "english": "connection",
+   "example": "Der Zusammenhang ist deutlich.",
+   "ease": 2.5
+ },
+
+ {
+   "id": 901,
+   "level": "B2",
+   "german": "abgrenzen",
+   "english": "to delimit",
+   "example": "Man muss das Thema klar abgrenzen.",
+   "ease": 2.5
+ },
+ {
+   "id": 902,
+   "level": "B2",
+   "german": "abwenden",
+   "english": "to avert",
+   "example": "Die Krise konnte abgewendet werden.",
+   "ease": 2.5
+ },
+ {
+   "id": 903,
+   "level": "B2",
+   "german": "akribisch",
+   "english": "meticulous",
+   "example": "Er arbeitet sehr akribisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 904,
+   "level": "B2",
+   "german": "ambivalent",
+   "english": "ambivalent",
+   "example": "Ich bin dem Vorschlag gegenüber ambivalent.",
+   "ease": 2.5
+ },
+ {
+   "id": 905,
+   "level": "B2",
+   "german": "analysieren",
+   "english": "to analyze",
+   "example": "Wir analysieren die Daten.",
+   "ease": 2.5
+ },
+ {
+   "id": 906,
+   "level": "B2",
+   "german": "anfechten",
+   "english": "to contest",
+   "example": "Das Urteil wurde angefochten.",
+   "ease": 2.5
+ },
+ {
+   "id": 907,
+   "level": "B2",
+   "german": "angemessenheit",
+   "english": "appropriateness",
+   "example": "Die Angemessenheit ist fraglich.",
+   "ease": 2.5
+ },
+ {
+   "id": 908,
+   "level": "B2",
+   "german": "anhand",
+   "english": "based on",
+   "example": "Anhand der Zahlen sieht man es.",
+   "ease": 2.5
+ },
+ {
+   "id": 909,
+   "level": "B2",
+   "german": "anstoßen",
+   "english": "to initiate",
+   "example": "Er stößt eine Debatte an.",
+   "ease": 2.5
+ },
+ {
+   "id": 910,
+   "level": "B2",
+   "german": "argumentativ",
+   "english": "argumentative",
+   "example": "Der Text ist argumentativ stark.",
+   "ease": 2.5
+ },
+ {
+   "id": 911,
+   "level": "B2",
+   "german": "ausbalancieren",
+   "english": "to balance",
+   "example": "Man muss Interessen ausbalancieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 912,
+   "level": "B2",
+   "german": "ausdifferenzieren",
+   "english": "to differentiate",
+   "example": "Die Positionen wurden ausdifferenziert.",
+   "ease": 2.5
+ },
+ {
+   "id": 913,
+   "level": "B2",
+   "german": "ausformulieren",
+   "english": "to articulate",
+   "example": "Bitte formuliere das aus.",
+   "ease": 2.5
+ },
+ {
+   "id": 914,
+   "level": "B2",
+   "german": "ausloten",
+   "english": "to explore",
+   "example": "Wir loten die Möglichkeiten aus.",
+   "ease": 2.5
+ },
+ {
+   "id": 915,
+   "level": "B2",
+   "german": "ausnahmslos",
+   "english": "without exception",
+   "example": "Das gilt ausnahmslos.",
+   "ease": 2.5
+ },
+ {
+   "id": 916,
+   "level": "B2",
+   "german": "auswertbar",
+   "english": "evaluable",
+   "example": "Die Daten sind auswertbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 917,
+   "level": "B2",
+   "german": "befähigen",
+   "english": "to enable",
+   "example": "Die Ausbildung befähigt ihn.",
+   "ease": 2.5
+ },
+ {
+   "id": 918,
+   "level": "B2",
+   "german": "befürworten",
+   "english": "to advocate",
+   "example": "Viele befürworten die Reform.",
+   "ease": 2.5
+ },
+ {
+   "id": 919,
+   "level": "B2",
+   "german": "belegbar",
+   "english": "provable",
+   "example": "Die These ist belegbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 920,
+   "level": "B2",
+   "german": "berufsbedingt",
+   "english": "work-related",
+   "example": "Die Reise ist berufsbedingt.",
+   "ease": 2.5
+ },
+ {
+   "id": 921,
+   "level": "B2",
+   "german": "beständig",
+   "english": "consistent",
+   "example": "Er liefert beständige Leistung.",
+   "ease": 2.5
+ },
+ {
+   "id": 922,
+   "level": "B2",
+   "german": "bewirken",
+   "english": "to bring about",
+   "example": "Das Gesetz bewirkt Veränderungen.",
+   "ease": 2.5
+ },
+ {
+   "id": 923,
+   "level": "B2",
+   "german": "darlegen",
+   "english": "to set out",
+   "example": "Er legt seine Meinung dar.",
+   "ease": 2.5
+ },
+ {
+   "id": 924,
+   "level": "B2",
+   "german": "differenzieren",
+   "english": "to differentiate",
+   "example": "Man muss genauer differenzieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 925,
+   "level": "B2",
+   "german": "diskursiv",
+   "english": "discursive",
+   "example": "Die Diskussion ist diskursiv.",
+   "ease": 2.5
+ },
+ {
+   "id": 926,
+   "level": "B2",
+   "german": "dynamisch",
+   "english": "dynamic",
+   "example": "Der Markt ist dynamisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 927,
+   "level": "B2",
+   "german": "effizienzsteigerung",
+   "english": "efficiency increase",
+   "example": "Die Effizienzsteigerung ist messbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 928,
+   "level": "B2",
+   "german": "eigenverantwortlich",
+   "english": "self-responsible",
+   "example": "Er arbeitet eigenverantwortlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 929,
+   "level": "B2",
+   "german": "einschränkung",
+   "english": "limitation",
+   "example": "Es gibt eine Einschränkung.",
+   "ease": 2.5
+ },
+ {
+   "id": 930,
+   "level": "B2",
+   "german": "einwandfrei",
+   "english": "flawless",
+   "example": "Die Leistung war einwandfrei.",
+   "ease": 2.5
+ },
+ {
+   "id": 931,
+   "level": "B2",
+   "german": "emotionalisieren",
+   "english": "to emotionalize",
+   "example": "Medien emotionalisieren Themen.",
+   "ease": 2.5
+ },
+ {
+   "id": 932,
+   "level": "B2",
+   "german": "empirisch",
+   "english": "empirical",
+   "example": "Die Studie ist empirisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 933,
+   "level": "B2",
+   "german": "endgültig",
+   "english": "final",
+   "example": "Die Entscheidung ist endgültig.",
+   "ease": 2.5
+ },
+ {
+   "id": 934,
+   "level": "B2",
+   "german": "entfalten",
+   "english": "to unfold",
+   "example": "Das Potenzial entfaltet sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 935,
+   "level": "B2",
+   "german": "entgegenwirken",
+   "english": "to counteract",
+   "example": "Maßnahmen wirken dem Trend entgegen.",
+   "ease": 2.5
+ },
+ {
+   "id": 936,
+   "level": "B2",
+   "german": "entscheidungsfindung",
+   "english": "decision-making",
+   "example": "Die Entscheidungsfindung dauert.",
+   "ease": 2.5
+ },
+ {
+   "id": 937,
+   "level": "B2",
+   "german": "ergebnisoffen",
+   "english": "open-ended",
+   "example": "Die Diskussion bleibt ergebnisoffen.",
+   "ease": 2.5
+ },
+ {
+   "id": 938,
+   "level": "B2",
+   "german": "erläutern",
+   "english": "to elaborate",
+   "example": "Er erläutert den Sachverhalt.",
+   "ease": 2.5
+ },
+ {
+   "id": 939,
+   "level": "B2",
+   "german": "erörtern",
+   "english": "to discuss",
+   "example": "Wir erörtern die Optionen.",
+   "ease": 2.5
+ },
+ {
+   "id": 940,
+   "level": "B2",
+   "german": "ertragreich",
+   "english": "profitable",
+   "example": "Das Projekt ist ertragreich.",
+   "ease": 2.5
+ },
+ {
+   "id": 941,
+   "level": "B2",
+   "german": "ethisch",
+   "english": "ethical",
+   "example": "Das ist ethisch vertretbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 942,
+   "level": "B2",
+   "german": "explizit",
+   "english": "explicit",
+   "example": "Das wurde explizit gesagt.",
+   "ease": 2.5
+ },
+ {
+   "id": 943,
+   "level": "B2",
+   "german": "faktenbasiert",
+   "english": "fact-based",
+   "example": "Die Analyse ist faktenbasiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 944,
+   "level": "B2",
+   "german": "folgenabschätzung",
+   "english": "impact assessment",
+   "example": "Eine Folgenabschätzung ist nötig.",
+   "ease": 2.5
+ },
+ {
+   "id": 945,
+   "level": "B2",
+   "german": "formulieren",
+   "english": "to formulate",
+   "example": "Bitte präzise formulieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 946,
+   "level": "B2",
+   "german": "fragwürdig",
+   "english": "questionable",
+   "example": "Das Vorgehen ist fragwürdig.",
+   "ease": 2.5
+ },
+ {
+   "id": 947,
+   "level": "B2",
+   "german": "gegenüberstellen",
+   "english": "to contrast",
+   "example": "Man stellt zwei Positionen gegenüber.",
+   "ease": 2.5
+ },
+ {
+   "id": 948,
+   "level": "B2",
+   "german": "gesamtgesellschaftlich",
+   "english": "societal",
+   "example": "Das ist gesamtgesellschaftlich relevant.",
+   "ease": 2.5
+ },
+ {
+   "id": 949,
+   "level": "B2",
+   "german": "gewichtung",
+   "english": "weighting",
+   "example": "Die Gewichtung ist entscheidend.",
+   "ease": 2.5
+ },
+ {
+   "id": 950,
+   "level": "B2",
+   "german": "grundsatzfrage",
+   "english": "fundamental question",
+   "example": "Das ist eine Grundsatzfrage.",
+   "ease": 2.5
+ },
+ {
+   "id": 951,
+   "level": "B2",
+   "german": "handlungsrahmen",
+   "english": "scope of action",
+   "example": "Der Handlungsrahmen ist begrenzt.",
+   "ease": 2.5
+ },
+ {
+   "id": 952,
+   "level": "B2",
+   "german": "herleiten",
+   "english": "to derive",
+   "example": "Man kann das logisch herleiten.",
+   "ease": 2.5
+ },
+ {
+   "id": 953,
+   "level": "B2",
+   "german": "hinterfragen",
+   "english": "to critically question",
+   "example": "Man sollte Annahmen hinterfragen.",
+   "ease": 2.5
+ },
+ {
+   "id": 954,
+   "level": "B2",
+   "german": "hypothese",
+   "english": "hypothesis",
+   "example": "Die Hypothese wurde bestätigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 955,
+   "level": "B2",
+   "german": "implizieren",
+   "english": "to imply",
+   "example": "Das impliziert Risiken.",
+   "ease": 2.5
+ },
+ {
+   "id": 956,
+   "level": "B2",
+   "german": "inhaltlich",
+   "english": "in terms of content",
+   "example": "Inhaltlich stimme ich zu.",
+   "ease": 2.5
+ },
+ {
+   "id": 957,
+   "level": "B2",
+   "german": "innovationskraft",
+   "english": "innovative capacity",
+   "example": "Die Innovationskraft wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 958,
+   "level": "B2",
+   "german": "institutionell",
+   "english": "institutional",
+   "example": "Das Problem ist institutionell.",
+   "ease": 2.5
+ },
+ {
+   "id": 959,
+   "level": "B2",
+   "german": "interpretationsspielraum",
+   "english": "room for interpretation",
+   "example": "Es gibt Interpretationsspielraum.",
+   "ease": 2.5
+ },
+ {
+   "id": 960,
+   "level": "B2",
+   "german": "kausal",
+   "english": "causal",
+   "example": "Der Zusammenhang ist kausal.",
+   "ease": 2.5
+ },
+ {
+   "id": 961,
+   "level": "B2",
+   "german": "kohärenz",
+   "english": "coherence",
+   "example": "Der Text hat Kohärenz.",
+   "ease": 2.5
+ },
+ {
+   "id": 962,
+   "level": "B2",
+   "german": "kontextualisieren",
+   "english": "to contextualize",
+   "example": "Man muss das kontextualisieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 963,
+   "level": "B2",
+   "german": "kontrovers",
+   "english": "controversial",
+   "example": "Das Thema ist kontrovers.",
+   "ease": 2.5
+ },
+ {
+   "id": 964,
+   "level": "B2",
+   "german": "kriterienbasiert",
+   "english": "criteria-based",
+   "example": "Die Auswahl ist kriterienbasiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 965,
+   "level": "B2",
+   "german": "langzeitwirkung",
+   "english": "long-term effect",
+   "example": "Die Langzeitwirkung ist unklar.",
+   "ease": 2.5
+ },
+ {
+   "id": 966,
+   "level": "B2",
+   "german": "legitimieren",
+   "english": "to legitimize",
+   "example": "Das Vorgehen legitimiert sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 967,
+   "level": "B2",
+   "german": "maßgeblichkeit",
+   "english": "decisiveness",
+   "example": "Die Maßgeblichkeit ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 968,
+   "level": "B2",
+   "german": "mehrdimensional",
+   "english": "multidimensional",
+   "example": "Das Problem ist mehrdimensional.",
+   "ease": 2.5
+ },
+ {
+   "id": 969,
+   "level": "B2",
+   "german": "methodisch",
+   "english": "methodical",
+   "example": "Der Ansatz ist methodisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 970,
+   "level": "B2",
+   "german": "motivlage",
+   "english": "motivation context",
+   "example": "Die Motivlage ist komplex.",
+   "ease": 2.5
+ },
+ {
+   "id": 971,
+   "level": "B2",
+   "german": "nachhaltigkeitsstrategie",
+   "english": "sustainability strategy",
+   "example": "Die Strategie ist langfristig.",
+   "ease": 2.5
+ },
+ {
+   "id": 972,
+   "level": "B2",
+   "german": "normativ",
+   "english": "normative",
+   "example": "Das ist eine normative Aussage.",
+   "ease": 2.5
+ },
+ {
+   "id": 973,
+   "level": "B2",
+   "german": "objektivieren",
+   "english": "to objectify",
+   "example": "Man versucht Daten zu objektivieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 974,
+   "level": "B2",
+   "german": "operationalisieren",
+   "english": "to operationalize",
+   "example": "Das Ziel wird operationalisiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 975,
+   "level": "B2",
+   "german": "perspektivwechsel",
+   "english": "change of perspective",
+   "example": "Ein Perspektivwechsel hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 976,
+   "level": "B2",
+   "german": "plausibilisieren",
+   "english": "to make plausible",
+   "example": "Er plausibilisiert die These.",
+   "ease": 2.5
+ },
+ {
+   "id": 977,
+   "level": "B2",
+   "german": "priorisierung",
+   "english": "prioritization",
+   "example": "Die Priorisierung ist sinnvoll.",
+   "ease": 2.5
+ },
+ {
+   "id": 978,
+   "level": "B2",
+   "german": "problemstellung",
+   "english": "problem statement",
+   "example": "Die Problemstellung ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 979,
+   "level": "B2",
+   "german": "prozesshaft",
+   "english": "process-based",
+   "example": "Die Entwicklung ist prozesshaft.",
+   "ease": 2.5
+ },
+ {
+   "id": 980,
+   "level": "B2",
+   "german": "qualitätsmaßstab",
+   "english": "quality benchmark",
+   "example": "Der Maßstab ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 981,
+   "level": "B2",
+   "german": "quantifizieren",
+   "english": "to quantify",
+   "example": "Man kann den Effekt quantifizieren.",
+   "ease": 2.5
+ },
+ {
+   "id": 982,
+   "level": "B2",
+   "german": "rahmenbedingung",
+   "english": "framework condition",
+   "example": "Die Rahmenbedingungen ändern sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 983,
+   "level": "B2",
+   "german": "realitätsbezug",
+   "english": "real-world relevance",
+   "example": "Der Bezug zur Realität fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 984,
+   "level": "B2",
+   "german": "rechtsverbindlich",
+   "english": "legally binding",
+   "example": "Der Vertrag ist rechtsverbindlich.",
+   "ease": 2.5
+ },
+ {
+   "id": 985,
+   "level": "B2",
+   "german": "reflexionsfähigkeit",
+   "english": "capacity for reflection",
+   "example": "Die Reflexionsfähigkeit ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 986,
+   "level": "B2",
+   "german": "relevanzprüfung",
+   "english": "relevance check",
+   "example": "Eine Prüfung ist nötig.",
+   "ease": 2.5
+ },
+ {
+   "id": 987,
+   "level": "B2",
+   "german": "revidieren",
+   "english": "to revise",
+   "example": "Die Entscheidung wurde revidiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 988,
+   "level": "B2",
+   "german": "riskobewertung",
+   "english": "risk assessment",
+   "example": "Die Risikobewertung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 989,
+   "level": "B2",
+   "german": "sachverhalt",
+   "english": "factual situation",
+   "example": "Der Sachverhalt ist komplex.",
+   "ease": 2.5
+ },
+ {
+   "id": 990,
+   "level": "B2",
+   "german": "schlussfolgerung",
+   "english": "conclusion",
+   "example": "Die Schlussfolgerung überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 991,
+   "level": "B2",
+   "german": "selbstreflexion",
+   "english": "self-reflection",
+   "example": "Selbstreflexion ist wichtig.",
+   "ease": 2.5
+ },
+ {
+   "id": 992,
+   "level": "B2",
+   "german": "sozialisieren",
+   "english": "to socialize",
+   "example": "Werte werden sozialisiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 993,
+   "level": "B2",
+   "german": "strategiefähig",
+   "english": "strategy-capable",
+   "example": "Die Organisation ist strategiefähig.",
+   "ease": 2.5
+ },
+ {
+   "id": 994,
+   "level": "B2",
+   "german": "strukturierung",
+   "english": "structuring",
+   "example": "Die Strukturierung hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 995,
+   "level": "B2",
+   "german": "systemrelevant",
+   "english": "systemically relevant",
+   "example": "Der Sektor ist systemrelevant.",
+   "ease": 2.5
+ },
+ {
+   "id": 996,
+   "level": "B2",
+   "german": "teilaspekt",
+   "english": "partial aspect",
+   "example": "Ein Teilaspekt wurde übersehen.",
+   "ease": 2.5
+ },
+ {
+   "id": 997,
+   "level": "B2",
+   "german": "transparenzgebot",
+   "english": "transparency requirement",
+   "example": "Das Gebot gilt hier.",
+   "ease": 2.5
+ },
+ {
+   "id": 998,
+   "level": "B2",
+   "german": "umsetzungsstrategie",
+   "english": "implementation strategy",
+   "example": "Die Strategie ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 999,
+   "level": "B2",
+   "german": "verallgemeinerung",
+   "english": "generalization",
+   "example": "Die Verallgemeinerung ist falsch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1000,
+   "level": "B2",
+   "german": "verhältnismäßigkeit",
+   "english": "proportionality",
+   "example": "Die Maßnahme ist verhältnismäßig.",
+   "ease": 2.5
+ },
+ {
+   "id": 1001,
+   "level": "B2",
+   "german": "verortung",
+   "english": "positioning",
+   "example": "Die Verortung ist unklar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1002,
+   "level": "B2",
+   "german": "verwertbarkeit",
+   "english": "usability",
+   "example": "Die Verwertbarkeit ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1003,
+   "level": "B2",
+   "german": "voraussetzung",
+   "english": "prerequisite",
+   "example": "Das ist Voraussetzung.",
+   "ease": 2.5
+ },
+ {
+   "id": 1004,
+   "level": "B2",
+   "german": "wechselwirkung",
+   "english": "interaction",
+   "example": "Es gibt eine Wechselwirkung.",
+   "ease": 2.5
+ },
+ {
+   "id": 1005,
+   "level": "B2",
+   "german": "wertorientiert",
+   "english": "value-oriented",
+   "example": "Die Entscheidung ist wertorientiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 1006,
+   "level": "B2",
+   "german": "wirkungsgrad",
+   "english": "efficiency rate",
+   "example": "Der Wirkungsgrad steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1007,
+   "level": "B2",
+   "german": "zielkonflikt",
+   "english": "goal conflict",
+   "example": "Es gibt einen Zielkonflikt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1008,
+   "level": "B2",
+   "german": "zukunftsfähigkeit",
+   "english": "future viability",
+   "example": "Die Zukunftsfähigkeit zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1009,
+   "level": "B2",
+   "german": "zusammenführung",
+   "english": "consolidation",
+   "example": "Die Zusammenführung gelingt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1010,
+   "level": "B2",
+   "german": "abwägungsprozess",
+   "english": "weighing process",
+   "example": "Der Prozess ist komplex.",
+   "ease": 2.5
+ },
+ {
+   "id": 1011,
+   "level": "B2",
+   "german": "argumentationslinie",
+   "english": "line of argument",
+   "example": "Die Linie ist schlüssig.",
+   "ease": 2.5
+ },
+ {
+   "id": 1012,
+   "level": "B2",
+   "german": "bedarfsgerecht",
+   "english": "needs-based",
+   "example": "Die Lösung ist bedarfsgerecht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1013,
+   "level": "B2",
+   "german": "bewertungskriterium",
+   "english": "evaluation criterion",
+   "example": "Das Kriterium ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1014,
+   "level": "B2",
+   "german": "datenlage",
+   "english": "data situation",
+   "example": "Die Datenlage ist dünn.",
+   "ease": 2.5
+ },
+ {
+   "id": 1015,
+   "level": "B2",
+   "german": "entscheidungsgrundlage",
+   "english": "decision basis",
+   "example": "Die Grundlage fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1016,
+   "level": "B2",
+   "german": "erkenntnisgewinn",
+   "english": "insight gain",
+   "example": "Der Gewinn ist groß.",
+   "ease": 2.5
+ },
+ {
+   "id": 1017,
+   "level": "B2",
+   "german": "handlungsoption",
+   "english": "course of action",
+   "example": "Es gibt mehrere Optionen.",
+   "ease": 2.5
+ },
+ {
+   "id": 1018,
+   "level": "B2",
+   "german": "konfliktpotenzial",
+   "english": "conflict potential",
+   "example": "Das Potenzial ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1019,
+   "level": "B2",
+   "german": "konsensfindung",
+   "english": "consensus building",
+   "example": "Die Findung dauert.",
+   "ease": 2.5
+ },
+ {
+   "id": 1020,
+   "level": "B2",
+   "german": "leistungsfähigkeit",
+   "english": "performance capacity",
+   "example": "Die Fähigkeit steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1021,
+   "level": "B2",
+   "german": "nachsteuerung",
+   "english": "readjustment",
+   "example": "Eine Nachsteuerung ist nötig.",
+   "ease": 2.5
+ },
+ {
+   "id": 1022,
+   "level": "B2",
+   "german": "prioritätenkonflikt",
+   "english": "priority conflict",
+   "example": "Der Konflikt bleibt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1023,
+   "level": "B2",
+   "german": "ressourcennutzung",
+   "english": "resource use",
+   "example": "Die Nutzung ist effizient.",
+   "ease": 2.5
+ },
+ {
+   "id": 1024,
+   "level": "B2",
+   "german": "schlüsselrolle",
+   "english": "key role",
+   "example": "Sie spielt eine Schlüsselrolle.",
+   "ease": 2.5
+ },
+ {
+   "id": 1025,
+   "level": "B2",
+   "german": "tragfähigkeitsprüfung",
+   "english": "viability check",
+   "example": "Die Prüfung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1026,
+   "level": "B2",
+   "german": "verantwortungsbereich",
+   "english": "area of responsibility",
+   "example": "Das ist sein Bereich.",
+   "ease": 2.5
+ },
+ {
+   "id": 1027,
+   "level": "B2",
+   "german": "zeitlicher horizont",
+   "english": "time horizon",
+   "example": "Der Horizont ist kurz.",
+   "ease": 2.5
+ },
+ {
+   "id": 1028,
+   "level": "B2",
+   "german": "zielabweichung",
+   "english": "goal deviation",
+   "example": "Die Abweichung ist gering.",
+   "ease": 2.5
+ },
+ {
+   "id": 1029,
+   "level": "B2",
+   "german": "zusammenwirken",
+   "english": "interaction",
+   "example": "Das Zusammenwirken ist wichtig.",
+   "ease": 2.5
+ },
+ {
+   "id": 1030,
+   "level": "B2",
+   "german": "abschließend",
+   "english": "concluding",
+   "example": "Abschließend folgt ein Fazit.",
+   "ease": 2.5
+ },
+ {
+   "id": 1031,
+   "level": "B2",
+   "german": "ausdrücklich",
+   "english": "explicitly",
+   "example": "Das wurde ausdrücklich gesagt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1032,
+   "level": "B2",
+   "german": "belastungsgrenze",
+   "english": "stress limit",
+   "example": "Die Grenze ist erreicht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1033,
+   "level": "B2",
+   "german": "diskussionsgrundlage",
+   "english": "discussion basis",
+   "example": "Das ist die Grundlage.",
+   "ease": 2.5
+ },
+ {
+   "id": 1034,
+   "level": "B2",
+   "german": "evaluationsprozess",
+   "english": "evaluation process",
+   "example": "Der Prozess läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1035,
+   "level": "B2",
+   "german": "handlungsbedarf",
+   "english": "need for action",
+   "example": "Es besteht Bedarf.",
+   "ease": 2.5
+ },
+ {
+   "id": 1036,
+   "level": "B2",
+   "german": "konzeptionell",
+   "english": "conceptual",
+   "example": "Der Ansatz ist konzeptionell.",
+   "ease": 2.5
+ },
+ {
+   "id": 1037,
+   "level": "B2",
+   "german": "nachvollziehbarkeit",
+   "english": "traceability",
+   "example": "Die Nachvollziehbarkeit fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1038,
+   "level": "B2",
+   "german": "problemadäquat",
+   "english": "problem-adequate",
+   "example": "Die Lösung ist adäquat.",
+   "ease": 2.5
+ },
+ {
+   "id": 1039,
+   "level": "B2",
+   "german": "qualitätsstandard",
+   "english": "quality standard",
+   "example": "Der Standard ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1040,
+   "level": "B2",
+   "german": "steuerungsmechanismus",
+   "english": "control mechanism",
+   "example": "Der Mechanismus greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1041,
+   "level": "B2",
+   "german": "umfeldanalyse",
+   "english": "environment analysis",
+   "example": "Die Analyse hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1042,
+   "level": "B2",
+   "german": "verfahrensweise",
+   "english": "procedure",
+   "example": "Die Verfahrensweise ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1043,
+   "level": "B2",
+   "german": "wertmaßstab",
+   "english": "value benchmark",
+   "example": "Der Maßstab gilt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1044,
+   "level": "B2",
+   "german": "zielhierarchie",
+   "english": "goal hierarchy",
+   "example": "Die Hierarchie ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1045,
+   "level": "B2",
+   "german": "abschließend",
+   "english": "finally",
+   "example": "Abschließend danke ich.",
+   "ease": 2.5
+ },
+ {
+   "id": 1046,
+   "level": "B2",
+   "german": "argumentativ fundiert",
+   "english": "well-argued",
+   "example": "Der Text ist fundiert.",
+   "ease": 2.5
+ },
+ {
+   "id": 1047,
+   "level": "B2",
+   "german": "belastungssituation",
+   "english": "stress situation",
+   "example": "Die Situation ist schwierig.",
+   "ease": 2.5
+ },
+ {
+   "id": 1048,
+   "level": "B2",
+   "german": "entscheidungsrelevant",
+   "english": "decision-relevant",
+   "example": "Das ist relevant.",
+   "ease": 2.5
+ },
+ {
+   "id": 1049,
+   "level": "B2",
+   "german": "ergebnisorientierung",
+   "english": "result orientation",
+   "example": "Die Orientierung stimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1050,
+   "level": "B2",
+   "german": "handlungslogik",
+   "english": "logic of action",
+   "example": "Die Logik überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1051,
+   "level": "B2",
+   "german": "koordinationsaufwand",
+   "english": "coordination effort",
+   "example": "Der Aufwand ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1052,
+   "level": "B2",
+   "german": "nachhaltigkeitsziel",
+   "english": "sustainability goal",
+   "example": "Das Ziel bleibt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1053,
+   "level": "B2",
+   "german": "problemverständnis",
+   "english": "problem understanding",
+   "example": "Das Verständnis fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1054,
+   "level": "B2",
+   "german": "qualitätsprüfung",
+   "english": "quality check",
+   "example": "Die Prüfung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1055,
+   "level": "B2",
+   "german": "steuerungsbedarf",
+   "english": "need for control",
+   "example": "Der Bedarf wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 1056,
+   "level": "B2",
+   "german": "umsetzungsgrad",
+   "english": "degree of implementation",
+   "example": "Der Grad ist niedrig.",
+   "ease": 2.5
+ },
+ {
+   "id": 1057,
+   "level": "B2",
+   "german": "verantwortungsniveau",
+   "english": "level of responsibility",
+   "example": "Das Niveau steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1058,
+   "level": "B2",
+   "german": "wirkungsanalyse",
+   "english": "impact analysis",
+   "example": "Die Analyse zeigt Effekte.",
+   "ease": 2.5
+ },
+ {
+   "id": 1059,
+   "level": "B2",
+   "german": "zieldefinition",
+   "english": "goal definition",
+   "example": "Die Definition ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1060,
+   "level": "B2",
+   "german": "zusammenfassung",
+   "english": "summary",
+   "example": "Die Zusammenfassung hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1061,
+   "level": "B2",
+   "german": "abwägungskriterium",
+   "english": "weighing criterion",
+   "example": "Das Kriterium zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1062,
+   "level": "B2",
+   "german": "anwendungsfall",
+   "english": "use case",
+   "example": "Der Fall ist typisch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1063,
+   "level": "B2",
+   "german": "belastbarkeitstest",
+   "english": "stress test",
+   "example": "Der Test läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1064,
+   "level": "B2",
+   "german": "entscheidungsspielraum",
+   "english": "decision latitude",
+   "example": "Der Spielraum ist klein.",
+   "ease": 2.5
+ },
+ {
+   "id": 1065,
+   "level": "B2",
+   "german": "ergebnisqualität",
+   "english": "result quality",
+   "example": "Die Qualität stimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1066,
+   "level": "B2",
+   "german": "handlungsstrategie",
+   "english": "action strategy",
+   "example": "Die Strategie greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1067,
+   "level": "B2",
+   "german": "konsequenzabschätzung",
+   "english": "consequence assessment",
+   "example": "Die Abschätzung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1068,
+   "level": "B2",
+   "german": "nachjustieren",
+   "english": "to readjust",
+   "example": "Wir justieren nach.",
+   "ease": 2.5
+ },
+ {
+   "id": 1069,
+   "level": "B2",
+   "german": "problemursache",
+   "english": "root cause",
+   "example": "Die Ursache ist bekannt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1070,
+   "level": "B2",
+   "german": "qualitätsentwicklung",
+   "english": "quality development",
+   "example": "Die Entwicklung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1071,
+   "level": "B2",
+   "german": "steuerungsinstrument",
+   "english": "control instrument",
+   "example": "Das Instrument wirkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1072,
+   "level": "B2",
+   "german": "umsetzungsfähigkeit",
+   "english": "implementability",
+   "example": "Die Fähigkeit fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1073,
+   "level": "B2",
+   "german": "verantwortungsstruktur",
+   "english": "responsibility structure",
+   "example": "Die Struktur ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1074,
+   "level": "B2",
+   "german": "wirkungszusammenhang",
+   "english": "causal relationship",
+   "example": "Der Zusammenhang ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1075,
+   "level": "B2",
+   "german": "zielpriorisierung",
+   "english": "goal prioritization",
+   "example": "Die Priorisierung hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1076,
+   "level": "B2",
+   "german": "zukunftsperspektive",
+   "english": "future perspective",
+   "example": "Die Perspektive überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1077,
+   "level": "B2",
+   "german": "abschließende bewertung",
+   "english": "final evaluation",
+   "example": "Die Bewertung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1078,
+   "level": "B2",
+   "german": "argumentationsmuster",
+   "english": "argument pattern",
+   "example": "Das Muster ist bekannt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1079,
+   "level": "B2",
+   "german": "belastungsfaktor",
+   "english": "stress factor",
+   "example": "Der Faktor steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1080,
+   "level": "B2",
+   "german": "entscheidungsdilemma",
+   "english": "decision dilemma",
+   "example": "Das Dilemma bleibt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1081,
+   "level": "B2",
+   "german": "erkenntnisprozess",
+   "english": "process of insight",
+   "example": "Der Prozess dauert.",
+   "ease": 2.5
+ },
+ {
+   "id": 1082,
+   "level": "B2",
+   "german": "handlungsfähigkeit",
+   "english": "capacity to act",
+   "example": "Die Fähigkeit wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 1083,
+   "level": "B2",
+   "german": "kooperationsbereitschaft",
+   "english": "willingness to cooperate",
+   "example": "Die Bereitschaft fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1084,
+   "level": "B2",
+   "german": "nachhaltigkeitsaspekt",
+   "english": "sustainability aspect",
+   "example": "Der Aspekt zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1085,
+   "level": "B2",
+   "german": "problemkonstellation",
+   "english": "problem constellation",
+   "example": "Die Konstellation ist komplex.",
+   "ease": 2.5
+ },
+ {
+   "id": 1086,
+   "level": "B2",
+   "german": "qualitätsmanagement",
+   "english": "quality management",
+   "example": "Das Management greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1087,
+   "level": "B2",
+   "german": "steuerungsebene",
+   "english": "control level",
+   "example": "Die Ebene ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1088,
+   "level": "B2",
+   "german": "umsetzungsproblem",
+   "english": "implementation problem",
+   "example": "Das Problem bleibt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1089,
+   "level": "B2",
+   "german": "verantwortungsübernahme",
+   "english": "assumption of responsibility",
+   "example": "Die Übernahme zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1090,
+   "level": "B2",
+   "german": "wirkungsmechanismus",
+   "english": "impact mechanism",
+   "example": "Der Mechanismus wirkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1091,
+   "level": "B2",
+   "german": "zielabgleich",
+   "english": "goal alignment",
+   "example": "Der Abgleich fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1092,
+   "level": "B2",
+   "german": "zukunftsszenario",
+   "english": "future scenario",
+   "example": "Das Szenario überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1093,
+   "level": "B2",
+   "german": "abschließender schritt",
+   "english": "final step",
+   "example": "Der Schritt folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1094,
+   "level": "B2",
+   "german": "argumentationsstruktur",
+   "english": "argument structure",
+   "example": "Die Struktur ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1095,
+   "level": "B2",
+   "german": "belastungsprobe",
+   "english": "stress test",
+   "example": "Die Probe besteht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1096,
+   "level": "B2",
+   "german": "entscheidungsprozess",
+   "english": "decision process",
+   "example": "Der Prozess ist lang.",
+   "ease": 2.5
+ },
+ {
+   "id": 1097,
+   "level": "B2",
+   "german": "ergebnissicherung",
+   "english": "result safeguarding",
+   "example": "Die Sicherung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1098,
+   "level": "B2",
+   "german": "handlungsfeld",
+   "english": "field of action",
+   "example": "Das Feld ist weit.",
+   "ease": 2.5
+ },
+ {
+   "id": 1099,
+   "level": "B2",
+   "german": "kooperationsmodell",
+   "english": "cooperation model",
+   "example": "Das Modell funktioniert.",
+   "ease": 2.5
+ },
+ {
+   "id": 1100,
+   "level": "B2",
+   "german": "nachhaltigkeitsbewertung",
+   "english": "sustainability assessment",
+   "example": "Die Bewertung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1101,
+   "level": "B2",
+   "german": "problemdefinition",
+   "english": "problem definition",
+   "example": "Die Definition ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1102,
+   "level": "B2",
+   "german": "qualitätskontrolle",
+   "english": "quality control",
+   "example": "Die Kontrolle läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1103,
+   "level": "B2",
+   "german": "steuerungsansatz",
+   "english": "control approach",
+   "example": "Der Ansatz greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1104,
+   "level": "B2",
+   "german": "umsetzungsplanung",
+   "english": "implementation planning",
+   "example": "Die Planung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1105,
+   "level": "B2",
+   "german": "verantwortungsbewusstsein",
+   "english": "sense of responsibility",
+   "example": "Das Bewusstsein fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1106,
+   "level": "B2",
+   "german": "wirkungsorientierung",
+   "english": "impact orientation",
+   "example": "Die Orientierung zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1107,
+   "level": "B2",
+   "german": "zielkonzeption",
+   "english": "goal conception",
+   "example": "Die Konzeption steht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1108,
+   "level": "B2",
+   "german": "zukunftsstrategie",
+   "english": "future strategy",
+   "example": "Die Strategie überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1109,
+   "level": "B2",
+   "german": "abschließende analyse",
+   "english": "final analysis",
+   "example": "Die Analyse folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1110,
+   "level": "B2",
+   "german": "argumentationsbasis",
+   "english": "argument basis",
+   "example": "Die Basis ist solide.",
+   "ease": 2.5
+ },
+ {
+   "id": 1111,
+   "level": "B2",
+   "german": "belastungsindikator",
+   "english": "stress indicator",
+   "example": "Der Indikator steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1112,
+   "level": "B2",
+   "german": "entscheidungsfreiheit",
+   "english": "freedom of decision",
+   "example": "Die Freiheit bleibt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1113,
+   "level": "B2",
+   "german": "ergebnisvalidierung",
+   "english": "result validation",
+   "example": "Die Validierung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1114,
+   "level": "B2",
+   "german": "handlungsoptionen",
+   "english": "action options",
+   "example": "Es gibt Optionen.",
+   "ease": 2.5
+ },
+ {
+   "id": 1115,
+   "level": "B2",
+   "german": "kooperationsstruktur",
+   "english": "cooperation structure",
+   "example": "Die Struktur hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1116,
+   "level": "B2",
+   "german": "nachhaltigkeitskonzept",
+   "english": "sustainability concept",
+   "example": "Das Konzept steht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1117,
+   "level": "B2",
+   "german": "problemkomplexität",
+   "english": "problem complexity",
+   "example": "Die Komplexität steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1118,
+   "level": "B2",
+   "german": "qualitätsverbesserung",
+   "english": "quality improvement",
+   "example": "Die Verbesserung wirkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1119,
+   "level": "B2",
+   "german": "steuerungslogik",
+   "english": "control logic",
+   "example": "Die Logik überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1120,
+   "level": "B2",
+   "german": "umsetzungsstand",
+   "english": "implementation status",
+   "example": "Der Stand ist gut.",
+   "ease": 2.5
+ },
+ {
+   "id": 1121,
+   "level": "B2",
+   "german": "verantwortungsebene",
+   "english": "level of responsibility",
+   "example": "Die Ebene ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1122,
+   "level": "B2",
+   "german": "wirkungskette",
+   "english": "impact chain",
+   "example": "Die Kette ist sichtbar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1123,
+   "level": "B2",
+   "german": "zielentwicklung",
+   "english": "goal development",
+   "example": "Die Entwicklung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1124,
+   "level": "B2",
+   "german": "zukunftsplanung",
+   "english": "future planning",
+   "example": "Die Planung beginnt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1125,
+   "level": "B2",
+   "german": "abschließende phase",
+   "english": "final phase",
+   "example": "Die Phase endet.",
+   "ease": 2.5
+ },
+ {
+   "id": 1126,
+   "level": "B2",
+   "german": "argumentationsniveau",
+   "english": "level of argumentation",
+   "example": "Das Niveau ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1127,
+   "level": "B2",
+   "german": "belastungsmanagement",
+   "english": "stress management",
+   "example": "Das Management hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1128,
+   "level": "B2",
+   "german": "entscheidungsstruktur",
+   "english": "decision structure",
+   "example": "Die Struktur ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1129,
+   "level": "B2",
+   "german": "ergebnisdarstellung",
+   "english": "result presentation",
+   "example": "Die Darstellung überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1130,
+   "level": "B2",
+   "german": "handlungspriorität",
+   "english": "action priority",
+   "example": "Die Priorität zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1131,
+   "level": "B2",
+   "german": "kooperationsbereitschaft",
+   "english": "willingness to cooperate",
+   "example": "Die Bereitschaft steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1132,
+   "level": "B2",
+   "german": "nachhaltigkeitsmaßnahme",
+   "english": "sustainability measure",
+   "example": "Die Maßnahme wirkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1133,
+   "level": "B2",
+   "german": "problemwahrnehmung",
+   "english": "problem perception",
+   "example": "Die Wahrnehmung ändert sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 1134,
+   "level": "B2",
+   "german": "qualitätsziel",
+   "english": "quality goal",
+   "example": "Das Ziel ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1135,
+   "level": "B2",
+   "german": "steuerungsprozess",
+   "english": "control process",
+   "example": "Der Prozess läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1136,
+   "level": "B2",
+   "german": "umsetzungsverantwortung",
+   "english": "implementation responsibility",
+   "example": "Die Verantwortung liegt hier.",
+   "ease": 2.5
+ },
+ {
+   "id": 1137,
+   "level": "B2",
+   "german": "verantwortungszuweisung",
+   "english": "assignment of responsibility",
+   "example": "Die Zuweisung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1138,
+   "level": "B2",
+   "german": "wirkungspotenzial",
+   "english": "impact potential",
+   "example": "Das Potenzial ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1139,
+   "level": "B2",
+   "german": "zielklarheit",
+   "english": "goal clarity",
+   "example": "Die Klarheit fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1140,
+   "level": "B2",
+   "german": "zukunftsvision",
+   "english": "future vision",
+   "example": "Die Vision überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1141,
+   "level": "B2",
+   "german": "abschließende bewertung",
+   "english": "final assessment",
+   "example": "Die Bewertung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1142,
+   "level": "B2",
+   "german": "argumentationsfähigkeit",
+   "english": "argumentative ability",
+   "example": "Die Fähigkeit ist stark.",
+   "ease": 2.5
+ },
+ {
+   "id": 1143,
+   "level": "B2",
+   "german": "belastungsfaktoren",
+   "english": "stress factors",
+   "example": "Die Faktoren steigen.",
+   "ease": 2.5
+ },
+ {
+   "id": 1144,
+   "level": "B2",
+   "german": "entscheidungsfindung",
+   "english": "decision-making",
+   "example": "Die Findung dauert.",
+   "ease": 2.5
+ },
+ {
+   "id": 1145,
+   "level": "B2",
+   "german": "ergebnissicherung",
+   "english": "result safeguarding",
+   "example": "Die Sicherung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1146,
+   "level": "B2",
+   "german": "handlungsbedarfsermittlung",
+   "english": "needs assessment",
+   "example": "Die Ermittlung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1147,
+   "level": "B2",
+   "german": "kooperationsmodell",
+   "english": "cooperation model",
+   "example": "Das Modell trägt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1148,
+   "level": "B2",
+   "german": "nachhaltigkeitsbewusstsein",
+   "english": "sustainability awareness",
+   "example": "Das Bewusstsein wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 1149,
+   "level": "B2",
+   "german": "problemidentifikation",
+   "english": "problem identification",
+   "example": "Die Identifikation gelingt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1150,
+   "level": "B2",
+   "german": "qualitätsmaßnahme",
+   "english": "quality measure",
+   "example": "Die Maßnahme greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1151,
+   "level": "B2",
+   "german": "steuerungsinstrumente",
+   "english": "control instruments",
+   "example": "Die Instrumente wirken.",
+   "ease": 2.5
+ },
+ {
+   "id": 1152,
+   "level": "B2",
+   "german": "umsetzungsstrategie",
+   "english": "implementation strategy",
+   "example": "Die Strategie steht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1153,
+   "level": "B2",
+   "german": "verantwortungsbewertung",
+   "english": "responsibility assessment",
+   "example": "Die Bewertung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1154,
+   "level": "B2",
+   "german": "wirkungsorientierung",
+   "english": "impact orientation",
+   "example": "Die Orientierung zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1155,
+   "level": "B2",
+   "german": "zielverfolgung",
+   "english": "goal pursuit",
+   "example": "Die Verfolgung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1156,
+   "level": "B2",
+   "german": "zukunftsrelevanz",
+   "english": "future relevance",
+   "example": "Die Relevanz bleibt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1157,
+   "level": "B2",
+   "german": "abschließende entscheidung",
+   "english": "final decision",
+   "example": "Die Entscheidung steht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1158,
+   "level": "B2",
+   "german": "argumentationsgrundlage",
+   "english": "argument basis",
+   "example": "Die Grundlage überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1159,
+   "level": "B2",
+   "german": "belastungsanalyse",
+   "english": "stress analysis",
+   "example": "Die Analyse folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1160,
+   "level": "B2",
+   "german": "entscheidungsoption",
+   "english": "decision option",
+   "example": "Es gibt Alternativen.",
+   "ease": 2.5
+ },
+ {
+   "id": 1161,
+   "level": "B2",
+   "german": "ergebnisdarstellung",
+   "english": "result presentation",
+   "example": "Die Darstellung ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1162,
+   "level": "B2",
+   "german": "handlungslogik",
+   "english": "logic of action",
+   "example": "Die Logik überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1163,
+   "level": "B2",
+   "german": "kooperationspotenzial",
+   "english": "cooperation potential",
+   "example": "Das Potenzial ist da.",
+   "ease": 2.5
+ },
+ {
+   "id": 1164,
+   "level": "B2",
+   "german": "nachhaltigkeitswirkung",
+   "english": "sustainability impact",
+   "example": "Die Wirkung zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1165,
+   "level": "B2",
+   "german": "problemstruktur",
+   "english": "problem structure",
+   "example": "Die Struktur ist komplex.",
+   "ease": 2.5
+ },
+ {
+   "id": 1166,
+   "level": "B2",
+   "german": "qualitätsentwicklung",
+   "english": "quality development",
+   "example": "Die Entwicklung läuft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1167,
+   "level": "B2",
+   "german": "steuerungsbedarf",
+   "english": "need for control",
+   "example": "Der Bedarf steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1168,
+   "level": "B2",
+   "german": "umsetzungsstand",
+   "english": "implementation status",
+   "example": "Der Stand ist bekannt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1169,
+   "level": "B2",
+   "german": "verantwortungsteilung",
+   "english": "sharing responsibility",
+   "example": "Die Teilung hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1170,
+   "level": "B2",
+   "german": "wirkungszusammenhang",
+   "english": "causal relation",
+   "example": "Der Zusammenhang ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1171,
+   "level": "B2",
+   "german": "zieldefinition",
+   "english": "goal definition",
+   "example": "Die Definition stimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1172,
+   "level": "B2",
+   "german": "zukunftsausrichtung",
+   "english": "future orientation",
+   "example": "Die Ausrichtung überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1173,
+   "level": "B2",
+   "german": "abschließende zusammenfassung",
+   "english": "final summary",
+   "example": "Die Zusammenfassung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1174,
+   "level": "B2",
+   "german": "argumentationskompetenz",
+   "english": "argumentative competence",
+   "example": "Die Kompetenz ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1175,
+   "level": "B2",
+   "german": "belastungsbewertung",
+   "english": "stress assessment",
+   "example": "Die Bewertung fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1176,
+   "level": "B2",
+   "german": "entscheidungsrahmen",
+   "english": "decision framework",
+   "example": "Der Rahmen ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1177,
+   "level": "B2",
+   "german": "ergebnisvalidierung",
+   "english": "result validation",
+   "example": "Die Validierung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1178,
+   "level": "B2",
+   "german": "handlungspriorisierung",
+   "english": "action prioritization",
+   "example": "Die Priorisierung hilft.",
+   "ease": 2.5
+ },
+ {
+   "id": 1179,
+   "level": "B2",
+   "german": "kooperationsfähigkeit",
+   "english": "ability to cooperate",
+   "example": "Die Fähigkeit wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 1180,
+   "level": "B2",
+   "german": "nachhaltigkeitsansatz",
+   "english": "sustainability approach",
+   "example": "Der Ansatz überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1181,
+   "level": "B2",
+   "german": "problemkontext",
+   "english": "problem context",
+   "example": "Der Kontext ist klar.",
+   "ease": 2.5
+ },
+ {
+   "id": 1182,
+   "level": "B2",
+   "german": "qualitätsprüfung",
+   "english": "quality check",
+   "example": "Die Prüfung folgt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1183,
+   "level": "B2",
+   "german": "steuerungsstruktur",
+   "english": "control structure",
+   "example": "Die Struktur steht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1184,
+   "level": "B2",
+   "german": "umsetzungsfähigkeit",
+   "english": "implementability",
+   "example": "Die Fähigkeit fehlt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1185,
+   "level": "B2",
+   "german": "verantwortungsbewusstsein",
+   "english": "sense of responsibility",
+   "example": "Das Bewusstsein wächst.",
+   "ease": 2.5
+ },
+ {
+   "id": 1186,
+   "level": "B2",
+   "german": "wirkungsgrad",
+   "english": "efficiency rate",
+   "example": "Der Grad steigt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1187,
+   "level": "B2",
+   "german": "zielkontrolle",
+   "english": "goal control",
+   "example": "Die Kontrolle greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1188,
+   "level": "B2",
+   "german": "zukunftsfähigkeit",
+   "english": "future viability",
+   "example": "Die Fähigkeit zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1189,
+   "level": "B2",
+   "german": "abschließende bewertung",
+   "english": "final evaluation",
+   "example": "Die Bewertung überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1190,
+   "level": "B2",
+   "german": "argumentationsstärke",
+   "english": "argumentative strength",
+   "example": "Die Stärke ist hoch.",
+   "ease": 2.5
+ },
+ {
+   "id": 1191,
+   "level": "B2",
+   "german": "belastungsfaktor",
+   "english": "stress factor",
+   "example": "Der Faktor wirkt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1192,
+   "level": "B2",
+   "german": "entscheidungslogik",
+   "english": "decision logic",
+   "example": "Die Logik stimmt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1193,
+   "level": "B2",
+   "german": "ergebnisqualität",
+   "english": "result quality",
+   "example": "Die Qualität überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1194,
+   "level": "B2",
+   "german": "handlungsoptionen",
+   "english": "action options",
+   "example": "Es gibt mehrere.",
+   "ease": 2.5
+ },
+ {
+   "id": 1195,
+   "level": "B2",
+   "german": "kooperationsrahmen",
+   "english": "cooperation framework",
+   "example": "Der Rahmen steht.",
+   "ease": 2.5
+ },
+ {
+   "id": 1196,
+   "level": "B2",
+   "german": "nachhaltigkeitsdimension",
+   "english": "sustainability dimension",
+   "example": "Die Dimension zählt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1197,
+   "level": "B2",
+   "german": "problemwahrnehmung",
+   "english": "problem perception",
+   "example": "Die Wahrnehmung ändert sich.",
+   "ease": 2.5
+ },
+ {
+   "id": 1198,
+   "level": "B2",
+   "german": "qualitätsziel",
+   "english": "quality goal",
+   "example": "Das Ziel überzeugt.",
+   "ease": 2.5
+ },
+ {
+   "id": 1199,
+   "level": "B2",
+   "german": "steuerungsmechanismus",
+   "english": "control mechanism",
+   "example": "Der Mechanismus greift.",
+   "ease": 2.5
+ },
+ {
+   "id": 1200,
+   "level": "B2",
+   "german": "zielorientierung",
+   "english": "goal orientation",
+   "example": "Die Orientierung ist klar.",
+   "ease": 2.5
+ }
+]
+
