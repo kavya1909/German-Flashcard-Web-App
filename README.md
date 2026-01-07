@@ -4,9 +4,8 @@
 A Python-based web application for learning German vocabulary using interactive flashcards and adaptive repetition.
 The app follows CEFR standards (A1–B2) and helps learners actively decide which words they know and which need more practice.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ✨ FEATURES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📚 CEFR-based vocabulary levels
   • A1
@@ -35,9 +34,9 @@ The app follows CEFR standards (A1–B2) and helps learners actively decide whic
 🧩 Easy to extend
   • Add audio, statistics, databases, or new levels
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🛠 TECH STACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 🐍 Backend: Python (Flask)
 🎨 Frontend: HTML, CSS, JavaScript
@@ -45,9 +44,8 @@ The app follows CEFR standards (A1–B2) and helps learners actively decide whic
 🗄 Storage: In-memory (can be extended to a database)
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚀 HOW TO RUN THE APP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 1️⃣ Clone the repository
 
@@ -72,9 +70,8 @@ python app.py
 
 http://127.0.0.1:5000
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📖 HOW TO USE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 1. Select a level (A1 / A2 / B1 / B2)
 2. A flashcard appears with a German word
@@ -85,9 +82,9 @@ http://127.0.0.1:5000
    → Right arrow → You want more practice
 6. Cards adapt automatically based on your answers
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📄 FLASHCARD DATA FORMAT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 Each flashcard contains:
 
@@ -109,9 +106,9 @@ Example:
   "ease": 2.5
 }
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📊 VOCABULARY COVERAGE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 🟢 A1 → 300 words
 🟡 A2 → 300 words
@@ -126,16 +123,13 @@ All words are:
 ✔ Provided with example sentences
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📜 LICENSE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This project is open-source and intended for educational use.
 Feel free to fork, modify, and extend it.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🙌 FINAL NOTE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 This project is suitable for:
 • Language learners
